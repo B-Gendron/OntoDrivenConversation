@@ -1,0 +1,42 @@
+{
+    "prompt": "Sure. Personnaly I did not focus on content creation because my role was to supervise content creators and make the bond between them and the customers.",
+    "generated_content": "That's a very interesting role. Being able to manage and facilitate communication between content creators and customers is a crucial part of any marketing strategy. How did you find that your background in digital marketing helped you in this role, and were there any specific challenges that you faced in terms of communication or team management?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_05052025065914",
+    "it": 4,
+    "user_utt_features": {
+        "cole": [
+            10.192307692307693
+        ],
+        "flesch_kincaid": [
+            12.172307692307694
+        ],
+        "average_word_length": [
+            4.413793103448276
+        ],
+        "mtld": [
+            26.0
+        ],
+        "smog": [
+            22.076135915942103
+        ],
+        "pronoun_density": [
+            0.10344827586206896
+        ],
+        "characteristics": [
+            "B1",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 93.70238041877747,
+        "llama_runtime": 2.763184070587158
+    }
+}

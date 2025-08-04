@@ -1,0 +1,42 @@
+{
+    "prompt": "Hello sir. Hopefully I'm on time for this interview.",
+    "generated_content": "No worries, don't worry about the time, you're right on schedule! How was your morning so far? Did you have a chance to grab a cup of coffee before coming in?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_05052025065914",
+    "it": 0,
+    "user_utt_features": {
+        "cole": [
+            2.9759999999999955
+        ],
+        "flesch_kincaid": [
+            6.420000000000002
+        ],
+        "average_word_length": [
+            3.4615384615384617
+        ],
+        "mtld": [
+            9.0
+        ],
+        "smog": [
+            13.81666964889586
+        ],
+        "pronoun_density": [
+            0.07692307692307693
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 2.4378609657287598,
+        "llama_runtime": 2.59024715423584
+    }
+}

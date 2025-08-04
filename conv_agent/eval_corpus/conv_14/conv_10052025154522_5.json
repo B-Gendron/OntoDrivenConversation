@@ -1,0 +1,41 @@
+{
+    "prompt": "It was quite a unique way of teaching: no grades, only analyzing, critical thinking and not a single prejudice.",
+    "generated_content": "It's clear that your professor had a big impact on you. The emphasis on critical thinking and analysis is really important in any field, especially in a role like bookselling where you'll be working with customers to understand their tastes and preferences. Speaking of which, let's talk about a technical aspect of bookselling. How would you handle a situation where a customer is looking for a book that's not in our inventory, but we have a similar title that they might be interested in?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "conv_10052025154522",
+    "it": 5,
+    "user_utt_features": {
+        "cole": [
+            10.185263157894738
+        ],
+        "flesch_kincaid": [
+            16.04105263157895
+        ],
+        "average_word_length": [
+            3.9166666666666665
+        ],
+        "mtld": [
+            19.0
+        ],
+        "smog": [
+            24.50423929779172
+        ],
+        "pronoun_density": [
+            0.041666666666666664
+        ],
+        "characteristics": [
+            "C2",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 67.24321389198303,
+        "llama_runtime": 7.00741720199585
+    }
+}

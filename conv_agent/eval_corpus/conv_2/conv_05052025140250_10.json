@@ -1,0 +1,43 @@
+{
+    "prompt": "Absolutely\u2014AI and automation are transforming the workplace in profound ways, sparking both excitement and concern. On one hand, they offer immense potential for improving efficiency, reducing human error, and enabling new kinds of work. On the other, they raise important questions about job displacement, the future of certain skill sets, and the ethical deployment of these technologies.",
+    "generated_content": "That's a nuanced and thoughtful perspective on the topic. It's clear you've given this a lot of consideration. As we wrap up our conversation, I want to thank you for sharing your insights and experiences with me today. You've demonstrated a strong foundation in machine learning, a willingness to think critically about complex problems, and a commitment to collaboration with domain experts. I'm impressed by your thoughtful approach to the challenges and opportunities presented by AI and automation. Do you have any final questions for me about",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "B1",
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_05052025140250",
+    "it": 10,
+    "user_utt_features": {
+        "cole": [
+            15.41448275862069
+        ],
+        "flesch_kincaid": [
+            18.194827586206895
+        ],
+        "average_word_length": [
+            4.785714285714286
+        ],
+        "mtld": [
+            58.0
+        ],
+        "smog": [
+            26.683356303267143
+        ],
+        "pronoun_density": [
+            0.02857142857142857
+        ],
+        "characteristics": [
+            "C2",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 5039.113833904266,
+        "llama_runtime": 5.552663564682007
+    }
+}

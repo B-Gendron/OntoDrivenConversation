@@ -1,0 +1,42 @@
+{
+    "prompt": "I when to school in Nancy, France, at the ENSEM ingeneering school. It is really foscused on mechanical engineering. After that, I worked on many different things from designing and seting up manufacturing tools, to working in electical motors in predictive maintenance. ",
+    "generated_content": "That's impressive! The ENSEM school is well-regarded in the engineering community. It's great that you have a strong foundation in mechanical engineering. Can you tell me more about your experience with designing and setting up manufacturing tools? What kind of projects did you work on, and what was your role in those projects?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_07052025121613",
+    "it": 4,
+    "user_utt_features": {
+        "cole": [
+            13.165714285714284
+        ],
+        "flesch_kincaid": [
+            14.312857142857148
+        ],
+        "average_word_length": [
+            4.6
+        ],
+        "mtld": [
+            42.0
+        ],
+        "smog": [
+            20.890749979661237
+        ],
+        "pronoun_density": [
+            0.08
+        ],
+        "characteristics": [
+            "B2",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 46.096463441848755,
+        "llama_runtime": 3.9050393104553223
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "prompt": "Yes. The main technique I developped and employed was mindfullness. It help the patients a lot, no matter their illness or background.",
+    "generated_content": "I've heard about mindfulness being a powerful tool in therapy. Can you walk me through a specific mindfulness exercise you would use with a patient, and how you would adapt it to meet their individual needs? For example, how would you modify the exercise for a patient with anxiety or one with a traumatic experience?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "conv_06052025124144",
+    "it": 5,
+    "user_utt_features": {
+        "cole": [
+            9.296363636363633
+        ],
+        "flesch_kincaid": [
+            9.79727272727273
+        ],
+        "average_word_length": [
+            4.222222222222222
+        ],
+        "mtld": [
+            22.0
+        ],
+        "smog": [
+            16.728156217252725
+        ],
+        "pronoun_density": [
+            0.1111111111111111
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 111.25624680519104,
+        "llama_runtime": 3.346909761428833
+    }
+}

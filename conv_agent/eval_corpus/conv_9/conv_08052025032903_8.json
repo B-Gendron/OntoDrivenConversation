@@ -1,0 +1,42 @@
+{
+    "prompt": "If a mokey is agressive or self mutilating, the only solution anyway is to make sure they are not dangerous to others. SO it all depends on whether or not I have direct access to the tranquilizer dart gun. If I don't, I have no other choice than to wait for someone who does.",
+    "generated_content": "It sounds like you're prioritizing the safety of both the monkey and the other animals in the exhibit. Having a tranquilizer dart gun can be a useful tool in situations like this, but I can see that you're also aware of the importance of waiting for backup if you don't have access to it. However, I'd like to challenge you on this a bit. Some critics of zoos argue that tranquilizing an animal can be a form of punishment or a way to control behavior, rather",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "negative",
+        "non_loaded"
+    ],
+    "id": "conv_08052025032903",
+    "it": 8,
+    "user_utt_features": {
+        "cole": [
+            5.78472727272727
+        ],
+        "flesch_kincaid": [
+            11.941818181818181
+        ],
+        "average_word_length": [
+            3.6557377049180326
+        ],
+        "mtld": [
+            54.0
+        ],
+        "smog": [
+            22.918633597333717
+        ],
+        "pronoun_density": [
+            0.13114754098360656
+        ],
+        "characteristics": [
+            "B1",
+            "loaded",
+            "negative"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 341.0397152900696,
+        "llama_runtime": 4.983626127243042
+    }
+}

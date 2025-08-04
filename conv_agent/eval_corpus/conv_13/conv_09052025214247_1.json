@@ -1,0 +1,42 @@
+{
+    "prompt": "What? I am here by your order Sir! Please tell me what you expect out of me in this military station.",
+    "generated_content": "Oh, I think there's been a misunderstanding! This isn't a military station, and I'm not a commanding officer. I'm actually a conversational AI here to help you prepare for a job interview. Don't worry, we're just getting started, and we'll get to the important stuff soon. Let's take a deep breath and relax. How about we start fresh? What do you like to do in your free time?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_09052025214247",
+    "it": 1,
+    "user_utt_features": {
+        "cole": [
+            1.8114285714285714
+        ],
+        "flesch_kincaid": [
+            7.368571428571428
+        ],
+        "average_word_length": [
+            3.28
+        ],
+        "mtld": [
+            21.0
+        ],
+        "smog": [
+            15.470042427545799
+        ],
+        "pronoun_density": [
+            0.28
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "negative"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 2.011713981628418,
+        "llama_runtime": 5.643046855926514
+    }
+}

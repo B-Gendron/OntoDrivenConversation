@@ -1,0 +1,41 @@
+{
+    "prompt": "I have real experience and I know how to adapt quickly to many different contexts and technical stacks. Also, if your company has a home-made framework, I can learn it quite fast.",
+    "generated_content": "Let's dive into the technical aspects of adapting to different frameworks and stacks. You mentioned earlier that you worked on a project using Electron. How do you handle debugging and optimizing the performance of a cross-platform desktop application built with Electron, especially when dealing with complex UI components?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "conv_10052025184815",
+    "it": 5,
+    "user_utt_features": {
+        "cole": [
+            7.886060606060603
+        ],
+        "flesch_kincaid": [
+            12.299545454545456
+        ],
+        "average_word_length": [
+            3.8205128205128207
+        ],
+        "mtld": [
+            33.0
+        ],
+        "smog": [
+            23.326708150471678
+        ],
+        "pronoun_density": [
+            0.1282051282051282
+        ],
+        "characteristics": [
+            "B1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 50.4317147731781,
+        "llama_runtime": 4.248842000961304
+    }
+}

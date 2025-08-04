@@ -1,0 +1,42 @@
+{
+    "prompt": "Yes. I hold a master's degree in physchology. I did two interships in hospital dealing with patients with various mental illnesses.",
+    "generated_content": "That's impressive, a master's degree in psychology is a significant achievement. Can you tell me more about your experience working with patients in the hospital setting? What specific areas of psychology are you most interested in, and how did your internships shape your career goals?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_06052025124144",
+    "it": 3,
+    "user_utt_features": {
+        "cole": [
+            9.029090909090911
+        ],
+        "flesch_kincaid": [
+            9.79727272727273
+        ],
+        "average_word_length": [
+            4.3076923076923075
+        ],
+        "mtld": [
+            21.0
+        ],
+        "smog": [
+            16.32212239822248
+        ],
+        "pronoun_density": [
+            0.07692307692307693
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 32.86965322494507,
+        "llama_runtime": 2.9099862575531006
+    }
+}

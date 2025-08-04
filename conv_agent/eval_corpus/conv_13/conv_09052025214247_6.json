@@ -1,0 +1,41 @@
+{
+    "prompt": "I think I would try to find a solution that puts my team in danger. The mission is the priority, our lifes do not matter as soldiers.",
+    "generated_content": "I'm concerned by your response. In a military context, the safety of your team is a top priority. As a leader, you would be responsible for making decisions that put the lives of your team members at risk, and that's not an acceptable approach. In this simulated interview, I'm looking for you to demonstrate your ability to think critically and make decisions that balance the mission objectives with the safety of your team.\n\nLet me try to rephrase the question. Imagine you're part of a special",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "conv_09052025214247",
+    "it": 6,
+    "user_utt_features": {
+        "cole": [
+            4.6562962962962935
+        ],
+        "flesch_kincaid": [
+            8.467592592592595
+        ],
+        "average_word_length": [
+            3.4838709677419355
+        ],
+        "mtld": [
+            27.0
+        ],
+        "smog": [
+            20.267338824336647
+        ],
+        "pronoun_density": [
+            0.16129032258064516
+        ],
+        "characteristics": [
+            "A2",
+            "loaded",
+            "negative"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 143.8641438484192,
+        "llama_runtime": 8.096463918685913
+    }
+}

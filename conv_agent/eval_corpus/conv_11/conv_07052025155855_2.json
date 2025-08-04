@@ -1,0 +1,42 @@
+{
+    "prompt": "No, I only work. Every day without any rest. I am very productive and always available to work more.",
+    "generated_content": "That's impressive dedication to your work! It's great that you're able to stay productive and motivated. Can you tell me a bit about your background? What do you do, and what kind of experience do you have in your field?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_07052025155855",
+    "it": 2,
+    "user_utt_features": {
+        "cole": [
+            3.6652631578947386
+        ],
+        "flesch_kincaid": [
+            9.858947368421052
+        ],
+        "average_word_length": [
+            3.4583333333333335
+        ],
+        "mtld": [
+            19.0
+        ],
+        "smog": [
+            15.470042427545799
+        ],
+        "pronoun_density": [
+            0.08333333333333333
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 3.699676990509033,
+        "llama_runtime": 3.473935127258301
+    }
+}

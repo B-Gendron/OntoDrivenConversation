@@ -1,0 +1,42 @@
+{
+    "prompt": "Hello Sir! I am here for the job interview Sir!",
+    "generated_content": "Ah, great to meet you! Congratulations on taking the first step. I'm excited to get to know you better. How's your day been so far? Anything exciting happen recently?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_09052025214247",
+    "it": 0,
+    "user_utt_features": {
+        "cole": [
+            -0.5520000000000014
+        ],
+        "flesch_kincaid": [
+            4.060000000000002
+        ],
+        "average_word_length": [
+            3.0
+        ],
+        "mtld": [
+            10.0
+        ],
+        "smog": [
+            14.554592549557764
+        ],
+        "pronoun_density": [
+            0.07692307692307693
+        ],
+        "characteristics": [
+            "A1",
+            "positive",
+            "non_loaded"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 1.535905122756958,
+        "llama_runtime": 8.63783597946167
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "prompt": "But what if I already tried to connect and it failed? Should I just receive all the violence personnally without seeking for help?",
+    "generated_content": "I see your point, and I'm not suggesting that you should put yourself in harm's way. However, it's also worth considering that by calling for security, you're not necessarily dismissing the customer's concerns, but rather, you're acknowledging that the situation has escalated beyond your ability to manage it safely and effectively.\n\nLet's move on to a more general question. What do you think is the most important thing you've learned from your experience working in customer-facing roles, and how do you think",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_07052025155855",
+    "it": 10,
+    "user_utt_features": {
+        "cole": [
+            8.725217391304348
+        ],
+        "flesch_kincaid": [
+            11.468913043478263
+        ],
+        "average_word_length": [
+            4.1923076923076925
+        ],
+        "mtld": [
+            23.0
+        ],
+        "smog": [
+            20.267338824336647
+        ],
+        "pronoun_density": [
+            0.15384615384615385
+        ],
+        "characteristics": [
+            "B1",
+            "loaded",
+            "negative"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 512.7761719226837,
+        "llama_runtime": 9.95719599723816
+    }
+}

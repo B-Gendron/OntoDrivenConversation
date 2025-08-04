@@ -1,0 +1,42 @@
+{
+    "prompt": "Ok, how much will you pay for the job? And what do you expect out of me?",
+    "generated_content": "I'm afraid we're not discussing salary or job expectations at this point. We've reached the conclusion of our interview.",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_07052025155855",
+    "it": 11,
+    "user_utt_features": {
+        "cole": [
+            -0.9505882352941182
+        ],
+        "flesch_kincaid": [
+            4.383823529411767
+        ],
+        "average_word_length": [
+            2.7142857142857144
+        ],
+        "mtld": [
+            17.0
+        ],
+        "smog": [
+            17.693802365651003
+        ],
+        "pronoun_density": [
+            0.19047619047619047
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 221.92019486427307,
+        "llama_runtime": 4.256641149520874
+    }
+}

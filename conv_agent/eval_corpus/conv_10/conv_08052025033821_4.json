@@ -1,0 +1,42 @@
+{
+    "prompt": "I was mostly a teaching assistant, so I would help with the class and occasionally take over. The interaction with the children is of course always the most interestn thing. Seeing how they develop and start thinking differently in such a short tie is fascinating.",
+    "generated_content": "It's great that you had hands-on experience as a teaching assistant. Working with children can be incredibly rewarding, and it's wonderful that you found it fascinating. Can you tell me more about what you learned from those experiences? Were there any particular challenges you faced, or any moments that stood out to you as particularly memorable?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_08052025033821",
+    "it": 4,
+    "user_utt_features": {
+        "cole": [
+            10.450666666666667
+        ],
+        "flesch_kincaid": [
+            11.762222222222224
+        ],
+        "average_word_length": [
+            4.42
+        ],
+        "mtld": [
+            45.0
+        ],
+        "smog": [
+            22.918633597333717
+        ],
+        "pronoun_density": [
+            0.06
+        ],
+        "characteristics": [
+            "B1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 31.604047536849976,
+        "llama_runtime": 3.295572280883789
+    }
+}

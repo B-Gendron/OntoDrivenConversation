@@ -1,0 +1,1724 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/user/ontologies/2023/10/utterances/"
+     xml:base="http://www.semanticweb.org/user/ontologies/2023/10/utterances/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:swrl="http://www.w3.org/2003/11/swrl#"
+     xmlns:swrla="http://swrl.stanford.edu/ontologies/3.3/swrla.owl#"
+     xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
+     xmlns:utterances="http://www.semanticweb.org/user/ontologies/2023/10/utterances#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled -->
+
+    <owl:AnnotationProperty rdf:about="http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#CEFRLevel"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#nextCEFRlevel -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#nextCEFRlevel">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#CEFRLevel"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#fullText -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#fullText">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasAverageWordLength -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasAverageWordLength">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRindexFullText -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRindexFullText">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasColeReadabilityScore -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasColeReadabilityScore">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasMTLDmeasure -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasMTLDmeasure">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasPronounDensity -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasPronounDensity">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasSMOGReadabilityScore -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasSMOGReadabilityScore">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#nextCEFRlevelIndex -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#nextCEFRlevelIndex">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#A1LevelConversation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#A1LevelConversation">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+                    <owl:Class>
+                        <owl:complementOf>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                                <owl:someValuesFrom>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                                        <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#A2_level"/>
+                                    </owl:Restriction>
+                                </owl:someValuesFrom>
+                            </owl:Restriction>
+                        </owl:complementOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:complementOf>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                                <owl:someValuesFrom>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                                        <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#B1_level"/>
+                                    </owl:Restriction>
+                                </owl:someValuesFrom>
+                            </owl:Restriction>
+                        </owl:complementOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:complementOf>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                                <owl:someValuesFrom>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                                        <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#B2_level"/>
+                                    </owl:Restriction>
+                                </owl:someValuesFrom>
+                            </owl:Restriction>
+                        </owl:complementOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:complementOf>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                                <owl:someValuesFrom>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                                        <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C1_level"/>
+                                    </owl:Restriction>
+                                </owl:someValuesFrom>
+                            </owl:Restriction>
+                        </owl:complementOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:complementOf>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                                <owl:someValuesFrom>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                                        <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C2_level"/>
+                                    </owl:Restriction>
+                                </owl:someValuesFrom>
+                            </owl:Restriction>
+                        </owl:complementOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                        <owl:someValuesFrom>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                                <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#A1_level"/>
+                            </owl:Restriction>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#nextCEFRlevelIndex"/>
+                        <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#A1LevelUtterance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#A1LevelUtterance">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasAverageWordLength"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.1237353086471558</xsd:maxInclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">10.070815563201904</xsd:maxInclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasMTLDmeasure"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">61.75</xsd:minExclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasSMOGReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">18.54409408569336</xsd:maxInclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">10.070815563201904</xsd:maxInclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasMTLDmeasure"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">61.75</xsd:maxInclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasSMOGReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">18.54409408569336</xsd:maxInclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                        <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#A1_level"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRindexFullText"/>
+                        <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#A2LevelConversation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#A2LevelConversation">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+                    <owl:Class>
+                        <owl:complementOf>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                                <owl:someValuesFrom>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                                        <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#B1_level"/>
+                                    </owl:Restriction>
+                                </owl:someValuesFrom>
+                            </owl:Restriction>
+                        </owl:complementOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:complementOf>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                                <owl:someValuesFrom>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                                        <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#B2_level"/>
+                                    </owl:Restriction>
+                                </owl:someValuesFrom>
+                            </owl:Restriction>
+                        </owl:complementOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:complementOf>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                                <owl:someValuesFrom>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                                        <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C1_level"/>
+                                    </owl:Restriction>
+                                </owl:someValuesFrom>
+                            </owl:Restriction>
+                        </owl:complementOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:complementOf>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                                <owl:someValuesFrom>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                                        <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C2_level"/>
+                                    </owl:Restriction>
+                                </owl:someValuesFrom>
+                            </owl:Restriction>
+                        </owl:complementOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                        <owl:someValuesFrom>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                                <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#A2_level"/>
+                            </owl:Restriction>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#nextCEFRlevelIndex"/>
+                        <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#A2LevelUtterance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#A2LevelUtterance">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasAverageWordLength"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.1237353086471558</xsd:minExclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">10.070815563201904</xsd:maxInclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasMTLDmeasure"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">61.75</xsd:minExclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasSMOGReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">18.54409408569336</xsd:maxInclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">10.070815563201904</xsd:maxInclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasSMOGReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">18.54409408569336</xsd:minExclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                        <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#A2_level"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRindexFullText"/>
+                        <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#ALevelUtterance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#ALevelUtterance">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#A1LevelUtterance"/>
+                            <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#A2LevelUtterance"/>
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#B1LevelConversation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#B1LevelConversation">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+                    <owl:Class>
+                        <owl:complementOf>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                                <owl:someValuesFrom>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                                        <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#B2_level"/>
+                                    </owl:Restriction>
+                                </owl:someValuesFrom>
+                            </owl:Restriction>
+                        </owl:complementOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:complementOf>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                                <owl:someValuesFrom>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                                        <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C1_level"/>
+                                    </owl:Restriction>
+                                </owl:someValuesFrom>
+                            </owl:Restriction>
+                        </owl:complementOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:complementOf>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                                <owl:someValuesFrom>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                                        <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C2_level"/>
+                                    </owl:Restriction>
+                                </owl:someValuesFrom>
+                            </owl:Restriction>
+                        </owl:complementOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                        <owl:someValuesFrom>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                                <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#B1_level"/>
+                            </owl:Restriction>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#nextCEFRlevelIndex"/>
+                        <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#B1LevelUtterance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#B1LevelUtterance">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">10.070815563201904</xsd:minExclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">11.358574390411377</xsd:maxInclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">11.358574390411377</xsd:minExclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">13.10405158996582</xsd:maxInclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasMTLDmeasure"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">223.0</xsd:maxInclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                        <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#B1_level"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRindexFullText"/>
+                        <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#B2LevelConversation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#B2LevelConversation">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+                    <owl:Class>
+                        <owl:complementOf>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                                <owl:someValuesFrom>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                                        <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C1_level"/>
+                                    </owl:Restriction>
+                                </owl:someValuesFrom>
+                            </owl:Restriction>
+                        </owl:complementOf>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:complementOf>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                                <owl:someValuesFrom>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                                        <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C2_level"/>
+                                    </owl:Restriction>
+                                </owl:someValuesFrom>
+                            </owl:Restriction>
+                        </owl:complementOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                        <owl:someValuesFrom>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                                <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#B2_level"/>
+                            </owl:Restriction>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#nextCEFRlevelIndex"/>
+                        <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#B2LevelUtterance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#B2LevelUtterance">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">11.358574390411377</xsd:minExclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">13.10405158996582</xsd:maxInclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasMTLDmeasure"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">223.0</xsd:minExclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">13.10405158996582</xsd:minExclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">14.32880687713623</xsd:maxInclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasMTLDmeasure"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">370.25</xsd:maxInclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                        <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#B2_level"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRindexFullText"/>
+                        <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#BLevelUtterance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#BLevelUtterance">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#B1LevelUtterance"/>
+                            <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#B2LevelUtterance"/>
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#C1LevelConversation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C1LevelConversation">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+                    <owl:Class>
+                        <owl:complementOf>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                                <owl:someValuesFrom>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                                        <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C2_level"/>
+                                    </owl:Restriction>
+                                </owl:someValuesFrom>
+                            </owl:Restriction>
+                        </owl:complementOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                        <owl:someValuesFrom>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                                <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C1_level"/>
+                            </owl:Restriction>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#nextCEFRlevelIndex"/>
+                        <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#C1LevelUtterance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C1LevelUtterance">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">13.10405158996582</xsd:minExclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">15.566556453704834</xsd:maxInclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasMTLDmeasure"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">370.25</xsd:minExclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">14.32880687713623</xsd:minExclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">15.566556453704834</xsd:maxInclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasMTLDmeasure"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">370.25</xsd:maxInclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">15.566556453704834</xsd:minExclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">18.41344165802002</xsd:maxInclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasPronounDensity"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.04965861700475216</xsd:minExclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                        <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C1_level"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRindexFullText"/>
+                        <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#C2LevelConversation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C2LevelConversation">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                        <owl:someValuesFrom>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                                <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C2_level"/>
+                            </owl:Restriction>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#nextCEFRlevelIndex"/>
+                        <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#C2LevelUtterance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C2LevelUtterance">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">15.566556453704834</xsd:minExclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">18.41344165802002</xsd:maxInclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasPronounDensity"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.04965861700475216</xsd:maxInclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasFleschKincaidReadabilityScore"/>
+                                <owl:someValuesFrom>
+                                    <rdfs:Datatype>
+                                        <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                        <owl:withRestrictions rdf:parseType="Collection">
+                                            <rdf:Description>
+                                                <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">18.41344165802002</xsd:minExclusive>
+                                            </rdf:Description>
+                                        </owl:withRestrictions>
+                                    </rdfs:Datatype>
+                                </owl:someValuesFrom>
+                            </owl:Restriction>
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRlevel"/>
+                        <owl:hasValue rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C2_level"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#hasCEFRindexFullText"/>
+                        <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</owl:hasValue>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#CEFRLevel -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#CEFRLevel"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#CLevelUtterance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#CLevelUtterance">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C1LevelUtterance"/>
+                            <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C2LevelUtterance"/>
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance">
+        <rdfs:comment>The full string of the utterance.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#A1_level -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#A1_level">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#CEFRLevel"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#A2_level -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#A2_level">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#CEFRLevel"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#B1_level -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#B1_level">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#CEFRLevel"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#B2_level -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#B2_level">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#CEFRLevel"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#C1_level -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C1_level">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#CEFRLevel"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#C2_level -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C2_level">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#CEFRLevel"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#0_1_conv -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#0_1_conv">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+        <utterances:containsUtterance rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#1_utt"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#0_2_conv -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#0_2_conv">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+            </owl:Restriction>
+        </rdf:type>
+        <utterances:containsUtterance rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#2_utt"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#0_3_conv -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#0_3_conv">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+            </owl:Restriction>
+        </rdf:type>
+        <utterances:containsUtterance rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#3_utt"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#0_4_conv -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#0_4_conv">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+            </owl:Restriction>
+        </rdf:type>
+        <utterances:containsUtterance rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#4_utt"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#0_5_conv -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#0_5_conv">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+            </owl:Restriction>
+        </rdf:type>
+        <utterances:containsUtterance rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#5_utt"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#1_utt -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#1_utt">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+        <owl:differentFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#2_utt"/>
+        <owl:differentFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#3_utt"/>
+        <owl:differentFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#4_utt"/>
+        <owl:differentFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#5_utt"/>
+        <utterances:fullText>I find myself in a state of considerable equanimity, navigating the vicissitudes of existence with a sanguine disposition.</utterances:fullText>
+        <utterances:hasAverageWordLength rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.25</utterances:hasAverageWordLength>
+        <utterances:hasColeReadabilityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">16.2022222222222</utterances:hasColeReadabilityScore>
+        <utterances:hasFleschKincaidReadabilityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">21.5855555555555</utterances:hasFleschKincaidReadabilityScore>
+        <utterances:hasMTLDmeasure rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">18.0</utterances:hasMTLDmeasure>
+        <utterances:hasPronounDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.1</utterances:hasPronounDensity>
+        <utterances:hasSMOGReadabilityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">22.918633</utterances:hasSMOGReadabilityScore>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#2_0_conv -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#2_0_conv">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+        <utterances:containsUtterance rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#2_utt"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#2_1_conv -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#2_1_conv">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+        <utterances:containsUtterance rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#1_utt"/>
+        <utterances:containsUtterance rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#2_utt"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#2_3_conv -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#2_3_conv">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#containsUtterance"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+            </owl:Restriction>
+        </rdf:type>
+        <utterances:containsUtterance rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#2_utt"/>
+        <utterances:containsUtterance rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#3_utt"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#2_4_conv -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#2_4_conv">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+        <utterances:containsUtterance rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#2_utt"/>
+        <utterances:containsUtterance rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#4_utt"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#2_5_conv -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#2_5_conv">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Conversation"/>
+        <utterances:containsUtterance rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#2_utt"/>
+        <utterances:containsUtterance rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#5_utt"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#2_utt -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#2_utt">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+        <owl:differentFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#3_utt"/>
+        <owl:differentFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#4_utt"/>
+        <owl:differentFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#5_utt"/>
+        <utterances:fullText>Indeed, I had a really enjoyable day, and I&apos;m quite thankful for it, but now I could use a bit of rest.</utterances:fullText>
+        <utterances:hasAverageWordLength rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.037037037037037</utterances:hasAverageWordLength>
+        <utterances:hasColeReadabilityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2.853913043478258</utterances:hasColeReadabilityScore>
+        <utterances:hasFleschKincaidReadabilityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">11.849565217391305</utterances:hasFleschKincaidReadabilityScore>
+        <utterances:hasMTLDmeasure rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">22.0</utterances:hasMTLDmeasure>
+        <utterances:hasPronounDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.14814814814814814</utterances:hasPronounDensity>
+        <utterances:hasSMOGReadabilityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">25.254471183327073</utterances:hasSMOGReadabilityScore>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#3_utt -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#3_utt">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+        <owl:differentFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#4_utt"/>
+        <owl:differentFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#5_utt"/>
+        <utterances:fullText>Andrew got down on his hands and knees. He put a dry sponge into the bucket. The bucket was full of soapy water. He squeezed the sponge. He scrubbed the kitchen floor. There were marks on the floor. There were spots on the floor. There was old food on the floor. He scrubbed the floor clean. Then he took the bucket into the bathroom. He poured the soapy water into the tub. The water went down the drain. He turned on the shower. He rinsed the tub. He turned the bucket over so it would dry. He washed his hands.</utterances:fullText>
+        <utterances:hasAverageWordLength rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5689655172413794</utterances:hasAverageWordLength>
+        <utterances:hasColeReadabilityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2.8663999999999987</utterances:hasColeReadabilityScore>
+        <utterances:hasFleschKincaidReadabilityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.429500000000001</utterances:hasFleschKincaidReadabilityScore>
+        <utterances:hasMTLDmeasure rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">100.0</utterances:hasMTLDmeasure>
+        <utterances:hasPronounDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.13793103448275862</utterances:hasPronounDensity>
+        <utterances:hasSMOGReadabilityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">15.982779118252484</utterances:hasSMOGReadabilityScore>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#4_utt -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#4_utt">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+        <owl:differentFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#5_utt"/>
+        <utterances:fullText>Even though we faced several challenges during the project, we were able to meet all the deadlines and deliver great results, which the client really appreciated.</utterances:fullText>
+        <utterances:hasAverageWordLength rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.724137931034483</utterances:hasAverageWordLength>
+        <utterances:hasColeReadabilityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">13.36615384615385</utterances:hasColeReadabilityScore>
+        <utterances:hasFleschKincaidReadabilityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">18.150000000000002</utterances:hasFleschKincaidReadabilityScore>
+        <utterances:hasMTLDmeasure rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">26.0</utterances:hasMTLDmeasure>
+        <utterances:hasPronounDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.10344827586206896</utterances:hasPronounDensity>
+        <utterances:hasSMOGReadabilityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">30.526468669271875</utterances:hasSMOGReadabilityScore>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/10/utterances#5_utt -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#5_utt">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/10/utterances#Utterance"/>
+        <utterances:fullText>After practicing for a few weeks, I began to feel more comfortable speaking in front of others, but I still get a bit nervous at times.</utterances:fullText>
+        <utterances:hasAverageWordLength rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.793103448275862</utterances:hasAverageWordLength>
+        <utterances:hasColeReadabilityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">7.2599999999999945</utterances:hasColeReadabilityScore>
+        <utterances:hasFleschKincaidReadabilityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">13.611538461538462</utterances:hasFleschKincaidReadabilityScore>
+        <utterances:hasMTLDmeasure rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">26.0</utterances:hasMTLDmeasure>
+        <utterances:hasPronounDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.06896551724137931</utterances:hasPronounDensity>
+        <utterances:hasSMOGReadabilityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">27.366229780566012</utterances:hasSMOGReadabilityScore>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDifferent"/>
+        <owl:distinctMembers rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#A1_level"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#A2_level"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#B1_level"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#B2_level"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C1_level"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2023/10/utterances#C2_level"/>
+        </owl:distinctMembers>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.25.2023-02-15T19:15:49Z) https://github.com/owlcs/owlapi -->
+

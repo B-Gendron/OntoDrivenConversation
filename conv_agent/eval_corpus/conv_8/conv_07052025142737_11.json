@@ -1,0 +1,42 @@
+{
+    "prompt": "      I think things will get better as the technology gets more standardised and we get more used to working with it. ",
+    "generated_content": "I think that's a fair point. Standardization and familiarity can make a big difference in the adoption of new technologies. It's good that you're thinking about the future and how it might impact your work. As we wrap up this conversation, I want to thank you for sharing your insights and experiences with me today. You've given me a lot to think about, and I appreciate your candor. Do you have any final questions for me before we conclude?",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_07052025142737",
+    "it": 11,
+    "user_utt_features": {
+        "cole": [
+            8.270476190476188
+        ],
+        "flesch_kincaid": [
+            10.580952380952379
+        ],
+        "average_word_length": [
+            4.125
+        ],
+        "mtld": [
+            21.0
+        ],
+        "smog": [
+            25.98008509911553
+        ],
+        "pronoun_density": [
+            0.125
+        ],
+        "characteristics": [
+            "B1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 701.5398559570312,
+        "llama_runtime": 4.726158857345581
+    }
+}

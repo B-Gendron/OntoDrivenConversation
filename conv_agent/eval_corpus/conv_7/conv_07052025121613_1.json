@@ -1,0 +1,42 @@
+{
+    "prompt": "Happy that I managed to be here. A bit nervous though. How about you?",
+    "generated_content": "I'm doing great, thanks for asking! It's always exciting to meet new people. I have to say, this building is really beautiful. Have you been here before?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_07052025121613",
+    "it": 1,
+    "user_utt_features": {
+        "cole": [
+            0.11714285714285566
+        ],
+        "flesch_kincaid": [
+            7.301428571428573
+        ],
+        "average_word_length": [
+            3.1666666666666665
+        ],
+        "mtld": [
+            14.0
+        ],
+        "smog": [
+            13.5591
+        ],
+        "pronoun_density": [
+            0.1111111111111111
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 2.6915931701660156,
+        "llama_runtime": 1.7460289001464844
+    }
+}

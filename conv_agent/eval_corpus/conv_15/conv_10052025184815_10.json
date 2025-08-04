@@ -1,0 +1,42 @@
+{
+    "prompt": "Well, if the company possesses such a large codebase, they should have engineers maintaining it. Do you want me to maintain your codebase? Can we discuss the salary please?",
+    "generated_content": "We've reached the end of the interview. Thank you for coming in today! It was great speaking with you. As for your question about salary, I'd like to discuss that with our HR team. They'll be in touch with you shortly to discuss compensation and next steps.\n\nBefore we go, is there anything else you'd like to ask or discuss?",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_10052025184815",
+    "it": 10,
+    "user_utt_features": {
+        "cole": [
+            9.321379310344827
+        ],
+        "flesch_kincaid": [
+            13.40758620689655
+        ],
+        "average_word_length": [
+            4.142857142857143
+        ],
+        "mtld": [
+            29.0
+        ],
+        "smog": [
+            18.599290044081553
+        ],
+        "pronoun_density": [
+            0.17142857142857143
+        ],
+        "characteristics": [
+            "B2",
+            "loaded",
+            "negative"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 610.4120843410492,
+        "llama_runtime": 7.336027145385742
+    }
+}

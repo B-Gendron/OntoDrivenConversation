@@ -1,0 +1,41 @@
+{
+    "prompt": "Sure. The main focus was on preprocessing. I tried to have same format vectorial representation so it is modular and I can virtually plug them into any model. ",
+    "generated_content": "That's a great approach. It sounds like you were able to standardize the data preprocessing step, making it easier to swap out different models. Can you tell me more about how you handled the vectorial representation? For example, did you use a specific library or technique to convert the data into a format that could be used by both classical and deep learning models?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "conv_05052025141608",
+    "it": 5,
+    "user_utt_features": {
+        "cole": [
+            7.908571428571424
+        ],
+        "flesch_kincaid": [
+            10.80714285714286
+        ],
+        "average_word_length": [
+            4.125
+        ],
+        "mtld": [
+            28.0
+        ],
+        "smog": [
+            18.243605946275583
+        ],
+        "pronoun_density": [
+            0.125
+        ],
+        "characteristics": [
+            "B1",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 387.4846942424774,
+        "llama_runtime": 3.972531318664551
+    }
+}

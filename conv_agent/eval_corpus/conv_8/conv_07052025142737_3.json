@@ -1,0 +1,42 @@
+{
+    "prompt": "I'm a plumber by trade. I have been working in tplumbing since I started an apprentership with the plumber in my town at 14. I have been working as an independent plumber, but it is a complicated job and I think it makes more sense to join a large organisation.",
+    "generated_content": "That's impressive that you started your apprenticeship at such a young age. How did you find the experience of working with the plumber in your town, and what skills did you gain during that time that you think have been valuable in your career as an independent plumber?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_07052025142737",
+    "it": 3,
+    "user_utt_features": {
+        "cole": [
+            6.439999999999998
+        ],
+        "flesch_kincaid": [
+            9.781176470588235
+        ],
+        "average_word_length": [
+            3.8035714285714284
+        ],
+        "mtld": [
+            49.0
+        ],
+        "smog": [
+            20.890749979661237
+        ],
+        "pronoun_density": [
+            0.14285714285714285
+        ],
+        "characteristics": [
+            "A2",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 24.91545867919922,
+        "llama_runtime": 2.6592583656311035
+    }
+}

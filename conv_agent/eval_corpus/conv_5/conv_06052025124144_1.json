@@ -1,0 +1,42 @@
+{
+    "prompt": "Fine. I mostly got prepared for the interview.",
+    "generated_content": "That's great to hear! Preparation is key. Did you have a good breakfast before coming here?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_06052025124144",
+    "it": 1,
+    "user_utt_features": {
+        "cole": [
+            3.995000000000001
+        ],
+        "flesch_kincaid": [
+            8.094999999999999
+        ],
+        "average_word_length": [
+            3.6363636363636362
+        ],
+        "mtld": [
+            8.0
+        ],
+        "smog": [
+            13.81666964889586
+        ],
+        "pronoun_density": [
+            0.09090909090909091
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 3.48213267326355,
+        "llama_runtime": 0.9450502395629883
+    }
+}

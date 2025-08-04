@@ -1,0 +1,42 @@
+{
+    "prompt": "What is the job about exactly?",
+    "generated_content": "Well, I think we've covered a lot of ground today. To be honest, I was looking for someone with more technical skills for this particular position. But I want to thank you for your interest in the role and for being open about your strengths and weaknesses. I think you have a lot of potential, and I'd like to offer you a chance to participate in our training program. We can help you develop the skills you need to succeed in this field. Would you be interested in that?",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_09052025084355",
+    "it": 11,
+    "user_utt_features": {
+        "cole": [
+            2.7866666666666653
+        ],
+        "flesch_kincaid": [
+            6.416666666666668
+        ],
+        "average_word_length": [
+            3.25
+        ],
+        "mtld": [
+            6.0
+        ],
+        "smog": [
+            15.903189008614273
+        ],
+        "pronoun_density": [
+            0.125
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 1446.4611990451813,
+        "llama_runtime": 9.735082149505615
+    }
+}

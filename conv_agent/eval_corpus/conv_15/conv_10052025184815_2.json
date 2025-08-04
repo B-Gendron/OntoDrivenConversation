@@ -1,0 +1,42 @@
+{
+    "prompt": "Yeah it was ok. But are you looking for a junior or a senior dev?",
+    "generated_content": "I'm not sure what to expect from your background, could you tell me a bit about yourself and your professional experience? What kind of projects have you worked on in the past?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_10052025184815",
+    "it": 2,
+    "user_utt_features": {
+        "cole": [
+            -0.538666666666666
+        ],
+        "flesch_kincaid": [
+            7.7883333333333375
+        ],
+        "average_word_length": [
+            2.888888888888889
+        ],
+        "mtld": [
+            15.0
+        ],
+        "smog": [
+            15.903189008614273
+        ],
+        "pronoun_density": [
+            0.1111111111111111
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 10.606732845306396,
+        "llama_runtime": 2.79217791557312
+    }
+}

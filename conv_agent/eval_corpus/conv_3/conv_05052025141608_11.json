@@ -1,0 +1,43 @@
+{
+    "prompt": "To help workers thrive in an AI-driven world, we need a strong focus on retraining through lifelong learning, not just in technical skills but also in human-centered areas like communication and adaptability. At the same time, we must redefine the value of human work by recognizing and rewarding creativity, empathy, and ethical judgment\u2014qualities that machines can't replicate. ",
+    "generated_content": "Let's wrap up the interview. Thank you so much for taking the time to speak with me today! You've shown a deep understanding of both technical concepts and the broader implications of AI on the job market. I appreciate your thoughtful insights on how to help workers adapt to this changing landscape. Do you have any final questions for me?",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "B1",
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_05052025141608",
+    "it": 11,
+    "user_utt_features": {
+        "cole": [
+            13.40065573770492
+        ],
+        "flesch_kincaid": [
+            20.291885245901643
+        ],
+        "average_word_length": [
+            4.5
+        ],
+        "mtld": [
+            60.0
+        ],
+        "smog": [
+            30.822665046775757
+        ],
+        "pronoun_density": [
+            0.041666666666666664
+        ],
+        "characteristics": [
+            "C2",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 2947.480350255966,
+        "llama_runtime": 3.8473317623138428
+    }
+}

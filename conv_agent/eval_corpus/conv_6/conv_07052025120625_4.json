@@ -1,0 +1,42 @@
+{
+    "prompt": "I have a master in computer science and a PhD in AI. I have mostly been working on symbolic AI, but am expending at the moment. I've worked in various places, and have been managing my own team for a few years.",
+    "generated_content": "That's impressive! A master's in computer science and a PhD in AI is quite a strong foundation. Symbolic AI is a fascinating field, and it's great that you're expanding into other areas. Can you tell me more about your experience managing teams? What kind of teams have you managed, and what size were they?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_07052025120625",
+    "it": 4,
+    "user_utt_features": {
+        "cole": [
+            4.5609302325581424
+        ],
+        "flesch_kincaid": [
+            9.483720930232561
+        ],
+        "average_word_length": [
+            3.4693877551020407
+        ],
+        "mtld": [
+            42.0
+        ],
+        "smog": [
+            20.581828153500815
+        ],
+        "pronoun_density": [
+            0.08163265306122448
+        ],
+        "characteristics": [
+            "A2",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 212.9446370601654,
+        "llama_runtime": 3.264221429824829
+    }
+}

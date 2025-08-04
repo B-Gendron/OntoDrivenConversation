@@ -1,0 +1,42 @@
+{
+    "prompt": "Sure. I recently obtained a master's degree in computer science. I used to be a data science intern and now I apply to my first full time position as a data scientist.",
+    "generated_content": "That's great! Congratulations on your master's degree in computer science. Can you tell me more about your experience as a data science intern? What kind of projects did you work on during that time, and what skills did you develop?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_05052025141608",
+    "it": 3,
+    "user_utt_features": {
+        "cole": [
+            5.2072727272727235
+        ],
+        "flesch_kincaid": [
+            9.439393939393941
+        ],
+        "average_word_length": [
+            3.7027027027027026
+        ],
+        "mtld": [
+            32.0
+        ],
+        "smog": [
+            17.879347455551382
+        ],
+        "pronoun_density": [
+            0.10810810810810811
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 16.30535340309143,
+        "llama_runtime": 2.56606125831604
+    }
+}

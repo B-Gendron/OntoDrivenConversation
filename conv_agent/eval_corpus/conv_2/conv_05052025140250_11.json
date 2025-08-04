@@ -1,0 +1,42 @@
+{
+    "prompt": "Thanks a lot, my pleasure!",
+    "generated_content": "It was a pleasure speaking with you as well. You've shown great potential, and I think you'd be a strong fit for our team. We'll be in touch soon to discuss next steps. Have a great day!",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_05052025140250",
+    "it": 11,
+    "user_utt_features": {
+        "cole": [
+            1.8000000000000007
+        ],
+        "flesch_kincaid": [
+            5.240000000000002
+        ],
+        "average_word_length": [
+            2.875
+        ],
+        "mtld": [
+            5.0
+        ],
+        "smog": [
+            13.023866798666859
+        ],
+        "pronoun_density": [
+            0.125
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 4649.179971456528,
+        "llama_runtime": 2.66998028755188
+    }
+}

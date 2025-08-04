@@ -1,0 +1,41 @@
+{
+    "prompt": "I have a french Galop 3, and I'm preparing for Galop 4. Besides the technique, it is also the care for animals tat I've mist learned here: how to interact with them, recognise when something is wrong, make sure they have all they need...",
+    "generated_content": "It sounds like your horse riding experience has not only taught you technical skills, but also valuable skills in animal care and observation. As a zookeeper, you'll be working with a variety of animals, each with their unique needs and personalities. Let's talk about a specific scenario: say you're working with a new primate exhibit and one of the monkeys starts acting strangely, pacing back and forth in its enclosure. What would you do to identify the cause of the behavior and address it?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "conv_08052025032903",
+    "it": 5,
+    "user_utt_features": {
+        "cole": [
+            5.917391304347824
+        ],
+        "flesch_kincaid": [
+            9.116086956521741
+        ],
+        "average_word_length": [
+            3.611111111111111
+        ],
+        "mtld": [
+            42.0
+        ],
+        "smog": [
+            22.641843272026104
+        ],
+        "pronoun_density": [
+            0.16666666666666666
+        ],
+        "characteristics": [
+            "A2",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 102.07326602935791,
+        "llama_runtime": 4.704168319702148
+    }
+}

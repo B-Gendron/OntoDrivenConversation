@@ -1,0 +1,42 @@
+{
+    "prompt": "Fine actually. I took some time in advance to be sure to be on time.",
+    "generated_content": "That's great to hear! Being prepared and punctual is definitely a good habit to have. We like to start on time here. How about you, do you have any fun plans for the rest of the day, or is it just another busy day?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_06052025054837",
+    "it": 1,
+    "user_utt_features": {
+        "cole": [
+            0.6373333333333342
+        ],
+        "flesch_kincaid": [
+            7.7883333333333375
+        ],
+        "average_word_length": [
+            3.0555555555555554
+        ],
+        "mtld": [
+            15.0
+        ],
+        "smog": [
+            14.554592549557764
+        ],
+        "pronoun_density": [
+            0.05555555555555555
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 2.458165168762207,
+        "llama_runtime": 2.823787212371826
+    }
+}

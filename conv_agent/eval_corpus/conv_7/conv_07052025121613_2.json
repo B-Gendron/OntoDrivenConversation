@@ -1,0 +1,42 @@
+{
+    "prompt": "First time, and I'm really impressed. I passed by the pool on the way in. I have to say, you have great employee incentives ;)",
+    "generated_content": "That's awesome! We like to take care of our employees here. So, tell me, what brings you here today? What makes you interested in this company?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_07052025121613",
+    "it": 2,
+    "user_utt_features": {
+        "cole": [
+            3.2272
+        ],
+        "flesch_kincaid": [
+            8.900000000000002
+        ],
+        "average_word_length": [
+            3.3225806451612905
+        ],
+        "mtld": [
+            24.0
+        ],
+        "smog": [
+            16.728156217252725
+        ],
+        "pronoun_density": [
+            0.12903225806451613
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 8.794800281524658,
+        "llama_runtime": 2.0314056873321533
+    }
+}

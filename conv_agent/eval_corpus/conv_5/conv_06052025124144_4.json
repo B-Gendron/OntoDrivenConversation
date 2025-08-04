@@ -1,0 +1,42 @@
+{
+    "prompt": "Sure. It was a bit impressive at the beginning but I could quickly apply my knowledge to help them significantly.",
+    "generated_content": "That's wonderful to hear! It sounds like you were able to make a real impact on the patients you worked with. Can you tell me more about the specific skills or techniques you used to help them? Was there a particular patient or experience that stood out to you during your time in the hospital?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_06052025124144",
+    "it": 4,
+    "user_utt_features": {
+        "cole": [
+            8.287999999999993
+        ],
+        "flesch_kincaid": [
+            9.55
+        ],
+        "average_word_length": [
+            4.130434782608695
+        ],
+        "mtld": [
+            20.0
+        ],
+        "smog": [
+            18.243605946275583
+        ],
+        "pronoun_density": [
+            0.17391304347826086
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 34.17516756057739,
+        "llama_runtime": 3.2910282611846924
+    }
+}

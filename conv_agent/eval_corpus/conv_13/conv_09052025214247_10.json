@@ -1,0 +1,42 @@
+{
+    "prompt": "No, I really think you should take some risks to get results.",
+    "generated_content": "I see that you're taking a very decisive stance on this. However, as a military leader, it's essential to weigh the risks and benefits carefully. In this scenario, taking unnecessary risks could put your team in harm's way. Let's consider some alternative approaches that balance caution with the need for results.\n\nIn a real-world situation, you would need to consider factors like the enemy's strength, your team's capabilities, and the mission objectives. You might need to adapt your plan on the fly",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_09052025214247",
+    "it": 10,
+    "user_utt_features": {
+        "cole": [
+            5.253333333333334
+        ],
+        "flesch_kincaid": [
+            8.756666666666668
+        ],
+        "average_word_length": [
+            3.4
+        ],
+        "mtld": [
+            12.0
+        ],
+        "smog": [
+            20.267338824336647
+        ],
+        "pronoun_density": [
+            0.13333333333333333
+        ],
+        "characteristics": [
+            "A2",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 1218.8401448726654,
+        "llama_runtime": 10.197652101516724
+    }
+}

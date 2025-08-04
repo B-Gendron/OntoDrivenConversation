@@ -1,0 +1,41 @@
+{
+    "prompt": "Basically, now I mainly listen and do not try to delve into gossips. I focus only on the wellbeing of the person in front of me and how to convey information simply and shortly. Ah! I also smile a lot now.",
+    "generated_content": "That's a wonderful approach! Focusing on the person in front of you and conveying information in a clear and concise manner is essential in customer service. And smiling can go a long way in making people feel welcome and comfortable.\n\nLet's dive into a technical aspect of your experience. You mentioned earlier that you had part-time jobs in customer service. Can you walk me through how you would handle a situation where a customer is complaining about a delayed train, and they're getting agitated? How would you",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "conv_07052025155855",
+    "it": 5,
+    "user_utt_features": {
+        "cole": [
+            4.258536585365853
+        ],
+        "flesch_kincaid": [
+            7.114817073170734
+        ],
+        "average_word_length": [
+            3.5319148936170213
+        ],
+        "mtld": [
+            41.0
+        ],
+        "smog": [
+            18.243605946275583
+        ],
+        "pronoun_density": [
+            0.0851063829787234
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 62.56503701210022,
+        "llama_runtime": 7.159260034561157
+    }
+}

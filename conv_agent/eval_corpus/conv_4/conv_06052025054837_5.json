@@ -1,0 +1,41 @@
+{
+    "prompt": "I usually try to communicate a lot with my team to anticipate about potential conflicts due to misunderstandings. I think the best way to handle conflit is to avoid it to happen. Then, I also try to listen a lot to my collaborator and be aware of some bad feelings like boredom or lack of recognition.",
+    "generated_content": "Now, let's dive into a technical scenario. Imagine you're working on a project where you need to communicate a complex idea to a team of stakeholders who have varying levels of technical expertise. The idea is to launch a new product feature that requires a significant change in the company's communication strategy. The stakeholders are concerned about the potential impact on their existing workflows and are hesitant to adopt the new approach. How would you approach this situation and what specific communication strategies would you employ to address their concerns and ensure",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "conv_06052025054837",
+    "it": 5,
+    "user_utt_features": {
+        "cole": [
+            8.02428571428571
+        ],
+        "flesch_kincaid": [
+            13.39357142857143
+        ],
+        "average_word_length": [
+            4.049180327868853
+        ],
+        "mtld": [
+            56.0
+        ],
+        "smog": [
+            22.641843272026104
+        ],
+        "pronoun_density": [
+            0.09836065573770492
+        ],
+        "characteristics": [
+            "B2",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 99.8953845500946,
+        "llama_runtime": 5.3644959926605225
+    }
+}

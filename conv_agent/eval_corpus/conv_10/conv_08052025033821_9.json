@@ -1,0 +1,42 @@
+{
+    "prompt": "First, I would argue that this is exactly what the current system does: by leaving the struggling students behind, we are stigmatising them and not giving them tha ability to succeed. Communication arround this is tricky, which also means that teacher training in handling such situations also has to be improved.",
+    "generated_content": "You're right that the current system can have a negative impact on struggling students, and that teacher training is crucial in addressing these issues. However, I'd like to take it a step further. Some critics argue that the very concept of \"struggling students\" can be problematic, as it often implies that there's something inherently wrong with the student, rather than recognizing that they may be facing systemic barriers or biases. How do you think we can shift the conversation away from labeling students as \"struggling",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "negative",
+        "non_loaded"
+    ],
+    "id": "conv_08052025033821",
+    "it": 9,
+    "user_utt_features": {
+        "cole": [
+            12.669803921568622
+        ],
+        "flesch_kincaid": [
+            16.566764705882353
+        ],
+        "average_word_length": [
+            4.551724137931035
+        ],
+        "mtld": [
+            51.0
+        ],
+        "smog": [
+            29.308192230251223
+        ],
+        "pronoun_density": [
+            0.13793103448275862
+        ],
+        "characteristics": [
+            "C1",
+            "loaded",
+            "negative"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 1218.7528314590454,
+        "llama_runtime": 5.2693870067596436
+    }
+}

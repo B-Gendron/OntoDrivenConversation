@@ -1,0 +1,43 @@
+{
+    "prompt": "Exactly\u2014and that\u2019s where we see the clearest and earliest signs of disruption. Tasks that follow a consistent logic, especially those involving large amounts of structured data, are prime candidates for automation. Think invoice processing, form filling, scheduling, content moderation, basic report generation, and even things like legal document review or radiology screening. These are areas where AI, especially with advances in language and image processing, can already outperform or at least match human accuracy and speed.",
+    "generated_content": "You've made some excellent points about the areas where AI can automate tasks that are repetitive or rule-based. I think it's great that you're considering the potential impact on workers. However, I'd like to shift gears a bit and talk about the human side of things. As AI takes over more routine tasks, what do you think is the key to ensuring that workers can adapt and thrive in this new landscape?",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "B1",
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_05052025141608",
+    "it": 10,
+    "user_utt_features": {
+        "cole": [
+            15.92666666666667
+        ],
+        "flesch_kincaid": [
+            19.094487179487178
+        ],
+        "average_word_length": [
+            4.903225806451613
+        ],
+        "mtld": [
+            77.0
+        ],
+        "smog": [
+            26.683356303267143
+        ],
+        "pronoun_density": [
+            0.053763440860215055
+        ],
+        "characteristics": [
+            "C2",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 2272.8503262996674,
+        "llama_runtime": 4.61894679069519
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "prompt": "No not yet, I just got prepared for the interview",
+    "generated_content": "I'm glad you're all set for the interview. What kind of plans do you have for the rest of your day, assuming everything goes well?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_05052025065914",
+    "it": 1,
+    "user_utt_features": {
+        "cole": [
+            4.171999999999997
+        ],
+        "flesch_kincaid": [
+            7.190000000000001
+        ],
+        "average_word_length": [
+            3.4166666666666665
+        ],
+        "mtld": [
+            10.0
+        ],
+        "smog": [
+            19.287186520377343
+        ],
+        "pronoun_density": [
+            0.08333333333333333
+        ],
+        "characteristics": [
+            "A2",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 3.264406204223633,
+        "llama_runtime": 1.6776862144470215
+    }
+}

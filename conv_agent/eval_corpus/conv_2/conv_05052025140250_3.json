@@ -1,0 +1,42 @@
+{
+    "prompt": "Sure. I hold a master's degree in computer science. I worked 3 years as a data scientist in a strat-up.",
+    "generated_content": "That's impressive, a master's degree in computer science is no easy feat! Three years of experience as a data scientist in a startup is even more impressive. What specific areas of computer science did you focus on during your graduate studies? Was it machine learning, artificial intelligence, or something else?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_05052025140250",
+    "it": 3,
+    "user_utt_features": {
+        "cole": [
+            1.5454545454545432
+        ],
+        "flesch_kincaid": [
+            5.506363636363638
+        ],
+        "average_word_length": [
+            3.1481481481481484
+        ],
+        "mtld": [
+            20.0
+        ],
+        "smog": [
+            14.06817628641468
+        ],
+        "pronoun_density": [
+            0.07407407407407407
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 53.43221306800842,
+        "llama_runtime": 3.2479166984558105
+    }
+}

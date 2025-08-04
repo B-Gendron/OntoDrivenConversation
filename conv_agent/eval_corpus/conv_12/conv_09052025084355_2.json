@@ -1,0 +1,42 @@
+{
+    "prompt": "I do not take coffee",
+    "generated_content": "I'm a non-coffee drinker myself, although I do love the smell of freshly brewed coffee. Speaking of which, before we dive into the interview, could you tell me a bit about your educational background? Where did you attend university, and what degree did you earn?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_09052025084355",
+    "it": 2,
+    "user_utt_features": {
+        "cole": [
+            -2.9040000000000017
+        ],
+        "flesch_kincaid": [
+            5.240000000000002
+        ],
+        "average_word_length": [
+            2.8333333333333335
+        ],
+        "mtld": [
+            5.0
+        ],
+        "smog": [
+            13.023866798666859
+        ],
+        "pronoun_density": [
+            0.16666666666666666
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "negative"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 2.0723841190338135,
+        "llama_runtime": 3.8235280513763428
+    }
+}

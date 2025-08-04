@@ -1,0 +1,42 @@
+{
+    "prompt": "    I did not say every building, but that's a good point. The important property is that we have to be able to isolate the section of the system on which the work is taking place from the larger system. Sometimes, it might mean doing some preliminary work so to enable that, so to minimise disruptions.",
+    "generated_content": "I think you're right, isolating the affected area is crucial to minimize disruptions. That requires a good understanding of the system and a bit of creative problem-solving. It's also essential to communicate effectively with the building management and other stakeholders to ensure that everyone is aware of the plan and the potential impact of the work. What do you think about the increasing trend of smart buildings and smart homes, where plumbing systems are integrated with other building systems and sensors? Do you think this trend will make your job",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "positive",
+        "loaded"
+    ],
+    "id": "conv_07052025142737",
+    "it": 9,
+    "user_utt_features": {
+        "cole": [
+            7.709285714285716
+        ],
+        "flesch_kincaid": [
+            11.918571428571429
+        ],
+        "average_word_length": [
+            3.90625
+        ],
+        "mtld": [
+            55.0
+        ],
+        "smog": [
+            23.9891
+        ],
+        "pronoun_density": [
+            0.078125
+        ],
+        "characteristics": [
+            "B1",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 539.5924999713898,
+        "llama_runtime": 5.026174068450928
+    }
+}

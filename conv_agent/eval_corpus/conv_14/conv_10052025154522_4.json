@@ -1,0 +1,42 @@
+{
+    "prompt": "Yes I can. I loved try to enter into the writter psychology and way of developping stories. It is fascinating when you can actually separate the fictional parts from the ones stemming from the author's life experience. It makes you wonder if fiction is actually a thing or just a derivative of one's own experience. I had one professor that try to show us just that, it was wonderful!",
+    "generated_content": "That's a really insightful perspective! It's fascinating how authors can draw from their own experiences and emotions to create fictional stories. It's like you said, it can be a blur between reality and fiction. Your professor must have been really effective in helping you see that connection. What was it about that professor's teaching style that made their class stand out to you?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_10052025154522",
+    "it": 4,
+    "user_utt_features": {
+        "cole": [
+            7.7887323943662
+        ],
+        "flesch_kincaid": [
+            11.387436619718311
+        ],
+        "average_word_length": [
+            4.064102564102564
+        ],
+        "mtld": [
+            69.0
+        ],
+        "smog": [
+            21.55215316715989
+        ],
+        "pronoun_density": [
+            0.15384615384615385
+        ],
+        "characteristics": [
+            "B1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 12.220330953598022,
+        "llama_runtime": 5.24521803855896
+    }
+}

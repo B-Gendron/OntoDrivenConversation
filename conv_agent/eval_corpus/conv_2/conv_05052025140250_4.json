@@ -1,0 +1,42 @@
+{
+    "prompt": "I mostly worked on classical machine learning algorithm like regression, clustering, SVM, k means and so on.",
+    "generated_content": "You have a strong foundation in classical machine learning algorithms, which is a great starting point for many applications. Can you walk me through a project you worked on during your time as a data scientist where you applied these algorithms to solve a real-world problem? What were the results, and what did you learn from the experience?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_05052025140250",
+    "it": 4,
+    "user_utt_features": {
+        "cole": [
+            12.896470588235289
+        ],
+        "flesch_kincaid": [
+            13.251764705882355
+        ],
+        "average_word_length": [
+            4.2272727272727275
+        ],
+        "mtld": [
+            17.0
+        ],
+        "smog": [
+            22.918633597333717
+        ],
+        "pronoun_density": [
+            0.045454545454545456
+        ],
+        "characteristics": [
+            "B2",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 45.59021520614624,
+        "llama_runtime": 3.526442766189575
+    }
+}

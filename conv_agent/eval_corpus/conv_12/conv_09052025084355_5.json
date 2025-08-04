@@ -1,0 +1,41 @@
+{
+    "prompt": "I just saw your post online and I trying to find a job since a long time ago. I can help you with anything you need to make your company grow",
+    "generated_content": "Okay, I appreciate your eagerness to contribute. Let's get to the technical aspect of the interview. I'd like to dive into a scenario that's relevant to our company. Imagine you're working on a project to improve our e-commerce platform's search functionality. Our current system is slow and often returns irrelevant results. How would you approach this problem, and what steps would you take to improve the search functionality?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "conv_09052025084355",
+    "it": 5,
+    "user_utt_features": {
+        "cole": [
+            3.154838709677417
+        ],
+        "flesch_kincaid": [
+            9.867903225806455
+        ],
+        "average_word_length": [
+            3.393939393939394
+        ],
+        "mtld": [
+            31.0
+        ],
+        "smog": [
+            22.918633597333717
+        ],
+        "pronoun_density": [
+            0.24242424242424243
+        ],
+        "characteristics": [
+            "A2",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 34.908698081970215,
+        "llama_runtime": 5.912469863891602
+    }
+}

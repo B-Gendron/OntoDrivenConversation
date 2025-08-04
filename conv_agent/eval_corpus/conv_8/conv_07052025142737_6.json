@@ -1,0 +1,41 @@
+{
+    "prompt": " I could tell you so many stories. The most common one is about customers not wanting to leave us access to their house, but not being available to stay when we do the job. But I even had customers who were upset because they couldn't nap because of the noise I was making working the same room as them.",
+    "generated_content": "That sounds like a challenging situation! Dealing with customer complaints and expectations can be tough. How did you handle those situations where customers were upset about the noise? Did you have a standard procedure for communicating with them, or did you adapt your approach on the fly?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "conv_07052025142737",
+    "it": 6,
+    "user_utt_features": {
+        "cole": [
+            6.239999999999998
+        ],
+        "flesch_kincaid": [
+            12.466666666666669
+        ],
+        "average_word_length": [
+            3.727272727272727
+        ],
+        "mtld": [
+            59.0
+        ],
+        "smog": [
+            25.74080117439199
+        ],
+        "pronoun_density": [
+            0.15151515151515152
+        ],
+        "characteristics": [
+            "B1",
+            "loaded",
+            "negative"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 411.23227858543396,
+        "llama_runtime": 2.713245391845703
+    }
+}

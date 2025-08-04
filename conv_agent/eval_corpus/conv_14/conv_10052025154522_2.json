@@ -1,0 +1,43 @@
+{
+    "prompt": "I like when they mix both dystopian elements with really accurate details that nobody would suspect. Also, It is interesting when the writter details the everyday life in different times and areas.",
+    "generated_content": "That's really interesting! It sounds like you have a keen eye for historical detail and an appreciation for how authors can use that to create a richer and more immersive story. Can you tell me a bit more about your educational background? Did you study literature or history in school?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded",
+        "B2"
+    ],
+    "id": "conv_10052025154522",
+    "it": 2,
+    "user_utt_features": {
+        "cole": [
+            12.301249999999996
+        ],
+        "flesch_kincaid": [
+            15.35625
+        ],
+        "average_word_length": [
+            4.638888888888889
+        ],
+        "mtld": [
+            32.0
+        ],
+        "smog": [
+            24.50423929779172
+        ],
+        "pronoun_density": [
+            0.1111111111111111
+        ],
+        "characteristics": [
+            "C1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 2.4776999950408936,
+        "llama_runtime": 3.8088622093200684
+    }
+}

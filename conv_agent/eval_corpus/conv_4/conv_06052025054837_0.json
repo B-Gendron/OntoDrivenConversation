@@ -1,0 +1,42 @@
+{
+    "prompt": "Hello madam, is that the right place for the interview?",
+    "generated_content": "Oh, yes, this is the right place. We're actually running a bit ahead of schedule, so we're using the conference room on the third floor. I'm glad you're here, by the way! How was your commute in today?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_06052025054837",
+    "it": 0,
+    "user_utt_features": {
+        "cole": [
+            7.112000000000002
+        ],
+        "flesch_kincaid": [
+            7.190000000000001
+        ],
+        "average_word_length": [
+            3.6153846153846154
+        ],
+        "mtld": [
+            10.0
+        ],
+        "smog": [
+            20.267338824336647
+        ],
+        "pronoun_density": [
+            0.0
+        ],
+        "characteristics": [
+            "A2",
+            "neutral",
+            "non_loaded"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 1.7367937564849854,
+        "llama_runtime": 3.2866671085357666
+    }
+}

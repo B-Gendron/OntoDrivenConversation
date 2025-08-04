@@ -1,0 +1,42 @@
+{
+    "prompt": "What? But then who gave me this order?",
+    "generated_content": "I'm not sure what's going on, but let's try to get back on track. Can you start by telling me a bit about yourself? What's your background? Where are you from? What do you do for work?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_09052025214247",
+    "it": 2,
+    "user_utt_features": {
+        "cole": [
+            -1.8850000000000016
+        ],
+        "flesch_kincaid": [
+            0.7199999999999989
+        ],
+        "average_word_length": [
+            2.909090909090909
+        ],
+        "mtld": [
+            8.0
+        ],
+        "smog": [
+            13.81666964889586
+        ],
+        "pronoun_density": [
+            0.2727272727272727
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "negative"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 4.032088994979858,
+        "llama_runtime": 3.855013132095337
+    }
+}

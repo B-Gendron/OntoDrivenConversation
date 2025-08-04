@@ -1,0 +1,42 @@
+{
+    "prompt": "Good, happy to be here. All good on your side?",
+    "generated_content": "Great, thanks! I'm doing well, thanks for asking. We've got a lovely view from the office window today. The sun is shining, and the birds are singing. It's a beautiful day to have a conversation. Do you have a favorite time of day, morning, afternoon, or evening?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_07052025120625",
+    "it": 1,
+    "user_utt_features": {
+        "cole": [
+            -1.7279999999999998
+        ],
+        "flesch_kincaid": [
+            6.420000000000002
+        ],
+        "average_word_length": [
+            2.7142857142857144
+        ],
+        "mtld": [
+            10.0
+        ],
+        "smog": [
+            13.81666964889586
+        ],
+        "pronoun_density": [
+            0.07142857142857142
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 2.8953065872192383,
+        "llama_runtime": 3.036146640777588
+    }
+}

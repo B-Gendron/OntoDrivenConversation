@@ -1,0 +1,42 @@
+{
+    "prompt": "Black please.",
+    "generated_content": "You're welcome. I'll get your coffee right over here. While I get that, why don't we start with some introductions? Can you tell me a little bit about yourself? Where are you from, and what brings you to this interview today?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_05052025141608",
+    "it": 2,
+    "user_utt_features": {
+        "cole": [
+            1.7399999999999984
+        ],
+        "flesch_kincaid": [
+            8.790000000000003
+        ],
+        "average_word_length": [
+            3.25
+        ],
+        "mtld": [
+            2.0
+        ],
+        "smog": [
+            11.20814326018867
+        ],
+        "pronoun_density": [
+            0.0
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 19.283392429351807,
+        "llama_runtime": 2.817138433456421
+    }
+}

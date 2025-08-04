@@ -1,0 +1,42 @@
+{
+    "prompt": "I totally agree. But nowadays people do not have patience. Moreover, if it is a real out-of-print title, the other solutions are rather complex, or even inexistent. I trying my best to serve the all.",
+    "generated_content": "I understand your point about customers' expectations and the challenges of sourcing out-of-print titles. However, some might say that this perspective prioritizes convenience and expediency over the core mission of a bookstore, which is to provide access to books and foster a love of reading. They might argue that a bookstore's value lies in its ability to curate and provide a unique selection of titles, even if that means taking more time and effort to find them. How do you respond to the idea that a",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "negative",
+        "non_loaded"
+    ],
+    "id": "conv_10052025154522",
+    "it": 9,
+    "user_utt_features": {
+        "cole": [
+            5.791351351351345
+        ],
+        "flesch_kincaid": [
+            10.022905405405407
+        ],
+        "average_word_length": [
+            3.5319148936170213
+        ],
+        "mtld": [
+            37.0
+        ],
+        "smog": [
+            17.693802365651003
+        ],
+        "pronoun_density": [
+            0.10638297872340426
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "negative"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 144.64825797080994,
+        "llama_runtime": 9.528164148330688
+    }
+}

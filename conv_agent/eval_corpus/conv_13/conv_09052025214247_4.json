@@ -1,0 +1,42 @@
+{
+    "prompt": "OK, let's continue in the military context. So, to reply to your question, I do not have any education, I only learned how to follow orders and to kill as many foes as my commander want.",
+    "generated_content": "I'm not sure this is going in the right direction. As we're in a simulated military context, I'd like to clarify that following orders is an important aspect of military service, but there's more to it than just that. In this mock interview, I'm looking for you to showcase your skills, experience, and qualifications. Can you tell me about your background before joining the military? Where did you grow up, and what motivated you to join the military?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_09052025214247",
+    "it": 4,
+    "user_utt_features": {
+        "cole": [
+            5.643243243243241
+        ],
+        "flesch_kincaid": [
+            12.035810810810812
+        ],
+        "average_word_length": [
+            3.4545454545454546
+        ],
+        "mtld": [
+            36.0
+        ],
+        "smog": [
+            22.501965172709998
+        ],
+        "pronoun_density": [
+            0.11363636363636363
+        ],
+        "characteristics": [
+            "B1",
+            "loaded",
+            "negative"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 14.009669065475464,
+        "llama_runtime": 7.029457092285156
+    }
+}

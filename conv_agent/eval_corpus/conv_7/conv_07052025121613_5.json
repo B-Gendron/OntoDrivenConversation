@@ -1,0 +1,41 @@
+{
+    "prompt": "If I would have to pick an example, it would be the work I did with airbus: There, I was part of a small teams designing hand tools used in the construction of planes so that they integrated sensors and guidance for the workers. This helped ensure consistency and integrated quality control directly in the construction process.",
+    "generated_content": "I can see how your experience with designing and setting up manufacturing tools would be valuable here. That project with Airbus sounds particularly interesting. How did you approach integrating sensors and guidance into the hand tools? What kind of sensors were you using, and how did you ensure they were accurate and reliable?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "conv_07052025121613",
+    "it": 5,
+    "user_utt_features": {
+        "cole": [
+            10.185263157894738
+        ],
+        "flesch_kincaid": [
+            12.935789473684213
+        ],
+        "average_word_length": [
+            4.333333333333333
+        ],
+        "mtld": [
+            57.0
+        ],
+        "smog": [
+            24.75720833152081
+        ],
+        "pronoun_density": [
+            0.09523809523809523
+        ],
+        "characteristics": [
+            "B1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 50.533366203308105,
+        "llama_runtime": 3.572416067123413
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "prompt": "Pretty nervous I must say. Will there be animals?",
+    "generated_content": "Ha ha, I'm sure there won't be any actual animals here! We're just chatting about your interview prep. But I'm sure you'll do great! So, how's your morning been? Did you have a good breakfast?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_08052025032903",
+    "it": 1,
+    "user_utt_features": {
+        "cole": [
+            3.1022222222222204
+        ],
+        "flesch_kincaid": [
+            7.142777777777777
+        ],
+        "average_word_length": [
+            3.5
+        ],
+        "mtld": [
+            9.0
+        ],
+        "smog": [
+            13.81666964889586
+        ],
+        "pronoun_density": [
+            0.16666666666666666
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "negative"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 7.108825445175171,
+        "llama_runtime": 2.360445976257324
+    }
+}

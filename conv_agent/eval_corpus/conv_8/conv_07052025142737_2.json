@@ -1,0 +1,42 @@
+{
+    "prompt": "Went for a walk with the family, which is both fun and relaxing. You?",
+    "generated_content": "That sounds lovely! I'm glad you got to spend quality time with your family. I'm here to talk about your background, though. Could you tell me a bit about yourself and your professional experience? What brings you here today?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_07052025142737",
+    "it": 2,
+    "user_utt_features": {
+        "cole": [
+            2.2314285714285695
+        ],
+        "flesch_kincaid": [
+            3.997142857142858
+        ],
+        "average_word_length": [
+            3.1666666666666665
+        ],
+        "mtld": [
+            14.0
+        ],
+        "smog": [
+            17.122413403193683
+        ],
+        "pronoun_density": [
+            0.1111111111111111
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 10.270517826080322,
+        "llama_runtime": 2.458031415939331
+    }
+}

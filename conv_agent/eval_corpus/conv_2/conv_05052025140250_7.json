@@ -1,0 +1,41 @@
+{
+    "prompt": "Sure. The selection process and the evaluation strategy were guided by expert of the infrastructures who could explain me the physic behind so I could perform a relevant evaluation for their usecase.",
+    "generated_content": "It's great that you had the opportunity to work closely with domain experts to understand the underlying physics of the compressor systems. That's a crucial aspect of applying machine learning to real-world problems, especially when it comes to industrial equipment.\n\nLet's dive deeper into the evaluation process. You mentioned that the domain experts guided you in selecting the evaluation metrics. Can you walk me through what specific metrics you used to evaluate the performance of your predictive maintenance model? Were they based on standard metrics like accuracy, precision,",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "conv_05052025140250",
+    "it": 7,
+    "user_utt_features": {
+        "cole": [
+            12.852499999999996
+        ],
+        "flesch_kincaid": [
+            16.462500000000002
+        ],
+        "average_word_length": [
+            4.828571428571428
+        ],
+        "mtld": [
+            32.0
+        ],
+        "smog": [
+            23.72669961743115
+        ],
+        "pronoun_density": [
+            0.11428571428571428
+        ],
+        "characteristics": [
+            "C1",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 1041.0357954502106,
+        "llama_runtime": 5.424268960952759
+    }
+}

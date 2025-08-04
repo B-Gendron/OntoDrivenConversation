@@ -1,0 +1,42 @@
+{
+    "prompt": "Good, good. I hope I'm not late.",
+    "generated_content": "No worries, not at all! Traffic can be a nightmare, especially this time of day. Did you have a chance to grab a coffee before you came in?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_08052025033821",
+    "it": 1,
+    "user_utt_features": {
+        "cole": [
+            -6.294999999999998
+        ],
+        "flesch_kincaid": [
+            2.1950000000000003
+        ],
+        "average_word_length": [
+            2.25
+        ],
+        "mtld": [
+            7.0
+        ],
+        "smog": [
+            12.161744961471694
+        ],
+        "pronoun_density": [
+            0.16666666666666666
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 3.3013570308685303,
+        "llama_runtime": 1.7122085094451904
+    }
+}

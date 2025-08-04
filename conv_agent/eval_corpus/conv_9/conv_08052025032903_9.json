@@ -1,0 +1,42 @@
+{
+    "prompt": "OK, do you think there is another solution? One wwhere I don't also end up putting myself in danger?",
+    "generated_content": "I can see that you're trying to find a solution that prioritizes the safety of everyone involved. However, I'd like to take it a step further. Some zoos are starting to adopt more holistic approaches to animal care, focusing on creating environments that promote natural behavior and reducing stress. In a situation like this, would you consider creating a temporary separation of the aggressive monkey from the others, using a safe and non-invasive method, such as a partition or a separate enclosure, to allow it",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "negative",
+        "non_loaded"
+    ],
+    "id": "conv_08052025032903",
+    "it": 9,
+    "user_utt_features": {
+        "cole": [
+            2.9860000000000007
+        ],
+        "flesch_kincaid": [
+            6.48
+        ],
+        "average_word_length": [
+            3.4583333333333335
+        ],
+        "mtld": [
+            19.0
+        ],
+        "smog": [
+            15.021129683784007
+        ],
+        "pronoun_density": [
+            0.16666666666666666
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "negative"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 558.9763405323029,
+        "llama_runtime": 5.142367362976074
+    }
+}

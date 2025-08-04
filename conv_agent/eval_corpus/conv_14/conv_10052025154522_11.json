@@ -1,0 +1,42 @@
+{
+    "prompt": "Indeed, but we did not talk about the job position at all. What are you looking for?",
+    "generated_content": "We did discuss the job position, actually. We talked about the bookseller position, and how you would handle various scenarios and challenges that might come up in that role. I was trying to simulate an interview for that position. Let me clarify that.\n\nTo summarize, you've shown a good understanding of the importance of customer service, the value of a bookstore, and the complexities of sourcing books. You've also demonstrated a willingness to think critically and consider different perspectives.\n\nAs for what I'm looking for",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_10052025154522",
+    "it": 11,
+    "user_utt_features": {
+        "cole": [
+            3.200000000000003
+        ],
+        "flesch_kincaid": [
+            7.854411764705883
+        ],
+        "average_word_length": [
+            3.2857142857142856
+        ],
+        "mtld": [
+            17.0
+        ],
+        "smog": [
+            18.7741
+        ],
+        "pronoun_density": [
+            0.14285714285714285
+        ],
+        "characteristics": [
+            "A2",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 649.8430469036102,
+        "llama_runtime": 10.260995149612427
+    }
+}

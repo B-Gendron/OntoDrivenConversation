@@ -1,0 +1,42 @@
+{
+    "prompt": "OK, I start by finding the traps and avoiding defensive positions then.",
+    "generated_content": "You're taking a cautious approach, which is good. However, I'd like to challenge you a bit. In this scenario, you have a limited amount of time to complete the mission before the enemy detects you. You need to balance caution with the need to move quickly. One of your team members, a seasoned veteran, suggests taking a more aggressive approach, using a diversion to draw the enemy's attention away from the main entry point. What do you do?",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "positive",
+        "loaded"
+    ],
+    "id": "conv_09052025214247",
+    "it": 8,
+    "user_utt_features": {
+        "cole": [
+            10.153333333333332
+        ],
+        "flesch_kincaid": [
+            10.723333333333333
+        ],
+        "average_word_length": [
+            4.066666666666666
+        ],
+        "mtld": [
+            12.0
+        ],
+        "smog": [
+            20.267338824336647
+        ],
+        "pronoun_density": [
+            0.06666666666666667
+        ],
+        "characteristics": [
+            "B1",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 145.4338459968567,
+        "llama_runtime": 9.209603071212769
+    }
+}

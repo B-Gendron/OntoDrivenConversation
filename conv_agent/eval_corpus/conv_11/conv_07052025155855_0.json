@@ -1,0 +1,42 @@
+{
+    "prompt": "Hello, how do we proceed?",
+    "generated_content": "We're going to have a fun and relaxed conversation to help you get comfortable and ready for your interview. I'd love to get to know you a bit better. How was your week so far?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_07052025155855",
+    "it": 0,
+    "user_utt_features": {
+        "cole": [
+            0.6239999999999988
+        ],
+        "flesch_kincaid": [
+            5.240000000000002
+        ],
+        "average_word_length": [
+            2.75
+        ],
+        "mtld": [
+            5.0
+        ],
+        "smog": [
+            13.023866798666859
+        ],
+        "pronoun_density": [
+            0.125
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 0.8878810405731201,
+        "llama_runtime": 2.936002731323242
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "prompt": "No I do not want to continue until I can talk to a military officer.",
+    "generated_content": "I understand that you're looking for a military context, but I'm afraid that's not what this conversation is about. I'm here to help you prepare for a job interview. If you'd like, we can simulate a mock interview in a military setting, but for now, I need you to focus on your background and qualifications. Can you tell me a bit about your education and work experience?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_09052025214247",
+    "it": 3,
+    "user_utt_features": {
+        "cole": [
+            3.0026666666666664
+        ],
+        "flesch_kincaid": [
+            9.140000000000004
+        ],
+        "average_word_length": [
+            3.235294117647059
+        ],
+        "mtld": [
+            15.0
+        ],
+        "smog": [
+            19.287186520377343
+        ],
+        "pronoun_density": [
+            0.11764705882352941
+        ],
+        "characteristics": [
+            "A2",
+            "loaded",
+            "negative"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 6.362452030181885,
+        "llama_runtime": 5.7330238819122314
+    }
+}

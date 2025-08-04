@@ -1,0 +1,42 @@
+{
+    "prompt": "Ok. My week has been pretty stressful but I'll manage.",
+    "generated_content": "Hopefully, we can take your mind off things for a bit. Do you have any fun plans for the weekend, or are you looking forward to unwinding and relaxing?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_07052025155855",
+    "it": 1,
+    "user_utt_features": {
+        "cole": [
+            1.803636363636361
+        ],
+        "flesch_kincaid": [
+            3.7186363636363637
+        ],
+        "average_word_length": [
+            3.2857142857142856
+        ],
+        "mtld": [
+            10.0
+        ],
+        "smog": [
+            14.554592549557764
+        ],
+        "pronoun_density": [
+            0.14285714285714285
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 1.135509967803955,
+        "llama_runtime": 2.6828999519348145
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "prompt": "I usually try to communicate a lot with my team to anticipate about potential conflicts due to misunderstandings. I think the best way to handle conflit is to avoid it to happen. Then, I also try to listen a lot to my collaborator and be aware of some bad feelings like boredom or lack of recognition.",
+    "generated_content": "It's great that you prioritize open communication and collaboration with your team to avoid conflicts. Being aware of potential issues and addressing them proactively is a key aspect of effective team management. \n\nLet's dive deeper into your data analysis skills. You mentioned earlier that you use Google Analytics and SEMrush to track performance. How do you interpret and prioritize the metrics from these tools? For example, if you see a high bounce rate on a particular page, what steps would you take to investigate and improve it?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "conv_05052025065914",
+    "it": 7,
+    "user_utt_features": {
+        "cole": [
+            8.02428571428571
+        ],
+        "flesch_kincaid": [
+            13.39357142857143
+        ],
+        "average_word_length": [
+            4.049180327868853
+        ],
+        "mtld": [
+            56.0
+        ],
+        "smog": [
+            22.641843272026104
+        ],
+        "pronoun_density": [
+            0.09836065573770492
+        ],
+        "characteristics": [
+            "B2",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 502.70930218696594,
+        "llama_runtime": 5.496031284332275
+    }
+}

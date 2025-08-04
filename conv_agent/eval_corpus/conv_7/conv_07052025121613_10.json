@@ -1,0 +1,43 @@
+{
+    "prompt": "Yes, I am looking for ways to improve and optimise. However, baseless criticims do not achieve that, and I believe sometimes it is more valid to dismiss baseless criticisms than try to incorporate them while they are not consistent. Here, what we measure is human activities, so it is not valid, it is ignorant even, to criticise the fact that we measure those human activities. ",
+    "generated_content": "It seems like we've had a good discussion about your experience and skills. I'd like to summarize what we've covered so far. You have a strong background in mechanical engineering, with experience in designing and setting up manufacturing tools, and a specific example of a project you worked on with Airbus. You've also demonstrated your ability to approach complex problems and think critically about solutions. As we wrap up the interview, is there anything you'd like to ask me about the company or the role, or any",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "B1",
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_07052025121613",
+    "it": 10,
+    "user_utt_features": {
+        "cole": [
+            10.334153846153846
+        ],
+        "flesch_kincaid": [
+            16.460000000000004
+        ],
+        "average_word_length": [
+            4.144736842105263
+        ],
+        "mtld": [
+            65.0
+        ],
+        "smog": [
+            25.74080117439199
+        ],
+        "pronoun_density": [
+            0.14473684210526316
+        ],
+        "characteristics": [
+            "C1",
+            "loaded",
+            "negative"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 1457.75310921669,
+        "llama_runtime": 6.206449270248413
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "prompt": "Hi, I'm Valerian. I'm here for the interview?",
+    "generated_content": "Hi Valerian! Nice to meet you. How's your day been so far?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_08052025033821",
+    "it": 0,
+    "user_utt_features": {
+        "cole": [
+            -1.1400000000000023
+        ],
+        "flesch_kincaid": [
+            4.060000000000002
+        ],
+        "average_word_length": [
+            2.7857142857142856
+        ],
+        "mtld": [
+            8.0
+        ],
+        "smog": [
+            12.161744961471694
+        ],
+        "pronoun_density": [
+            0.14285714285714285
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 2.9530234336853027,
+        "llama_runtime": 1.3530850410461426
+    }
+}

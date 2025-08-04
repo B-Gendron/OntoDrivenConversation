@@ -1,0 +1,43 @@
+{
+    "prompt": "You're absolutely right\u2014AI-powered communication can sometimes feel impersonal, especially if it lacks the nuances and emotional intelligence that come naturally in human interactions. People often seek authentic connections, and when AI is overused, it can create a sense of distance, even if the messaging is personalized. To address this, I think it\u2019s important to strike a balance between automation and human involvement.",
+    "generated_content": "That's a great point. Striking a balance between automation and human involvement is crucial. It's about finding the right mix of efficiency and empathy. As we move forward, I think that's a valuable perspective to keep in mind.\n\nAs we conclude this interview, I want to thank you for your thoughtful and insightful responses. You've shown a great understanding of the technical and philosophical aspects of communication. Do you have any final questions for me, or would you like to know more about our company culture",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "B1",
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_06052025054837",
+    "it": 10,
+    "user_utt_features": {
+        "cole": [
+            14.48181818181818
+        ],
+        "flesch_kincaid": [
+            20.165757575757578
+        ],
+        "average_word_length": [
+            4.753246753246753
+        ],
+        "mtld": [
+            64.0
+        ],
+        "smog": [
+            26.216889196889337
+        ],
+        "pronoun_density": [
+            0.09090909090909091
+        ],
+        "characteristics": [
+            "C2",
+            "loaded",
+            "negative"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 1309.56778049469,
+        "llama_runtime": 5.567363739013672
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "prompt": "Yes. I had to discuss a lot with the customers to identify what specific type of communication they needed, and then have meetings with the artistic director and the graphists to assess the feasability of the client's expectations.",
+    "generated_content": "That sounds like a challenging but rewarding role. It's great that you had to think creatively to meet the clients' needs. How did you handle situations where the clients' expectations were not feasible, and you had to communicate that to them in a way that was clear and respectful?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded",
+        "B2"
+    ],
+    "id": "conv_06052025054837",
+    "it": 4,
+    "user_utt_features": {
+        "cole": [
+            11.478974358974362
+        ],
+        "flesch_kincaid": [
+            14.707307692307694
+        ],
+        "average_word_length": [
+            4.534883720930233
+        ],
+        "mtld": [
+            38.0
+        ],
+        "smog": [
+            25.62020457492028
+        ],
+        "pronoun_density": [
+            0.06976744186046512
+        ],
+        "characteristics": [
+            "C1",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 139.2259111404419,
+        "llama_runtime": 3.0983705520629883
+    }
+}

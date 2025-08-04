@@ -1,0 +1,42 @@
+{
+    "prompt": "Sure, a coffee would be great.",
+    "generated_content": "Great choice! We have a fresh pot brewing right here. Would you prefer it black or with a bit of cream and sugar?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_05052025141608",
+    "it": 1,
+    "user_utt_features": {
+        "cole": [
+            1.8066666666666684
+        ],
+        "flesch_kincaid": [
+            8.383333333333333
+        ],
+        "average_word_length": [
+            2.888888888888889
+        ],
+        "mtld": [
+            6.0
+        ],
+        "smog": [
+            14.554592549557764
+        ],
+        "pronoun_density": [
+            0.0
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 3.371005058288574,
+        "llama_runtime": 1.4581918716430664
+    }
+}

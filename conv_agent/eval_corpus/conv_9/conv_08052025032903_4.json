@@ -1,0 +1,42 @@
+{
+    "prompt": "Well, I learned that this is what I want to do. Being in contact with all the different animals, understanding their needs and how to care for each one of them and how they are all different was just fascinating for me.",
+    "generated_content": "That's great to hear that the experience had such a strong impact on you! It's clear that you have a passion for working with animals. Can you tell me more about your horse riding experience? What kind of training have you received, and what do you think are some of the skills you've developed through horse riding that could be transferable to a role as a zookeeper?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_08052025032903",
+    "it": 4,
+    "user_utt_features": {
+        "cole": [
+            7.150476190476194
+        ],
+        "flesch_kincaid": [
+            10.861904761904764
+        ],
+        "average_word_length": [
+            3.8085106382978724
+        ],
+        "mtld": [
+            42.0
+        ],
+        "smog": [
+            26.33438506612233
+        ],
+        "pronoun_density": [
+            0.1702127659574468
+        ],
+        "characteristics": [
+            "B1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 16.44028067588806,
+        "llama_runtime": 3.7650928497314453
+    }
+}

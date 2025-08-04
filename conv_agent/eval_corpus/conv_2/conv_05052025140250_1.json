@@ -1,0 +1,42 @@
+{
+    "prompt": "Quite good. I mostly prepared for the interview.",
+    "generated_content": "That's great! Preparation is key, isn't it? Do you have any fun plans for the rest of the day, or are you sticking around the city?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_05052025140250",
+    "it": 1,
+    "user_utt_features": {
+        "cole": [
+            5.465
+        ],
+        "flesch_kincaid": [
+            11.045000000000002
+        ],
+        "average_word_length": [
+            3.8181818181818183
+        ],
+        "mtld": [
+            8.0
+        ],
+        "smog": [
+            13.81666964889586
+        ],
+        "pronoun_density": [
+            0.09090909090909091
+        ],
+        "characteristics": [
+            "B1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 2.5663039684295654,
+        "llama_runtime": 1.4821069240570068
+    }
+}

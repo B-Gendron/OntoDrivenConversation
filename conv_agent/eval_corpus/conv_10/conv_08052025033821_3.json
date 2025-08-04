@@ -1,0 +1,42 @@
+{
+    "prompt": "Sure! I'm here because I'm really excited  to become a teacher. I have studied educational science in california for 3 years, and did several internships in primary schools, but it would be my first real experience.",
+    "generated_content": "So, it sounds like you have a strong educational foundation in educational science. Can you tell me a bit more about your experience with the internships you mentioned? What specific roles did you take on, and what did you enjoy most about working with students in a primary school setting?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_08052025033821",
+    "it": 3,
+    "user_utt_features": {
+        "cole": [
+            8.787368421052626
+        ],
+        "flesch_kincaid": [
+            13.260526315789473
+        ],
+        "average_word_length": [
+            4.022222222222222
+        ],
+        "mtld": [
+            35.0
+        ],
+        "smog": [
+            19.6203779977781
+        ],
+        "pronoun_density": [
+            0.1111111111111111
+        ],
+        "characteristics": [
+            "B2",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 17.46553325653076,
+        "llama_runtime": 2.795271158218384
+    }
+}

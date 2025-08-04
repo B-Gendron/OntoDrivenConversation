@@ -1,0 +1,43 @@
+{
+    "prompt": "Sure, I recently obtained a master's degree in communication, and my last work experience was in a startup where I learnt to do communication at various scales fora very diverse pool of customers.",
+    "generated_content": "That's impressive! A master's degree in communication is a great asset, and working in a startup can be a fantastic way to gain experience in a fast-paced environment. Can you tell me more about your role in the startup? What specific aspects of communication were you responsible for, and how did you adapt to the diverse pool of customers you mentioned?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded",
+        "B2"
+    ],
+    "id": "conv_06052025054837",
+    "it": 3,
+    "user_utt_features": {
+        "cole": [
+            11.172941176470587
+        ],
+        "flesch_kincaid": [
+            21.964117647058824
+        ],
+        "average_word_length": [
+            4.342105263157895
+        ],
+        "mtld": [
+            33.0
+        ],
+        "smog": [
+            29.92425515909546
+        ],
+        "pronoun_density": [
+            0.07894736842105263
+        ],
+        "characteristics": [
+            "C2",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 69.31498956680298,
+        "llama_runtime": 4.219814300537109
+    }
+}

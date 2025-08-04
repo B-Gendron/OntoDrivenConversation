@@ -1,0 +1,42 @@
+{
+    "prompt": "I think remote work is good sometimes for those wo can do it. However, the most important jobs in society cannot be done remotely. It is basically a whim from service related jobs.",
+    "generated_content": "I think you raise an interesting point. While some jobs can indeed be done remotely, others do require a physical presence. It's a trade-off between flexibility and the need for human interaction and collaboration. As we wrap up the interview, I want to thank you for your honesty and willingness to share your thoughts. You've shown a lot of enthusiasm and eagerness to learn, and that's something we value here. Do you have any final questions for me about the company or the role?",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_09052025084355",
+    "it": 10,
+    "user_utt_features": {
+        "cole": [
+            6.491764705882353
+        ],
+        "flesch_kincaid": [
+            9.306470588235296
+        ],
+        "average_word_length": [
+            3.8205128205128207
+        ],
+        "mtld": [
+            34.0
+        ],
+        "smog": [
+            19.287186520377343
+        ],
+        "pronoun_density": [
+            0.10256410256410256
+        ],
+        "characteristics": [
+            "A2",
+            "loaded",
+            "negative"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 243.00508904457092,
+        "llama_runtime": 9.226784944534302
+    }
+}

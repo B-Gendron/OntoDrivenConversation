@@ -1,0 +1,42 @@
+{
+    "prompt": "Yes, I thought I would need energy so I got my self a german breakfast.",
+    "generated_content": "That's great, a hearty German breakfast should give you plenty of energy. But let's get started on the interview. Can you tell me a bit about your educational background? What kind of degree do you have, and what did you study?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_08052025032903",
+    "it": 2,
+    "user_utt_features": {
+        "cole": [
+            3.7866666666666653
+        ],
+        "flesch_kincaid": [
+            9.140000000000004
+        ],
+        "average_word_length": [
+            3.2222222222222223
+        ],
+        "mtld": [
+            15.0
+        ],
+        "smog": [
+            20.267338824336647
+        ],
+        "pronoun_density": [
+            0.2222222222222222
+        ],
+        "characteristics": [
+            "A2",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 26.201472997665405,
+        "llama_runtime": 2.416576862335205
+    }
+}

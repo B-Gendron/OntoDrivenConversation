@@ -1,0 +1,43 @@
+{
+    "prompt": "   Yes, I would like to know if you plan to set up a teacher support group within your school, or if you already have one.",
+    "generated_content": "We do have a teacher support group, actually. It's a peer-led group where teachers can share resources, discuss challenges, and get feedback from one another. It's a great way to foster a sense of community and collaboration among our educators. I think it's really beneficial for our teachers to have a space to share their experiences and learn from one another. \n\nWell, Valerian, thank you so much for coming in today! It was great speaking with you, and I think you'd",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "B1",
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_08052025033821",
+    "it": 11,
+    "user_utt_features": {
+        "cole": [
+            4.654399999999999
+        ],
+        "flesch_kincaid": [
+            15.400000000000002
+        ],
+        "average_word_length": [
+            3.3
+        ],
+        "mtld": [
+            25.0
+        ],
+        "smog": [
+            26.683356303267143
+        ],
+        "pronoun_density": [
+            0.13333333333333333
+        ],
+        "characteristics": [
+            "C1",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 1557.5081236362457,
+        "llama_runtime": 5.153278827667236
+    }
+}

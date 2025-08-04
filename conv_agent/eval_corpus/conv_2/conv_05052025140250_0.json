@@ -1,0 +1,42 @@
+{
+    "prompt": "Hi sir, it is a pleasure to meet you for this interview.",
+    "generated_content": "It's great to meet you too! How's your day been so far?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_05052025140250",
+    "it": 0,
+    "user_utt_features": {
+        "cole": [
+            2.8033333333333346
+        ],
+        "flesch_kincaid": [
+            9.740000000000002
+        ],
+        "average_word_length": [
+            3.066666666666667
+        ],
+        "mtld": [
+            12.0
+        ],
+        "smog": [
+            18.243605946275583
+        ],
+        "pronoun_density": [
+            0.13333333333333333
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 1.8156440258026123,
+        "llama_runtime": 1.2980308532714844
+    }
+}

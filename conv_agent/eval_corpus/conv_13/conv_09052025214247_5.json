@@ -1,0 +1,41 @@
+{
+    "prompt": "I was born in a small village, an orphan. I was enrolled by force in the military and tried to survive until now. I do not know any different type of 'normal' life.",
+    "generated_content": "Let's focus on your military experience instead. I'd like to ask you a technical question related to your skills. As a military personnel, you've likely had experience with tactical operations and decision-making. Can you walk me through your thought process when it comes to navigating a complex battlefield scenario? For example, let's say you're part of a team tasked with securing a strategic location, but you're facing heavy enemy fire. How would you assess the situation and make a decision on how to proceed?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "conv_09052025214247",
+    "it": 5,
+    "user_utt_features": {
+        "cole": [
+            3.9599999999999973
+        ],
+        "flesch_kincaid": [
+            7.293939393939393
+        ],
+        "average_word_length": [
+            3.325
+        ],
+        "mtld": [
+            33.0
+        ],
+        "smog": [
+            18.599290044081553
+        ],
+        "pronoun_density": [
+            0.075
+        ],
+        "characteristics": [
+            "A2",
+            "loaded",
+            "negative"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 70.15361499786377,
+        "llama_runtime": 7.789988994598389
+    }
+}

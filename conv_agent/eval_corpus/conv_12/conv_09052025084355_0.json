@@ -1,0 +1,42 @@
+{
+    "prompt": "Hello, I am here for the job interview you posted online",
+    "generated_content": "Hi! Thanks for coming in today. How's your day been so far?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_09052025084355",
+    "it": 0,
+    "user_utt_features": {
+        "cole": [
+            5.563636363636359
+        ],
+        "flesch_kincaid": [
+            11.22727272727273
+        ],
+        "average_word_length": [
+            3.6153846153846154
+        ],
+        "mtld": [
+            11.0
+        ],
+        "smog": [
+            20.267338824336647
+        ],
+        "pronoun_density": [
+            0.15384615384615385
+        ],
+        "characteristics": [
+            "B1",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 1.0200459957122803,
+        "llama_runtime": 1.6976008415222168
+    }
+}

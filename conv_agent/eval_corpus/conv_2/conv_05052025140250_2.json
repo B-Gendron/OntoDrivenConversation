@@ -1,0 +1,42 @@
+{
+    "prompt": "I have to work this afternoon. I took half a day off to focus on the interview.",
+    "generated_content": "That's impressive dedication! It shows you're serious about this opportunity. Can you tell me a bit about your educational background? Where did you study and what did you major in?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_05052025140250",
+    "it": 2,
+    "user_utt_features": {
+        "cole": [
+            1.816470588235294
+        ],
+        "flesch_kincaid": [
+            6.466176470588238
+        ],
+        "average_word_length": [
+            3.2
+        ],
+        "mtld": [
+            17.0
+        ],
+        "smog": [
+            16.52667757954773
+        ],
+        "pronoun_density": [
+            0.1
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "negative"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 9.504740238189697,
+        "llama_runtime": 2.0678701400756836
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "prompt": "    \t     That seems like a good summary, thanks!",
+    "generated_content": "Well, thank you for coming in today! It was great chatting with you. I think you'd be a strong fit for our team, and I'll make sure to pass on your application to the hiring manager. Do you have any final questions or concerns?",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_07052025121613",
+    "it": 11,
+    "user_utt_features": {
+        "cole": [
+            6.011428571428574
+        ],
+        "flesch_kincaid": [
+            7.368571428571428
+        ],
+        "average_word_length": [
+            4.0
+        ],
+        "mtld": [
+            7.0
+        ],
+        "smog": [
+            17.122413403193683
+        ],
+        "pronoun_density": [
+            0.09090909090909091
+        ],
+        "characteristics": [
+            "A1",
+            "positive",
+            "non_loaded"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 1175.715912103653,
+        "llama_runtime": 2.7835886478424072
+    }
+}

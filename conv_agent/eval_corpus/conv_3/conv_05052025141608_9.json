@@ -1,0 +1,42 @@
+{
+    "prompt": "AI will almost certainly disrupt the job market, but not in a binary \u201call good\u201d or \u201call bad\u201d way. It\u2019s more of a structural transformation. In the short term, we\u2019re already seeing automation replacing repetitive and rule-based tasks\u2014things like data entry, basic customer support, and some aspects of logistics or manufacturing. These jobs are vulnerable because AI can do them faster, more cheaply, and with fewer errors.",
+    "generated_content": "That's a nuanced view. You're acknowledging the potential job displacement that AI can cause, but also recognizing that it's not a straightforward \"all good\" or \"all bad\" situation. The idea of a structural transformation is particularly insightful. It suggests that AI is not just replacing jobs, but also changing the nature of work itself.\n\nYou mentioned that AI is replacing repetitive and rule-based tasks. Do you think this is a positive development, or do you worry about the potential consequences for workers who are",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "loaded",
+        "positive"
+    ],
+    "id": "conv_05052025141608",
+    "it": 9,
+    "user_utt_features": {
+        "cole": [
+            10.69014084507042
+        ],
+        "flesch_kincaid": [
+            13.935316901408449
+        ],
+        "average_word_length": [
+            4.056818181818182
+        ],
+        "mtld": [
+            69.0
+        ],
+        "smog": [
+            24.69424427264515
+        ],
+        "pronoun_density": [
+            0.03409090909090909
+        ],
+        "characteristics": [
+            "B2",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 1662.2034487724304,
+        "llama_runtime": 5.426118850708008
+    }
+}

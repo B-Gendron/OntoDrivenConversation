@@ -1,0 +1,41 @@
+{
+    "prompt": "Yes, many. The most challenging moments are with the students who are struggling. We need to spend time with them so they build the foundation even if they are slower in getting there, but we cannot hold up the entire class. Dealing with this is very hard.",
+    "generated_content": "You're right, working with students who struggle can be a challenging part of teaching. It requires a delicate balance between supporting individual students and keeping the rest of the class on track. How do you think you would handle a situation where a student is falling behind, but the class is moving on to a new topic? Would you take a more individualized approach, or try to find a way to bring the student up to speed with the rest of the class?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "conv_08052025033821",
+    "it": 5,
+    "user_utt_features": {
+        "cole": [
+            6.723333333333333
+        ],
+        "flesch_kincaid": [
+            7.773333333333333
+        ],
+        "average_word_length": [
+            3.8363636363636364
+        ],
+        "mtld": [
+            48.0
+        ],
+        "smog": [
+            21.19438992294339
+        ],
+        "pronoun_density": [
+            0.12727272727272726
+        ],
+        "characteristics": [
+            "A2",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 169.39798521995544,
+        "llama_runtime": 4.6107869148254395
+    }
+}

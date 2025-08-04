@@ -1,0 +1,42 @@
+{
+    "prompt": "I work at a welcome desk for the French railway company: SNCF. Before that, I did many part time jobs, especially in customer service.",
+    "generated_content": "So, it sounds like you have a background in customer-facing roles, which is fantastic. Can you tell me more about your experience working at the welcome desk for SNCF? What aspects of that job do you enjoy the most, and what do you think you've learned from it?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_07052025155855",
+    "it": 3,
+    "user_utt_features": {
+        "cole": [
+            7.703333333333333
+        ],
+        "flesch_kincaid": [
+            9.740000000000002
+        ],
+        "average_word_length": [
+            3.7333333333333334
+        ],
+        "mtld": [
+            24.0
+        ],
+        "smog": [
+            20.736966565827903
+        ],
+        "pronoun_density": [
+            0.1
+        ],
+        "characteristics": [
+            "A2",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 7.503371953964233,
+        "llama_runtime": 4.125547885894775
+    }
+}

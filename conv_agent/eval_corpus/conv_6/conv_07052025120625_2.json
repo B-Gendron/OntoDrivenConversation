@@ -1,0 +1,42 @@
+{
+    "prompt": "I'm more of a morning person if I'm honest. I'm useless in the evening.",
+    "generated_content": "That's fair enough. Mornings can be a great time to get a lot done before the day gets busy. What kind of activities do you usually like to do in the morning to get yourself going?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_07052025120625",
+    "it": 2,
+    "user_utt_features": {
+        "cole": [
+            0.08705882352940897
+        ],
+        "flesch_kincaid": [
+            2.995588235294118
+        ],
+        "average_word_length": [
+            2.95
+        ],
+        "mtld": [
+            14.0
+        ],
+        "smog": [
+            13.81666964889586
+        ],
+        "pronoun_density": [
+            0.15
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "negative"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 9.611322402954102,
+        "llama_runtime": 2.5642917156219482
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "prompt": "Other than the pool, I think you approach and strategie for the development of renewable energy is remarquable. I would like to be able to contribute with my skills. I'm a mechanical engineer by trade and I think there is a lot that this can bring to the activities here.",
+    "generated_content": "That's fantastic! As a mechanical engineer, you must have had some really interesting projects in your past. Can you tell me a bit more about your educational background? What did you study, and where did you go to school?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_07052025121613",
+    "it": 3,
+    "user_utt_features": {
+        "cole": [
+            7.592941176470585
+        ],
+        "flesch_kincaid": [
+            11.863529411764706
+        ],
+        "average_word_length": [
+            3.982142857142857
+        ],
+        "mtld": [
+            50.0
+        ],
+        "smog": [
+            22.641843272026104
+        ],
+        "pronoun_density": [
+            0.14285714285714285
+        ],
+        "characteristics": [
+            "B1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 20.88456416130066,
+        "llama_runtime": 2.8262064456939697
+    }
+}

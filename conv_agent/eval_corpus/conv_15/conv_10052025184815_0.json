@@ -1,0 +1,42 @@
+{
+    "prompt": "Hello, I a here for the coding interview.",
+    "generated_content": "Hi! Thanks for coming in today. How's your day been so far?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_10052025184815",
+    "it": 0,
+    "user_utt_features": {
+        "cole": [
+            4.02
+        ],
+        "flesch_kincaid": [
+            8.180000000000003
+        ],
+        "average_word_length": [
+            3.1818181818181817
+        ],
+        "mtld": [
+            8.0
+        ],
+        "smog": [
+            17.122413403193683
+        ],
+        "pronoun_density": [
+            0.09090909090909091
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 0.9383971691131592,
+        "llama_runtime": 1.6386191844940186
+    }
+}

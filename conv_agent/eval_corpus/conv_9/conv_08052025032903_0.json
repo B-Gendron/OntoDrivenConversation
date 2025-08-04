@@ -1,0 +1,42 @@
+{
+    "prompt": "Hello, is this the right place for the zoo keeper interview?",
+    "generated_content": "Don't worry, you're in the right place! I'm happy to help you prepare for your interview. But before we dive into the nitty-gritty, how's your day going so far?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_08052025032903",
+    "it": 0,
+    "user_utt_features": {
+        "cole": [
+            7.167272727272721
+        ],
+        "flesch_kincaid": [
+            9.081818181818182
+        ],
+        "average_word_length": [
+            3.642857142857143
+        ],
+        "mtld": [
+            11.0
+        ],
+        "smog": [
+            21.19438992294339
+        ],
+        "pronoun_density": [
+            0.07142857142857142
+        ],
+        "characteristics": [
+            "A2",
+            "neutral",
+            "non_loaded"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 2.0119285583496094,
+        "llama_runtime": 2.4046072959899902
+    }
+}

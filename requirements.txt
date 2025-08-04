@@ -1,0 +1,13 @@
+datasets==3.1.0
+lftk==1.0.9
+owlready2==0.47
+pandas==2.2.3
+peft==0.13.2
+rdflib==7.1.1
+rouge-score==0.1.2
+sacrebleu==2.5.1
+spacy==3.8.2
+termcolor==2.5.0
+torch==2.5.1
+tqdm==4.66.6
+transformers==4.46.1

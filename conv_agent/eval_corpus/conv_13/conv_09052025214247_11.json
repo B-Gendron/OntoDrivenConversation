@@ -1,0 +1,43 @@
+{
+    "prompt": "Okay, what are those alternatives you suggest?",
+    "generated_content": "It seems like we've had a good discussion about the military context, but I think it's time to wrap up the interview. As we conclude, I want to thank you for participating and sharing your thoughts. It's not often that I get to engage in such a...lively conversation.\n\nAs for your performance, I'd say you showed some good instincts, but your decision-making process could benefit from a bit more nuance. You tend to lean towards bold, aggressive approaches, which can be",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "B1",
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_09052025214247",
+    "it": 11,
+    "user_utt_features": {
+        "cole": [
+            11.891428571428573
+        ],
+        "flesch_kincaid": [
+            17.482857142857146
+        ],
+        "average_word_length": [
+            4.1
+        ],
+        "mtld": [
+            7.0
+        ],
+        "smog": [
+            18.243605946275583
+        ],
+        "pronoun_density": [
+            0.2
+        ],
+        "characteristics": [
+            "C1",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 456.6052601337433,
+        "llama_runtime": 10.376801013946533
+    }
+}

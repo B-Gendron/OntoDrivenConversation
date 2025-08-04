@@ -1,0 +1,41 @@
+{
+    "prompt": "Such. THe main exercise is to focus on breathing with the womb, and do 5 to 10 repetitions of this along with positive affirmations.",
+    "generated_content": "I see. You're referring to a mindfulness exercise that involves focusing on the breath and using affirmations. That's a good start. Can you tell me more about why you choose to focus on the womb as a reference point for the breath? Is there a specific reason why you think this particular reference point is helpful for your patients?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "conv_06052025124144",
+    "it": 6,
+    "user_utt_features": {
+        "cole": [
+            7.703333333333333
+        ],
+        "flesch_kincaid": [
+            9.248333333333335
+        ],
+        "average_word_length": [
+            3.9285714285714284
+        ],
+        "mtld": [
+            22.0
+        ],
+        "smog": [
+            19.287186520377343
+        ],
+        "pronoun_density": [
+            0.03571428571428571
+        ],
+        "characteristics": [
+            "A2",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 1238.6310913562775,
+        "llama_runtime": 2.984412670135498
+    }
+}

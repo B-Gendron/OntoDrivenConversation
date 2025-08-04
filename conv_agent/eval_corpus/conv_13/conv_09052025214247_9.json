@@ -1,0 +1,42 @@
+{
+    "prompt": "I take the more agressive approach of course.",
+    "generated_content": "Your decision to take a more aggressive approach is a bold one. However, I'd like to point out that this could put your team at a higher risk of getting caught or injured. In a situation like this, it's essential to consider the potential consequences of your actions.\n\nLet's discuss this further. Do you think the potential benefits of the aggressive approach outweigh the potential risks, or do you think there's a better way to achieve the mission objective?",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "positive",
+        "loaded"
+    ],
+    "id": "conv_09052025214247",
+    "it": 9,
+    "user_utt_features": {
+        "cole": [
+            7.695
+        ],
+        "flesch_kincaid": [
+            12.605000000000004
+        ],
+        "average_word_length": [
+            3.9
+        ],
+        "mtld": [
+            8.0
+        ],
+        "smog": [
+            17.122413403193683
+        ],
+        "pronoun_density": [
+            0.1
+        ],
+        "characteristics": [
+            "B1",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 146.6070659160614,
+        "llama_runtime": 9.337700843811035
+    }
+}

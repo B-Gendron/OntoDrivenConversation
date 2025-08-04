@@ -1,0 +1,42 @@
+{
+    "prompt": "The data came directly from the personal tool of each worker. We collected the training data about speed, time and force during a full week, which amounts to about 20h of use, and then trained a rather simple linear regression model on those data. It turns out that, before dirft, this was enough to get low errors.",
+    "generated_content": "That's a good approach to collecting data and training a model. It's impressive that a simple linear regression model was able to provide low errors. However, some might argue that relying on human performance data, which can be variable, might not be the most reliable method. How do you respond to that criticism?",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "positive",
+        "loaded"
+    ],
+    "id": "conv_07052025121613",
+    "it": 8,
+    "user_utt_features": {
+        "cole": [
+            8.534736842105264
+        ],
+        "flesch_kincaid": [
+            12.521754385964911
+        ],
+        "average_word_length": [
+            3.9393939393939394
+        ],
+        "mtld": [
+            56.0
+        ],
+        "smog": [
+            25.98008509911553
+        ],
+        "pronoun_density": [
+            0.06060606060606061
+        ],
+        "characteristics": [
+            "B1",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 533.4887261390686,
+        "llama_runtime": 3.8826842308044434
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "prompt": "I developped a hybrid platform using electron, a different one using Java only and another one in C++. Basically I worked on several projects going from a e-shop website to many personal website for artists, mostly.",
+    "generated_content": "That's great! It sounds like you have a diverse set of experiences under your belt. Can you tell me more about your education? Where did you study and what did you study?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_10052025184815",
+    "it": 3,
+    "user_utt_features": {
+        "cole": [
+            10.410810810810808
+        ],
+        "flesch_kincaid": [
+            13.949324324324326
+        ],
+        "average_word_length": [
+            4.209302325581396
+        ],
+        "mtld": [
+            36.0
+        ],
+        "smog": [
+            24.50423929779172
+        ],
+        "pronoun_density": [
+            0.046511627906976744
+        ],
+        "characteristics": [
+            "B2",
+            "loaded",
+            "neutral"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 5.955732107162476,
+        "llama_runtime": 2.9519731998443604
+    }
+}

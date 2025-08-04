@@ -1,0 +1,42 @@
+{
+    "prompt": "I don't have much in terms of degrees, but I've had a dog since I was 8 and I do horse ridding. I also really love animals and did a short stay shadowing a zoo keeper once. ",
+    "generated_content": "While it sounds like you have some hands-on experience with animals, can you tell me a bit more about the shadowing experience you mentioned? What was it like observing a zookeeper, and what did you learn from it?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "conv_08052025032903",
+    "it": 3,
+    "user_utt_features": {
+        "cole": [
+            1.9753846153846126
+        ],
+        "flesch_kincaid": [
+            6.423589743589744
+        ],
+        "average_word_length": [
+            3.186046511627907
+        ],
+        "mtld": [
+            36.0
+        ],
+        "smog": [
+            19.946969662950774
+        ],
+        "pronoun_density": [
+            0.11627906976744186
+        ],
+        "characteristics": [
+            "A2",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 13.046995401382446,
+        "llama_runtime": 2.267585039138794
+    }
+}

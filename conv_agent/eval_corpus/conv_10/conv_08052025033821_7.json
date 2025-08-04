@@ -1,0 +1,41 @@
+{
+    "prompt": "The sad truth is, we can't wait for struggling students and we shouldn't have to make this choice. I don't think we can do both either. What I think is needed is more resource so that struggling students can have more support, while for students who are equipped to succeed without the additional support don't have to be held up.",
+    "generated_content": "It's refreshing to hear that you're advocating for a more comprehensive approach to supporting students. Providing adequate resources is indeed crucial for addressing the needs of struggling students. How do you think we can effectively allocate resources in a way that ensures struggling students receive the support they need, without holding back the rest of the class?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "conv_08052025033821",
+    "it": 7,
+    "user_utt_features": {
+        "cole": [
+            7.251249999999999
+        ],
+        "flesch_kincaid": [
+            10.614375000000003
+        ],
+        "average_word_length": [
+            3.8857142857142857
+        ],
+        "mtld": [
+            60.0
+        ],
+        "smog": [
+            25.498957844876884
+        ],
+        "pronoun_density": [
+            0.11428571428571428
+        ],
+        "characteristics": [
+            "B1",
+            "loaded",
+            "negative"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 367.9992628097534,
+        "llama_runtime": 3.2390146255493164
+    }
+}

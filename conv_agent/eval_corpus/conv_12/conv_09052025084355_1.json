@@ -1,0 +1,42 @@
+{
+    "prompt": "It has been pretty great, considering we are still early in the morning",
+    "generated_content": "That's a good attitude to have! I'm glad to hear it's starting off well. Do you have a favorite morning coffee spot, or do you usually make your own at home?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_09052025084355",
+    "it": 1,
+    "user_utt_features": {
+        "cole": [
+            8.156923076923078
+        ],
+        "flesch_kincaid": [
+            10.356923076923078
+        ],
+        "average_word_length": [
+            4.0
+        ],
+        "mtld": [
+            13.0
+        ],
+        "smog": [
+            21.19438992294339
+        ],
+        "pronoun_density": [
+            0.13333333333333333
+        ],
+        "characteristics": [
+            "B1",
+            "positive",
+            "non_loaded"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 0.9078459739685059,
+        "llama_runtime": 2.953057050704956
+    }
+}

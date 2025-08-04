@@ -1,0 +1,41 @@
+{
+    "prompt": "Ok then, I am listening.",
+    "generated_content": "I'm glad you're willing to listen. Now, let's get back to the scenario I mentioned earlier. You're part of a special operations team, and you're tasked with infiltrating an enemy base to gather intel. The mission is high-risk, but it's crucial for the success of the operation. As you approach the base, you notice that the enemy has set up a series of traps and defensive positions. You have a team of five soldiers with you, and you need to decide how",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "conv_09052025214247",
+    "it": 7,
+    "user_utt_features": {
+        "cole": [
+            -0.5520000000000014
+        ],
+        "flesch_kincaid": [
+            2.879999999999999
+        ],
+        "average_word_length": [
+            2.625
+        ],
+        "mtld": [
+            5.0
+        ],
+        "smog": [
+            11.20814326018867
+        ],
+        "pronoun_density": [
+            0.125
+        ],
+        "characteristics": [
+            "A1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 314.11408400535583,
+        "llama_runtime": 8.865479230880737
+    }
+}

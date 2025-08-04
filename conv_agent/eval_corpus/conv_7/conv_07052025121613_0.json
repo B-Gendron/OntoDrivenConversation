@@ -1,0 +1,42 @@
+{
+    "prompt": "Good morning, really happy to meet you!",
+    "generated_content": "Good morning! It's great to meet you too! How's your day starting out so far?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "neutral",
+        "non_loaded"
+    ],
+    "id": "conv_07052025121613",
+    "it": 0,
+    "user_utt_features": {
+        "cole": [
+            6.011428571428574
+        ],
+        "flesch_kincaid": [
+            12.425714285714289
+        ],
+        "average_word_length": [
+            3.4
+        ],
+        "mtld": [
+            7.0
+        ],
+        "smog": [
+            17.122413403193683
+        ],
+        "pronoun_density": [
+            0.1
+        ],
+        "characteristics": [
+            "B1",
+            "loaded",
+            "positive"
+        ]
+    },
+    "runtimes": {
+        "pellet_runtime": 2.5572214126586914,
+        "llama_runtime": 1.5527451038360596
+    }
+}
