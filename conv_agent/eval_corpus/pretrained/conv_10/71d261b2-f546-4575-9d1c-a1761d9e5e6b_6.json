@@ -1,0 +1,18 @@
+{
+    "prompt": "We have a manual, that says that we cannot open the tank, and cannot smoke near it. We also have to drive extra careful and there are special things to do and people to contact in case of accident.",
+    "generated_content": "That's correct, the manual is a crucial resource for handling hazardous materials. It's good that you're aware of the specific procedures and protocols in place. Can you tell me about a time when you had to handle an unexpected situation while hauling gas, such as a sudden leak or a traffic accident? How did you respond and what steps did you take to ensure everyone's safety?",
+    "formatted_generation": "That's correct, the manual is a crucial resource for handling hazardous materials.  It's good that you're aware of the specific procedures and protocols in place.  Can you tell me about a time when you had to handle an unexpected situation while hauling gas, such as a sudden leak or a traffic accident?  How did you respond and what steps did you take to ensure everyone's safety?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "71d261b2-f546-4575-9d1c-a1761d9e5e6b",
+    "it": 6,
+    "runtimes": {
+        "reasoner_runtime": 0.5072288513183594,
+        "llama_runtime": 3.0862791538238525,
+        "total_runtime": 3.593508005142212
+    }
+}

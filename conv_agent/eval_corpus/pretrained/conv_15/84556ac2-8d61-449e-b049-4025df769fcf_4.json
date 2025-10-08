@@ -1,0 +1,19 @@
+{
+    "prompt": "I repaired many leaking faucets, clogged sinks and running toilets. This means I mainly worked for residential issues, not for huge commercial systems yet. But I am ready to work in any context! Just hire me!",
+    "generated_content": "I appreciate your enthusiasm, and it's great that you're eager to take on new challenges. While your experience with residential work is a good foundation, I'd like to understand more about your technical skills and certifications. Do you have any licenses or certifications in plumbing or HVAC, such as a plumbing license or a certification from a reputable organization like NATE (North American Technician Excellence)?",
+    "formatted_generation": "I appreciate your enthusiasm, and it's great that you're eager to take on new challenges.  While your experience with residential work is a good foundation, I'd like to understand more about your technical skills and certifications.  Do you have any licenses or certifications in plumbing or HVAC, such as a plumbing license or a certification from a reputable organization like NATE (North American Technician Excellence)?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "84556ac2-8d61-449e-b049-4025df769fcf",
+    "it": 4,
+    "runtimes": {
+        "reasoner_runtime": 0.41258668899536133,
+        "llama_runtime": 3.731337547302246,
+        "total_runtime": 4.143924236297607
+    }
+}

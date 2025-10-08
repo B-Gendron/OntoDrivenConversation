@@ -1,0 +1,19 @@
+{
+    "prompt": "There, the job was not very creative. I was mostly operating parts of the line, do some quality check, verify ingredient mixe, things like this.",
+    "generated_content": "It sounds like you were focused on ensuring the production process ran smoothly and efficiently. That's a crucial role in a large industrial bakery. Did you have any opportunities for professional development or training during your time there, such as workshops or courses on food safety or quality control?",
+    "formatted_generation": "It sounds like you were focused on ensuring the production process ran smoothly and efficiently.  That's a crucial role in a large industrial bakery.  Did you have any opportunities for professional development or training during your time there, such as workshops or courses on food safety or quality control?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "4a57273a-dffa-434d-9b2d-1e71816a4a66",
+    "it": 4,
+    "runtimes": {
+        "reasoner_runtime": 0.1358799934387207,
+        "llama_runtime": 2.4685330390930176,
+        "total_runtime": 2.6044130325317383
+    }
+}

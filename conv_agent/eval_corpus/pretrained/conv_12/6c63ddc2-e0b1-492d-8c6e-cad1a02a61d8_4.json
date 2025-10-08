@@ -1,0 +1,19 @@
+{
+    "prompt": "As I told you, I do not have any experience yet. I just finished the school curriculum",
+    "generated_content": "So, you've just completed your culinary education at Le Cordon Bleu. Did you have any internships or externships during your studies, or any projects that allowed you to apply the skills you learned in a real-world setting?",
+    "formatted_generation": "So, you've just completed your culinary education at Le Cordon Bleu.  Did you have any internships or externships during your studies, or any projects that allowed you to apply the skills you learned in a real-world setting?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "6c63ddc2-e0b1-492d-8c6e-cad1a02a61d8",
+    "it": 4,
+    "runtimes": {
+        "reasoner_runtime": 0.16308212280273438,
+        "llama_runtime": 2.1878671646118164,
+        "total_runtime": 2.350949287414551
+    }
+}

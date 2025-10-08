@@ -1,0 +1,19 @@
+{
+    "prompt": "Hello hello. It seems you are looking for a florist there? I myself love to tend to flowers. Would you mind if I apply?",
+    "generated_content": "Not at all! We're always happy to meet enthusiastic people who appreciate flowers. How's your day been so far?",
+    "formatted_generation": "Not at all!  We're always happy to meet enthusiastic people who appreciate flowers.  How's your day been so far?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "763cec57-44ec-4abe-889c-90ffd757df1f",
+    "it": 0,
+    "runtimes": {
+        "reasoner_runtime": 0.0234222412109375,
+        "llama_runtime": 1.2947876453399658,
+        "total_runtime": 1.3182098865509033
+    }
+}

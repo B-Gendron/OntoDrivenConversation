@@ -1,0 +1,19 @@
+{
+    "prompt": "I would still disagree here : yes, humans have a role in creating products, testing recipes, trying new things. Industrial baking is not about that, it is about scale. If humans are not needed to achieve that, why force it? They would be better somewhere else where they have a real contribution.",
+    "generated_content": "We've reached the end of our interview. I want to thank you for sharing your thoughts and experiences with me today. It's been enlightening to hear your perspective on the baking industry and your goals. One area for improvement I noticed is that you could have elaborated more on your strengths and how they align with the position you're applying for. However, your passion for baking and your willingness to speak your mind are definite assets. Do you have any final questions for me about the position or the",
+    "formatted_generation": "We've reached the end of our interview.  I want to thank you for sharing your thoughts and experiences with me today.  It's been enlightening to hear your perspective on the baking industry and your goals.  One area for improvement I noticed is that you could have elaborated more on your strengths and how they align with the position you're applying for.  However, your passion for baking and your willingness to speak your mind are definite assets.",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "4a57273a-dffa-434d-9b2d-1e71816a4a66",
+    "it": 10,
+    "runtimes": {
+        "reasoner_runtime": 0.981264591217041,
+        "llama_runtime": 4.929502964019775,
+        "total_runtime": 5.910767555236816
+    }
+}

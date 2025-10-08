@@ -1,0 +1,20 @@
+{
+    "prompt": "I studied digital communication especially, and I worked as a community manager.",
+    "generated_content": "That's a great combination of skills. As a community manager, you likely worked with social media, content creation, and team collaboration. Can you walk me through your experience with social media management? What platforms did you work with, and what kind of content did you create for your audience?",
+    "formatted_generation": "That's a great combination of skills.  As a community manager, you likely worked with social media, content creation, and team collaboration.  Can you walk me through your experience with social media management?  What platforms did you work with, and what kind of content did you create for your audience?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "B2",
+        "positive",
+        "non_loaded"
+    ],
+    "id": "92a70b97-cc40-497b-9f30-496ba883cbaf",
+    "it": 4,
+    "runtimes": {
+        "reasoner_runtime": 0.29782748222351074,
+        "llama_runtime": 2.623486280441284,
+        "total_runtime": 2.921313762664795
+    }
+}

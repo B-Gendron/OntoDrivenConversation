@@ -1,0 +1,18 @@
+{
+    "prompt": "I want to make people happy. The eldery people in such retirement houses usually need to have joyful activities.",
+    "generated_content": "I can see that you have a genuine passion for bringing joy to others. As a singer, you must have experience with vocal warm-ups and exercises to prepare for performances. Can you walk me through your process for warming up your voice before a show, especially when singing for a diverse group like the elderly?",
+    "formatted_generation": "I can see that you have a genuine passion for bringing joy to others.  As a singer, you must have experience with vocal warm-ups and exercises to prepare for performances.  Can you walk me through your process for warming up your voice before a show, especially when singing for a diverse group like the elderly?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "921d49f6-7730-46b5-8de2-1640d1af2426",
+    "it": 5,
+    "runtimes": {
+        "reasoner_runtime": 0.14867734909057617,
+        "llama_runtime": 2.7862510681152344,
+        "total_runtime": 2.9349284172058105
+    }
+}

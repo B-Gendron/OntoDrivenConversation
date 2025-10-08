@@ -1,0 +1,18 @@
+{
+    "prompt": "It may come from the fuel temperature sensor. I would try buying and installing a new one",
+    "generated_content": "That's a good idea to consider the fuel temperature sensor, as it can affect fuel pressure. However, wouldn't replacing the fuel temperature sensor alone be a bit simplistic? What about other potential causes, such as a faulty fuel filter, a clogged fuel line, or an issue with the fuel pressure regulator? How would you investigate and rule out these other possibilities?",
+    "formatted_generation": "That's a good idea to consider the fuel temperature sensor, as it can affect fuel pressure.  However, wouldn't replacing the fuel temperature sensor alone be a bit simplistic?  What about other potential causes, such as a faulty fuel filter, a clogged fuel line, or an issue with the fuel pressure regulator?  How would you investigate and rule out these other possibilities?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "2d235dcf-fc03-4547-b8c6-0e78c898c344",
+    "it": 7,
+    "runtimes": {
+        "reasoner_runtime": 7.329823732376099,
+        "llama_runtime": 3.611689805984497,
+        "total_runtime": 10.941513538360596
+    }
+}

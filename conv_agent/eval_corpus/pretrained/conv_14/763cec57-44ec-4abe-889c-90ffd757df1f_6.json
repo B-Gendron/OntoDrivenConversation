@@ -1,0 +1,18 @@
+{
+    "prompt": "for a wedding I would first try to find the specific mood and theme the couple are looking for. For instance, I think for a wedding we need devotion, thus we need at least some lavender. Moreover, we need to arrange also depending on the color, usually a mix of white and warm colors, with lavender purple tone is a perfect combination in my humble opinion.",
+    "generated_content": "That's a good start! Considering the mood and theme of the wedding is a crucial step in creating a bouquet that will resonate with the couple. Lavender is a lovely choice for its symbolic meaning of devotion and love.\n\nHowever, let's dive deeper into the technical aspect of bouquet design. How would you approach the structural composition of the bouquet? For example, would you use a loose, organic arrangement or a more structured, symmetrical design?",
+    "formatted_generation": "That's a good start!  Considering the mood and theme of the wedding is a crucial step in creating a bouquet that will resonate with the couple.  Lavender is a lovely choice for its symbolic meaning of devotion and love. \n\nHowever, let's dive deeper into the technical aspect of bouquet design.  How would you approach the structural composition of the bouquet?  For example, would you use a loose, organic arrangement or a more structured, symmetrical design?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "763cec57-44ec-4abe-889c-90ffd757df1f",
+    "it": 6,
+    "runtimes": {
+        "reasoner_runtime": 3.825007915496826,
+        "llama_runtime": 3.711127281188965,
+        "total_runtime": 7.536135196685791
+    }
+}

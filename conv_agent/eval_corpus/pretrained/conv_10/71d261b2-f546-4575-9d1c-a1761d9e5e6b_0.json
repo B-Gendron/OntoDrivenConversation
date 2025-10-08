@@ -1,0 +1,19 @@
+{
+    "prompt": "Hi, anybody there ? I'm here for the truck driver interview.",
+    "generated_content": "Hi there! I'm glad you're here. Don't worry, we're all set to go. How's your day been so far?",
+    "formatted_generation": "Hi there!  I'm glad you're here.  Don't worry, we're all set to go.  How's your day been so far?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "71d261b2-f546-4575-9d1c-a1761d9e5e6b",
+    "it": 0,
+    "runtimes": {
+        "reasoner_runtime": 0.0398712158203125,
+        "llama_runtime": 1.2882063388824463,
+        "total_runtime": 1.3280775547027588
+    }
+}

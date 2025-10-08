@@ -1,0 +1,19 @@
+{
+    "prompt": "Honestly, remote work\u2019s made us communicate more intentionally\u2014using chats, calls, and tools\u2014since you can\u2019t just pop over to someone\u2019s desk. It\u2019s harder to have random brainstorms, but we\u2019ve gotten better at planning and staying on the same page.",
+    "generated_content": "That's a valid point about the importance of intentional communication in remote work. However, some argue that remote work can lead to a sense of disconnection and isolation among team members. Do you think it's possible to replicate the same level of camaraderie and team bonding that's often associated with in-person work environments in a remote setting?",
+    "formatted_generation": "That's a valid point about the importance of intentional communication in remote work.  However, some argue that remote work can lead to a sense of disconnection and isolation among team members.  Do you think it's possible to replicate the same level of camaraderie and team bonding that's often associated with in-person work environments in a remote setting?",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "negative",
+        "loaded"
+    ],
+    "id": "d3fd4c6e-ec5d-4445-8954-5e8c3b42328f",
+    "it": 9,
+    "runtimes": {
+        "reasoner_runtime": 0.5525929927825928,
+        "llama_runtime": 3.1467409133911133,
+        "total_runtime": 3.699333906173706
+    }
+}

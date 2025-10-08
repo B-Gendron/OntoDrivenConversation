@@ -1,0 +1,18 @@
+{
+    "prompt": "I usually focus on my breath and try to stay professional as long as possible",
+    "generated_content": "Now that we've talked about your experience as a cashier, let's move to the technical point of the interview. I'd like to ask you a technical question. You mentioned you've been working with cash registers, and I'm assuming you've had to troubleshoot issues with them. Can you walk me through your process for troubleshooting a malfunctioning cash register?",
+    "formatted_generation": "Now that we've talked about your experience as a cashier, let's move to the technical point of the interview.  I'd like to ask you a technical question.  You mentioned you've been working with cash registers, and I'm assuming you've had to troubleshoot issues with them.  Can you walk me through your process for troubleshooting a malfunctioning cash register?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "3842f860-74fe-4277-b245-60035ecad8c8",
+    "it": 6,
+    "runtimes": {
+        "reasoner_runtime": 2.0189802646636963,
+        "llama_runtime": 3.26749849319458,
+        "total_runtime": 5.286478757858276
+    }
+}

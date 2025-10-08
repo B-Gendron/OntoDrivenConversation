@@ -1,0 +1,19 @@
+{
+    "prompt": "At least I hope so!",
+    "generated_content": "Now that we've covered a range of topics, I'd like to take a moment to summarize our conversation and provide some final thoughts. You've demonstrated a good understanding of technical concepts, and your experience as a self-taught web developer is impressive. While we didn't quite nail down every technical detail, your willingness to learn and adapt is a valuable asset in this field. Do you have any final questions for me before we conclude the interview?",
+    "formatted_generation": "Now that we've covered a range of topics, I'd like to take a moment to summarize our conversation and provide some final thoughts.  You've demonstrated a good understanding of technical concepts, and your experience as a self-taught web developer is impressive.  While we didn't quite nail down every technical detail, your willingness to learn and adapt is a valuable asset in this field.  Do you have any final questions for me before we conclude the interview?",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "d3fd4c6e-ec5d-4445-8954-5e8c3b42328f",
+    "it": 10,
+    "runtimes": {
+        "reasoner_runtime": 0.6852080821990967,
+        "llama_runtime": 4.095082521438599,
+        "total_runtime": 4.780290603637695
+    }
+}

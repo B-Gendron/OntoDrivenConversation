@@ -1,0 +1,19 @@
+{
+    "prompt": "Hello, I have an appointment with mister Zork at 10am.",
+    "generated_content": "How's your morning going so far? Did you get a chance to grab a good cup of coffee before your appointment?",
+    "formatted_generation": "How's your morning going so far?  Did you get a chance to grab a good cup of coffee before your appointment?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "824f6483-87ec-4aa9-9b11-203a59d8423d",
+    "it": 0,
+    "runtimes": {
+        "reasoner_runtime": 0.04776763916015625,
+        "llama_runtime": 1.0325748920440674,
+        "total_runtime": 1.0803425312042236
+    }
+}

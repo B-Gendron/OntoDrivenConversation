@@ -1,0 +1,19 @@
+{
+    "prompt": "Err, pretty good I think, even is the day has just started.",
+    "generated_content": "That's fair enough, some days are a bit of a slow start! Do you have any fun plans for the rest of the day, or is it a pretty normal day ahead?",
+    "formatted_generation": "That's fair enough, some days are a bit of a slow start!  Do you have any fun plans for the rest of the day, or is it a pretty normal day ahead?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "998c0117-8d9b-404e-8ce2-bbf81b88104a",
+    "it": 1,
+    "runtimes": {
+        "reasoner_runtime": 0.12262916564941406,
+        "llama_runtime": 1.7068767547607422,
+        "total_runtime": 1.8295059204101562
+    }
+}

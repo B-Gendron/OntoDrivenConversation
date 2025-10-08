@@ -1,0 +1,18 @@
+{
+    "prompt": "Exactly, I usually warmup for 5 to 10 minutes in a separate room",
+    "generated_content": "So you keep your warm-up sessions relatively brief, which is great for maintaining your vocal agility and energy for the performance. Have you ever encountered any vocal strain or issues during or after your shows, and if so, how do you prevent or manage them?",
+    "formatted_generation": "So you keep your warm-up sessions relatively brief, which is great for maintaining your vocal agility and energy for the performance.  Have you ever encountered any vocal strain or issues during or after your shows, and if so, how do you prevent or manage them?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "921d49f6-7730-46b5-8de2-1640d1af2426",
+    "it": 6,
+    "runtimes": {
+        "reasoner_runtime": 0.3886291980743408,
+        "llama_runtime": 2.3580434322357178,
+        "total_runtime": 2.7466726303100586
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "prompt": "Good good, what's up man?",
+    "generated_content": "So, did you get a chance to try that new coffee shop downtown that just opened up?",
+    "formatted_generation": "So, did you get a chance to try that new coffee shop downtown that just opened up?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "d3fd4c6e-ec5d-4445-8954-5e8c3b42328f",
+    "it": 1,
+    "runtimes": {
+        "reasoner_runtime": 0.07923483848571777,
+        "llama_runtime": 0.9026398658752441,
+        "total_runtime": 0.9818747043609619
+    }
+}

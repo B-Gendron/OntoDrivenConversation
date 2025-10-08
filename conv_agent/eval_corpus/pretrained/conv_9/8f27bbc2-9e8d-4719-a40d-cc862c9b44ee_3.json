@@ -1,0 +1,20 @@
+{
+    "prompt": "I specialised in biology in high school and followed up with a bachelor in agronomy, which I think, besides my personal interest in the matter, makes me qualified as a salesman for therapeutic marijuana.",
+    "generated_content": "That's an interesting combination of education and interest. Can you tell me more about your work experience, Scott? What kind of roles have you held since graduating with your degree in agronomy?",
+    "formatted_generation": "That's an interesting combination of education and interest.  Can you tell me more about your work experience, Scott?  What kind of roles have you held since graduating with your degree in agronomy?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "B2",
+        "positive",
+        "non_loaded"
+    ],
+    "id": "8f27bbc2-9e8d-4719-a40d-cc862c9b44ee",
+    "it": 3,
+    "runtimes": {
+        "reasoner_runtime": 0.10466194152832031,
+        "llama_runtime": 1.650230884552002,
+        "total_runtime": 1.7548928260803223
+    }
+}

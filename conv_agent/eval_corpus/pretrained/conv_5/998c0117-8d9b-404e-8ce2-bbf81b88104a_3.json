@@ -1,0 +1,19 @@
+{
+    "prompt": "Yes. Well I don't have a lot to say, I basically have always been a mechanic. I worked for 15 years in the same garage, and it closed this year so that's why I'm searching for a new position.",
+    "generated_content": "So, 15 years of experience is impressive! Working for one place for such a long time is a testament to your dedication and commitment to your work. Can you tell me more about your role at the previous garage? What were your responsibilities and what kind of vehicles did you typically work on?",
+    "formatted_generation": "So, 15 years of experience is impressive!  Working for one place for such a long time is a testament to your dedication and commitment to your work.  Can you tell me more about your role at the previous garage?  What were your responsibilities and what kind of vehicles did you typically work on?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "998c0117-8d9b-404e-8ce2-bbf81b88104a",
+    "it": 3,
+    "runtimes": {
+        "reasoner_runtime": 0.20634889602661133,
+        "llama_runtime": 2.670368194580078,
+        "total_runtime": 2.8767170906066895
+    }
+}

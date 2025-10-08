@@ -1,0 +1,19 @@
+{
+    "prompt": "I did not go to school. I learned the plumber skills and everything by experience in my former country. When I arrived here, this helped me gain money and survive. This means I have a lot of experience for this position!",
+    "generated_content": "That's impressive that you were able to learn and gain experience through hands-on work. It's great that you were able to adapt and find a way to support yourself in a new country. Can you walk me through some of the specific types of plumbing and HVAC work you've done in the past? For example, have you worked with residential or commercial systems, and have you handled any particularly challenging projects or repairs?",
+    "formatted_generation": "That's impressive that you were able to learn and gain experience through hands-on work.  It's great that you were able to adapt and find a way to support yourself in a new country.  Can you walk me through some of the specific types of plumbing and HVAC work you've done in the past?  For example, have you worked with residential or commercial systems, and have you handled any particularly challenging projects or repairs?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "84556ac2-8d61-449e-b049-4025df769fcf",
+    "it": 3,
+    "runtimes": {
+        "reasoner_runtime": 0.3103930950164795,
+        "llama_runtime": 3.837456226348877,
+        "total_runtime": 4.1478493213653564
+    }
+}

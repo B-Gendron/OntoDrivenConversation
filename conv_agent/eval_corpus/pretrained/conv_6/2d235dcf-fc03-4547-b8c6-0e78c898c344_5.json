@@ -1,0 +1,18 @@
+{
+    "prompt": "Yes, I loved solving technical problems, but I hate having to handle customers. They are always so picky about everything!",
+    "generated_content": "\nGiven your experience with problem-solving and technical aspects of running a repair station, let's dive into a technical question related to your background. Imagine you have a customer who brings in a car with a faulty fuel system. The car's fuel pressure gauge is showing low pressure, but the fuel pump is working fine. How would you troubleshoot the issue and what steps would you take to fix it?",
+    "formatted_generation": "Given your experience with problem-solving and technical aspects of running a repair station, let's dive into a technical question related to your background.  Imagine you have a customer who brings in a car with a faulty fuel system.  The car's fuel pressure gauge is showing low pressure, but the fuel pump is working fine.  How would you troubleshoot the issue and what steps would you take to fix it?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "2d235dcf-fc03-4547-b8c6-0e78c898c344",
+    "it": 5,
+    "runtimes": {
+        "reasoner_runtime": 1.209566593170166,
+        "llama_runtime": 4.410062074661255,
+        "total_runtime": 5.619628667831421
+    }
+}

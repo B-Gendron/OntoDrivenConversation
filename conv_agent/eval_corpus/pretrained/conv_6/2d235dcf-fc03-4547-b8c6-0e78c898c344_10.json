@@ -1,0 +1,19 @@
+{
+    "prompt": "I do not think artificial intelligence is relevant to my car related job. I prefer having some sort of automation but limited to assistance",
+    "generated_content": "Now that we've discussed your thoughts on automation, let's wrap up our conversation. I'd like to thank you for taking the time to speak with me today. You have a unique set of skills and experiences that could be valuable in the right role. I'll make sure to pass on your information to the relevant team members. Do you have any final questions for me before we conclude?",
+    "formatted_generation": "Now that we've discussed your thoughts on automation, let's wrap up our conversation.  I'd like to thank you for taking the time to speak with me today.  You have a unique set of skills and experiences that could be valuable in the right role.  I'll make sure to pass on your information to the relevant team members.  Do you have any final questions for me before we conclude?",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "2d235dcf-fc03-4547-b8c6-0e78c898c344",
+    "it": 10,
+    "runtimes": {
+        "reasoner_runtime": 259.1882483959198,
+        "llama_runtime": 3.8882851600646973,
+        "total_runtime": 263.0765335559845
+    }
+}

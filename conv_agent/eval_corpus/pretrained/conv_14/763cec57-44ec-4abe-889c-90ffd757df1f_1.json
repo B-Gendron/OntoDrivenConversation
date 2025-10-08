@@ -1,0 +1,19 @@
+{
+    "prompt": "My day has been quite wonderful. I woke up early, to a nice coffee and went to my garden to attend to my beautiful daisy flowers!",
+    "generated_content": "That sounds lovely! There's something so peaceful about starting the day with a cup of coffee and some fresh air. Do you have a favorite type of flower to grow in your garden, or do you like to mix and match different varieties?",
+    "formatted_generation": "That sounds lovely!  There's something so peaceful about starting the day with a cup of coffee and some fresh air.  Do you have a favorite type of flower to grow in your garden, or do you like to mix and match different varieties?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "763cec57-44ec-4abe-889c-90ffd757df1f",
+    "it": 1,
+    "runtimes": {
+        "reasoner_runtime": 0.04741621017456055,
+        "llama_runtime": 2.511284351348877,
+        "total_runtime": 2.5587005615234375
+    }
+}

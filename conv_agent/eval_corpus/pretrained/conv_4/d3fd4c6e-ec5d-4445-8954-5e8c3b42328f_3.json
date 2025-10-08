@@ -1,0 +1,19 @@
+{
+    "prompt": "Sure! I'm a very talented web developer. I learnt everything by myself, and worked for 3 years.",
+    "generated_content": "That's impressive that you're self-taught. What motivated you to pursue a career in web development, and what specific areas of web development do you specialize in?",
+    "formatted_generation": "That's impressive that you're self-taught.  What motivated you to pursue a career in web development, and what specific areas of web development do you specialize in?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "d3fd4c6e-ec5d-4445-8954-5e8c3b42328f",
+    "it": 3,
+    "runtimes": {
+        "reasoner_runtime": 0.061786651611328125,
+        "llama_runtime": 1.5788085460662842,
+        "total_runtime": 1.6405951976776123
+    }
+}

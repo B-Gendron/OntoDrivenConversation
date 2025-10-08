@@ -1,0 +1,19 @@
+{
+    "prompt": "I don't think this should be part of the interview to be honest.",
+    "generated_content": "Let's get back on track. Before we dive into the interview, can you start by telling me a little bit about your background? What makes you a strong candidate for this garage mechanic position?",
+    "formatted_generation": "Let's get back on track.  Before we dive into the interview, can you start by telling me a little bit about your background?  What makes you a strong candidate for this garage mechanic position?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "998c0117-8d9b-404e-8ce2-bbf81b88104a",
+    "it": 2,
+    "runtimes": {
+        "reasoner_runtime": 0.08131718635559082,
+        "llama_runtime": 1.7954721450805664,
+        "total_runtime": 1.8767893314361572
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "prompt": "Very much yes. I'm planning to go out with a group of friends to have some fun.",
+    "generated_content": "Let's get back to the interview. I'd love to learn more about your professional background, Scott. Can you tell me a bit about your education? What degree did you earn and from which institution?",
+    "formatted_generation": "Let's get back to the interview.  I'd love to learn more about your professional background, Scott.  Can you tell me a bit about your education?  What degree did you earn and from which institution?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "8f27bbc2-9e8d-4719-a40d-cc862c9b44ee",
+    "it": 2,
+    "runtimes": {
+        "reasoner_runtime": 0.05363273620605469,
+        "llama_runtime": 1.759343147277832,
+        "total_runtime": 1.8129758834838867
+    }
+}

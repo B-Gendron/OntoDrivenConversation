@@ -1,0 +1,19 @@
+{
+    "prompt": "OK",
+    "generated_content": "I think we might have gotten a bit sidetracked again, Gary. Let's get back on track. We were discussing a more nuanced topic, and I'd like to explore that further. As a receptionist, you'll likely be interacting with people from diverse backgrounds and with varying opinions. What are your thoughts on the topic of remote work? Do you think it's beneficial for employees, or do you think it's better for people to be in the office?",
+    "formatted_generation": "I think we might have gotten a bit sidetracked again, Gary.  Let's get back on track.  We were discussing a more nuanced topic, and I'd like to explore that further.  As a receptionist, you'll likely be interacting with people from diverse backgrounds and with varying opinions.  What are your thoughts on the topic of remote work?  Do you think it's beneficial for employees, or do you think it's better for people to be in the office?",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "loaded",
+        "positive"
+    ],
+    "id": "7cb12617-99ad-41b7-8502-7f5b9038dca6",
+    "it": 8,
+    "runtimes": {
+        "reasoner_runtime": 0.5049855709075928,
+        "llama_runtime": 3.762113571166992,
+        "total_runtime": 4.267099142074585
+    }
+}

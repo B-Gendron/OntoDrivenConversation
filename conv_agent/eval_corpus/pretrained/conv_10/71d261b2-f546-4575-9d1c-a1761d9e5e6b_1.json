@@ -1,0 +1,19 @@
+{
+    "prompt": "It is kind of fucked up really. My back hurts and someone crossed me on the road and that made me angry.",
+    "generated_content": "Sorry to hear that. Dealing with traffic and rude drivers can be really frustrating. Did you get to take a break and stretch your back at all, or are you feeling a bit stiff right now?",
+    "formatted_generation": "Sorry to hear that.  Dealing with traffic and rude drivers can be really frustrating.  Did you get to take a break and stretch your back at all, or are you feeling a bit stiff right now?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "71d261b2-f546-4575-9d1c-a1761d9e5e6b",
+    "it": 1,
+    "runtimes": {
+        "reasoner_runtime": 0.03824257850646973,
+        "llama_runtime": 1.7187833786010742,
+        "total_runtime": 1.757025957107544
+    }
+}

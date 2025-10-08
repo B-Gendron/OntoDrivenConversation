@@ -1,0 +1,19 @@
+{
+    "prompt": "Good afternoon, I'm Scott Thomas. Are you Richard Matthews?",
+    "generated_content": "Good afternoon, Scott! Yes, I'm Richard Matthews. It's a pleasure to meet you. How was your day so far?",
+    "formatted_generation": "Good afternoon, Scott!  Yes, I'm Richard Matthews.  It's a pleasure to meet you.  How was your day so far?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "8f27bbc2-9e8d-4719-a40d-cc862c9b44ee",
+    "it": 0,
+    "runtimes": {
+        "reasoner_runtime": 0.03912615776062012,
+        "llama_runtime": 1.0723984241485596,
+        "total_runtime": 1.1115245819091797
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "prompt": "Yeah, that's right, I mistyped. I've been driving since I got my licence, like 20 years ago.",
+    "generated_content": "So you've had a lot of experience driving over the past 20 years. What kind of trucks have you been driving, and have you had any experience with different types of cargo, such as hazardous materials or oversized loads?",
+    "formatted_generation": "So you've had a lot of experience driving over the past 20 years.  What kind of trucks have you been driving, and have you had any experience with different types of cargo, such as hazardous materials or oversized loads?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "71d261b2-f546-4575-9d1c-a1761d9e5e6b",
+    "it": 4,
+    "runtimes": {
+        "reasoner_runtime": 0.10434675216674805,
+        "llama_runtime": 1.8624420166015625,
+        "total_runtime": 1.9667887687683105
+    }
+}

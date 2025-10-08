@@ -1,0 +1,19 @@
+{
+    "prompt": "I know how to drive a trick.",
+    "generated_content": "I think you meant to say \"truck\", right? Can you tell me a bit more about your experience driving trucks? How long have you been driving, and what types of cargo have you been transporting?",
+    "formatted_generation": "I think you meant to say \"truck\", right?  Can you tell me a bit more about your experience driving trucks?  How long have you been driving, and what types of cargo have you been transporting?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "71d261b2-f546-4575-9d1c-a1761d9e5e6b",
+    "it": 3,
+    "runtimes": {
+        "reasoner_runtime": 0.10146212577819824,
+        "llama_runtime": 1.9000287055969238,
+        "total_runtime": 2.001490831375122
+    }
+}

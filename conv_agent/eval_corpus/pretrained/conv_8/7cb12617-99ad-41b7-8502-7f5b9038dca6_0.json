@@ -1,0 +1,19 @@
+{
+    "prompt": "Good morning, very nice to meet you, my name is gary and I'm applying to the receptionist job.",
+    "generated_content": "Good morning, Gary! It's great to meet you too! Nice to have you here. How about we start with something light? How was your morning so far? Did you have a chance to grab a cup of coffee before our meeting?",
+    "formatted_generation": "Good morning, Gary!  It's great to meet you too!  Nice to have you here.  How about we start with something light?  How was your morning so far?  Did you have a chance to grab a cup of coffee before our meeting?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "7cb12617-99ad-41b7-8502-7f5b9038dca6",
+    "it": 0,
+    "runtimes": {
+        "reasoner_runtime": 0.01988506317138672,
+        "llama_runtime": 2.051046371459961,
+        "total_runtime": 2.0709314346313477
+    }
+}

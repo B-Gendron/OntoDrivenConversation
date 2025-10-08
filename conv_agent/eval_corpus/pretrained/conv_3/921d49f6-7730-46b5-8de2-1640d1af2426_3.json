@@ -1,0 +1,19 @@
+{
+    "prompt": "Sure! I've been a professionnal singer for 6 years now. Singing for the eldery people is a very meaningful perspective to me.",
+    "generated_content": "That's fascinating! It's great that you've found a way to share your passion for singing in a meaningful way. Can you tell me more about your educational background that has prepared you for this profession? Did you study music or music therapy in school?",
+    "formatted_generation": "That's fascinating!  It's great that you've found a way to share your passion for singing in a meaningful way.  Can you tell me more about your educational background that has prepared you for this profession?  Did you study music or music therapy in school?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "921d49f6-7730-46b5-8de2-1640d1af2426",
+    "it": 3,
+    "runtimes": {
+        "reasoner_runtime": 0.10747575759887695,
+        "llama_runtime": 2.333291530609131,
+        "total_runtime": 2.440767288208008
+    }
+}

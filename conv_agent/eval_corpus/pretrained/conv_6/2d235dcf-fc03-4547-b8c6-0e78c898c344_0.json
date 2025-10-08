@@ -1,0 +1,19 @@
+{
+    "prompt": "Hello, I am here for the interview.",
+    "generated_content": "Hi there! It's great to meet you in person. How was your commute here today? Was it a bit of a rush or did you have a smooth ride?",
+    "formatted_generation": "Hi there!  It's great to meet you in person.  How was your commute here today?  Was it a bit of a rush or did you have a smooth ride?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "2d235dcf-fc03-4547-b8c6-0e78c898c344",
+    "it": 0,
+    "runtimes": {
+        "reasoner_runtime": 0.021291494369506836,
+        "llama_runtime": 2.118497610092163,
+        "total_runtime": 2.13978910446167
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "prompt": "Hello there, I am here for the interview to become a forensic. Can I sit?",
+    "generated_content": "Please, have a seat. It's great to meet you in person. How's your day been so far?",
+    "formatted_generation": "Please, have a seat.  It's great to meet you in person.  How's your day been so far?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "115dc1fe-1b30-4558-a5e8-cc348454e5ea",
+    "it": 0,
+    "runtimes": {
+        "reasoner_runtime": 0.022325515747070312,
+        "llama_runtime": 1.662950038909912,
+        "total_runtime": 1.6852755546569824
+    }
+}

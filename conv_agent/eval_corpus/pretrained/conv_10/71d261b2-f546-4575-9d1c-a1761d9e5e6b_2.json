@@ -1,0 +1,19 @@
+{
+    "prompt": "Just told you, I'm feeling fucked....",
+    "generated_content": "Sorry to hear that you're still feeling upset. Let's try to shift gears a bit. Can you start by telling me a bit about your background? What makes you a strong candidate for this truck driver position?",
+    "formatted_generation": "Sorry to hear that you're still feeling upset.  Let's try to shift gears a bit.  Can you start by telling me a bit about your background?  What makes you a strong candidate for this truck driver position?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "71d261b2-f546-4575-9d1c-a1761d9e5e6b",
+    "it": 2,
+    "runtimes": {
+        "reasoner_runtime": 0.05536222457885742,
+        "llama_runtime": 1.7546768188476562,
+        "total_runtime": 1.8100390434265137
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "prompt": "It is still very early, so not much happened to me so far. I'm good about drinks, I just had a coffee, but thanks for asking.",
+    "generated_content": "So, you're a morning person, huh? I'm more of a \"get going when I get going\" kind of person myself. Do you have any fun plans for the weekend, Gary?",
+    "formatted_generation": "So, you're a morning person, huh?  I'm more of a \"get going when I get going\" kind of person myself.  Do you have any fun plans for the weekend, Gary?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "7cb12617-99ad-41b7-8502-7f5b9038dca6",
+    "it": 1,
+    "runtimes": {
+        "reasoner_runtime": 0.07720732688903809,
+        "llama_runtime": 1.6738927364349365,
+        "total_runtime": 1.7511000633239746
+    }
+}

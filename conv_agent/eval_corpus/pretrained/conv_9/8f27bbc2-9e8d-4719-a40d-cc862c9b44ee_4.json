@@ -1,0 +1,19 @@
+{
+    "prompt": "I have been involved in an industrial farm, mostly cereals. There I worked with the team optimising growth and planning cultures, but I quickly moved to more commercial roles. Those somehow suit better my personality.",
+    "generated_content": "It sounds like you've had a mix of technical and commercial experience, which can be valuable in a sales role. Can you walk me through your experience in those commercial roles? What were your responsibilities, and what were some of your accomplishments?",
+    "formatted_generation": "It sounds like you've had a mix of technical and commercial experience, which can be valuable in a sales role.  Can you walk me through your experience in those commercial roles?  What were your responsibilities, and what were some of your accomplishments?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "8f27bbc2-9e8d-4719-a40d-cc862c9b44ee",
+    "it": 4,
+    "runtimes": {
+        "reasoner_runtime": 0.1325976848602295,
+        "llama_runtime": 2.0564942359924316,
+        "total_runtime": 2.189091920852661
+    }
+}

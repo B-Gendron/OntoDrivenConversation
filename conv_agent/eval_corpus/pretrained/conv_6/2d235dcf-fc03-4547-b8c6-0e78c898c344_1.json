@@ -1,0 +1,19 @@
+{
+    "prompt": "Yes, it was simple to travel from my place to here. do not worry, I will be a very good taxi driver.",
+    "generated_content": "That's great to hear! I'm sure you'll be a great driver, but I think you'll find that we're looking for a candidate with a different set of skills here. So, how about we talk about something completely unrelated to driving? What do you like to do in your free time?",
+    "formatted_generation": "That's great to hear!  I'm sure you'll be a great driver, but I think you'll find that we're looking for a candidate with a different set of skills here.  So, how about we talk about something completely unrelated to driving?  What do you like to do in your free time?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "2d235dcf-fc03-4547-b8c6-0e78c898c344",
+    "it": 1,
+    "runtimes": {
+        "reasoner_runtime": 0.09023141860961914,
+        "llama_runtime": 2.971083879470825,
+        "total_runtime": 3.0613152980804443
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "prompt": "I was not going to stay there forever. The company should think of that before sending me alone with that kind of bullshit. I was not going to pee myself in my truck, was I ?",
+    "generated_content": "I understand your frustration, but as a professional truck driver, you're expected to exercise judgment and take care of yourself in difficult situations. However, I'd like to shift gears to a more nuanced topic. The rise of autonomous trucks has been a topic of debate in the industry. Some argue it will increase efficiency and safety, while others claim it will lead to job displacement. Where do you stand on this issue?",
+    "formatted_generation": "I understand your frustration, but as a professional truck driver, you're expected to exercise judgment and take care of yourself in difficult situations.  However, I'd like to shift gears to a more nuanced topic.  The rise of autonomous trucks has been a topic of debate in the industry.  Some argue it will increase efficiency and safety, while others claim it will lead to job displacement.  Where do you stand on this issue?",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "negative",
+        "non_loaded"
+    ],
+    "id": "71d261b2-f546-4575-9d1c-a1761d9e5e6b",
+    "it": 9,
+    "runtimes": {
+        "reasoner_runtime": 0.4068872928619385,
+        "llama_runtime": 4.068286657333374,
+        "total_runtime": 4.4751739501953125
+    }
+}

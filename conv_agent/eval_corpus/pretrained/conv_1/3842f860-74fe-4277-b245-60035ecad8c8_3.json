@@ -1,0 +1,19 @@
+{
+    "prompt": "Sure. I spent several years working as a cashier in the last years, always in big supermarkets.",
+    "generated_content": "That's a great starting point! Working in a fast-paced retail environment can be quite challenging. Can you tell me more about your experience as a cashier? What skills do you think you developed during that time that you think would be relevant to this role?",
+    "formatted_generation": "That's a great starting point!  Working in a fast-paced retail environment can be quite challenging.  Can you tell me more about your experience as a cashier?  What skills do you think you developed during that time that you think would be relevant to this role?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "3842f860-74fe-4277-b245-60035ecad8c8",
+    "it": 3,
+    "runtimes": {
+        "reasoner_runtime": 0.2930479049682617,
+        "llama_runtime": 2.328195095062256,
+        "total_runtime": 2.6212430000305176
+    }
+}

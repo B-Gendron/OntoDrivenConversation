@@ -1,0 +1,18 @@
+{
+    "prompt": "The first year yes, but afterwards I could manage that",
+    "generated_content": "It's great that you've been able to adapt and find ways to manage vocal strain over time. In your experience, how do you adjust your singing style or repertoire to accommodate the diverse needs and abilities of the elderly audience, especially those with hearing impairments or cognitive difficulties?",
+    "formatted_generation": "It's great that you've been able to adapt and find ways to manage vocal strain over time.  In your experience, how do you adjust your singing style or repertoire to accommodate the diverse needs and abilities of the elderly audience, especially those with hearing impairments or cognitive difficulties?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "921d49f6-7730-46b5-8de2-1640d1af2426",
+    "it": 7,
+    "runtimes": {
+        "reasoner_runtime": 0.4676933288574219,
+        "llama_runtime": 2.533421277999878,
+        "total_runtime": 3.0011146068573
+    }
+}

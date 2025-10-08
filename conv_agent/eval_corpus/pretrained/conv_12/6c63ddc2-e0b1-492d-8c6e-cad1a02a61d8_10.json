@@ -1,0 +1,20 @@
+{
+    "prompt": "No, I think it is the opposite. Restaurants have a repsonsibility to serve delicious food, before everything else",
+    "generated_content": "Well said! Serving delicious food should always be the top priority for any restaurant. I think we've had a great conversation, and I appreciate the time you've taken to share your thoughts and experiences with me. Do you have any final questions for me about the executive chef position or our restaurant?",
+    "formatted_generation": "Well said!  Serving delicious food should always be the top priority for any restaurant.  I think we've had a great conversation, and I appreciate the time you've taken to share your thoughts and experiences with me.  Do you have any final questions for me about the executive chef position or our restaurant?",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "B1",
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "6c63ddc2-e0b1-492d-8c6e-cad1a02a61d8",
+    "it": 10,
+    "runtimes": {
+        "reasoner_runtime": 1.1305584907531738,
+        "llama_runtime": 2.439258337020874,
+        "total_runtime": 3.569816827774048
+    }
+}

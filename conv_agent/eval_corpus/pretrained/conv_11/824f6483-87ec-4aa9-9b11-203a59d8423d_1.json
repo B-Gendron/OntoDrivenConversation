@@ -1,0 +1,19 @@
+{
+    "prompt": "Not too bad, I hope yours OK too. I got everything I need, thank you.",
+    "generated_content": "That's great to hear! It's always a relief when we're well-prepared for a meeting. What do you usually like to do to get energized in the morning?",
+    "formatted_generation": "That's great to hear!  It's always a relief when we're well-prepared for a meeting.  What do you usually like to do to get energized in the morning?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "824f6483-87ec-4aa9-9b11-203a59d8423d",
+    "it": 1,
+    "runtimes": {
+        "reasoner_runtime": 0.047806501388549805,
+        "llama_runtime": 1.432563304901123,
+        "total_runtime": 1.4803698062896729
+    }
+}

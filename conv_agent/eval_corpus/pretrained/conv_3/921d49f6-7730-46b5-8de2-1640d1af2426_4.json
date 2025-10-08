@@ -1,0 +1,19 @@
+{
+    "prompt": "No, I have learnt everything by myself. I play guitar too.",
+    "generated_content": "That's impressive that you've been able to teach yourself to play guitar. How did you get started with singing for the elderly, and what motivated you to pursue this as a career?",
+    "formatted_generation": "That's impressive that you've been able to teach yourself to play guitar.  How did you get started with singing for the elderly, and what motivated you to pursue this as a career?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "921d49f6-7730-46b5-8de2-1640d1af2426",
+    "it": 4,
+    "runtimes": {
+        "reasoner_runtime": 0.22472643852233887,
+        "llama_runtime": 1.3804726600646973,
+        "total_runtime": 1.6051990985870361
+    }
+}

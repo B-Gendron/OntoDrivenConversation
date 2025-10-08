@@ -1,0 +1,19 @@
+{
+    "prompt": "This is exactly why we tried to only use store-bought elements for sub parts of our dishes. We then still had the total liberty to create any combination, whether culinary or visually.",
+    "generated_content": "Let's shift gears a bit and discuss a more philosophical topic. With the rise of social media, there's been a growing trend of chefs showcasing their creative plating and presentation on Instagram. Some argue that this has led to an overemphasis on aesthetics over flavor and technique. Others see it as a way to inspire and educate home cooks. What are your thoughts on this topic?",
+    "formatted_generation": "Let's shift gears a bit and discuss a more philosophical topic.  With the rise of social media, there's been a growing trend of chefs showcasing their creative plating and presentation on Instagram.  Some argue that this has led to an overemphasis on aesthetics over flavor and technique.  Others see it as a way to inspire and educate home cooks.  What are your thoughts on this topic?",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "negative",
+        "loaded"
+    ],
+    "id": "6c63ddc2-e0b1-492d-8c6e-cad1a02a61d8",
+    "it": 8,
+    "runtimes": {
+        "reasoner_runtime": 0.7066476345062256,
+        "llama_runtime": 3.590162992477417,
+        "total_runtime": 4.296810626983643
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "prompt": "No, it was very clear.",
+    "generated_content": "Well, thank you for taking the time to speak with me today. It was great to get to know you and learn more about your experiences and perspectives. I think you've shown a lot of potential, and I'm looking forward to reviewing your application.",
+    "formatted_generation": "Well, thank you for taking the time to speak with me today.  It was great to get to know you and learn more about your experiences and perspectives.  I think you've shown a lot of potential, and I'm looking forward to reviewing your application.",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "3842f860-74fe-4277-b245-60035ecad8c8",
+    "it": 11,
+    "runtimes": {
+        "reasoner_runtime": 23.545883417129517,
+        "llama_runtime": 2.4682018756866455,
+        "total_runtime": 26.014085292816162
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "prompt": "Thank you. My day have been quite soothing. A normal day for me. As a forensic candidate, I know very well how to control my emotions.",
+    "generated_content": "That's great to hear that you're able to stay calm and composed. I'm sure it's a valuable skill in any profession, especially in a field like forensic science. How do you like to spend your free time? Do you have any hobbies or interests outside of work?",
+    "formatted_generation": "That's great to hear that you're able to stay calm and composed.  I'm sure it's a valuable skill in any profession, especially in a field like forensic science.  How do you like to spend your free time?  Do you have any hobbies or interests outside of work?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "115dc1fe-1b30-4558-a5e8-cc348454e5ea",
+    "it": 1,
+    "runtimes": {
+        "reasoner_runtime": 0.08951926231384277,
+        "llama_runtime": 2.8926591873168945,
+        "total_runtime": 2.9821784496307373
+    }
+}

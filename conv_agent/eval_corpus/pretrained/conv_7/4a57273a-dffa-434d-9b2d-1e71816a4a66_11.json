@@ -1,0 +1,19 @@
+{
+    "prompt": "Well, you didn't ask...",
+    "generated_content": "It's completely understandable that you didn't feel the need to ask questions since I didn't leave room for them earlier. If you had any questions, now's the time. What would you like to know about the position or the company?",
+    "formatted_generation": "It's completely understandable that you didn't feel the need to ask questions since I didn't leave room for them earlier.  If you had any questions, now's the time.  What would you like to know about the position or the company?",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "4a57273a-dffa-434d-9b2d-1e71816a4a66",
+    "it": 11,
+    "runtimes": {
+        "reasoner_runtime": 0.6972343921661377,
+        "llama_runtime": 2.661397695541382,
+        "total_runtime": 3.3586320877075195
+    }
+}

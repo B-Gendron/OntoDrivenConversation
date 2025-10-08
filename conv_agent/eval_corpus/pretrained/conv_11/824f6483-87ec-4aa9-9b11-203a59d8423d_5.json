@@ -1,0 +1,18 @@
+{
+    "prompt": "That's a great question :) Kids are very interesting and need to be entertained. They need to have attention without being too intrusive. Passengers in flights might be a bit similar. They are bored and stressed and would need attention too.",
+    "generated_content": "Let's dive deeper into this idea of entertainment and attention. How would you plan to engage with passengers who might be stressed or bored during a long space flight? For example, if you were on a 3-hour flight and a passenger came to you with a complaint about the in-flight meal, how would you handle the situation?",
+    "formatted_generation": "Let's dive deeper into this idea of entertainment and attention.  How would you plan to engage with passengers who might be stressed or bored during a long space flight?  For example, if you were on a 3-hour flight and a passenger came to you with a complaint about the in-flight meal, how would you handle the situation?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "824f6483-87ec-4aa9-9b11-203a59d8423d",
+    "it": 5,
+    "runtimes": {
+        "reasoner_runtime": 0.18575835227966309,
+        "llama_runtime": 2.7836360931396484,
+        "total_runtime": 2.9693944454193115
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "prompt": "I graduated recently from Penn State university, or more commonly known as the Pennsylvania State University. My major was... forensic of course!",
+    "generated_content": "That's great that you graduated from a reputable institution like Penn State! Forensic science is a fascinating field. Can you walk me through your academic experience, particularly in your major? What kind of courses did you take, and were there any notable projects or research opportunities that stood out to you?",
+    "formatted_generation": "That's great that you graduated from a reputable institution like Penn State!  Forensic science is a fascinating field.  Can you walk me through your academic experience, particularly in your major?  What kind of courses did you take, and were there any notable projects or research opportunities that stood out to you?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "B2",
+        "positive",
+        "non_loaded"
+    ],
+    "id": "115dc1fe-1b30-4558-a5e8-cc348454e5ea",
+    "it": 3,
+    "runtimes": {
+        "reasoner_runtime": 0.11753296852111816,
+        "llama_runtime": 3.056492805480957,
+        "total_runtime": 3.174025774002075
+    }
+}

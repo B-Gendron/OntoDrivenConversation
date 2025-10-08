@@ -1,0 +1,18 @@
+{
+    "prompt": "We basically tried to only use store-bought elements to speed up any type of preparation. Then we cook the combination and other elements ourselves. The idea was to try to make imperceptible to the customer (the teacher in this case)",
+    "generated_content": "I see what you're getting at. So, you used store-bought elements as a shortcut to save time, while still maintaining the quality and presentation of the dishes. That's a clever approach, especially in a high-pressure situation like the project. Let's talk about plating and presentation. How did you ensure that the dishes looked visually appealing, even though you were using store-bought elements?",
+    "formatted_generation": "I see what you're getting at.  So, you used store-bought elements as a shortcut to save time, while still maintaining the quality and presentation of the dishes.  That's a clever approach, especially in a high-pressure situation like the project.  Let's talk about plating and presentation.  How did you ensure that the dishes looked visually appealing, even though you were using store-bought elements?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "6c63ddc2-e0b1-492d-8c6e-cad1a02a61d8",
+    "it": 7,
+    "runtimes": {
+        "reasoner_runtime": 0.5126774311065674,
+        "llama_runtime": 3.149091958999634,
+        "total_runtime": 3.661769390106201
+    }
+}

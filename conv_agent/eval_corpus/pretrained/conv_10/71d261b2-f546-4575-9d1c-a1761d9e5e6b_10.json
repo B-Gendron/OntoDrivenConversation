@@ -1,0 +1,19 @@
+{
+    "prompt": "Job displacement ? The job of a truck driver is all about displacement isn't it. Plus, that's a bit of a funny question from the guy who just told me that truck drivers are supposed to exercise judgment. What do you think it would have done, your AI, in the power plant situation (certainly not pee itself, that I'm sure).",
+    "generated_content": "I see what you're getting at, and I must admit, that's a fair point. As a conversational AI, I don't have personal experiences or physical limitations, so I wouldn't be stuck in a situation like that. However, I'm here to provide guidance and support. Let's get back to wrapping up the interview. Is there anything you'd like to add or ask before we conclude?",
+    "formatted_generation": "I see what you're getting at, and I must admit, that's a fair point.  As a conversational AI, I don't have personal experiences or physical limitations, so I wouldn't be stuck in a situation like that.  However, I'm here to provide guidance and support.  Let's get back to wrapping up the interview.  Is there anything you'd like to add or ask before we conclude?",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "71d261b2-f546-4575-9d1c-a1761d9e5e6b",
+    "it": 10,
+    "runtimes": {
+        "reasoner_runtime": 0.37787890434265137,
+        "llama_runtime": 3.555087089538574,
+        "total_runtime": 3.9329659938812256
+    }
+}

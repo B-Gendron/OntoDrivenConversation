@@ -1,0 +1,19 @@
+{
+    "prompt": "I has to be very patient, the customer behaviour can be hard to deal with sometimes...",
+    "generated_content": "Dealing with difficult customers can be a tough part of many jobs. As a cashier, you likely developed strong communication skills to handle those situations. Can you walk me through a specific time when you had to handle a particularly challenging customer, and how you resolved the situation?",
+    "formatted_generation": "Dealing with difficult customers can be a tough part of many jobs.  As a cashier, you likely developed strong communication skills to handle those situations.  Can you walk me through a specific time when you had to handle a particularly challenging customer, and how you resolved the situation?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "3842f860-74fe-4277-b245-60035ecad8c8",
+    "it": 4,
+    "runtimes": {
+        "reasoner_runtime": 0.4886157512664795,
+        "llama_runtime": 2.46041202545166,
+        "total_runtime": 2.9490277767181396
+    }
+}

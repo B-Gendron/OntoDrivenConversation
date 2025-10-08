@@ -1,0 +1,19 @@
+{
+    "prompt": "I have a MBA which I got from a business school, but if I'm honest, I just did this because I didn't now what else to do. I have been a tutor for a youth camps, working with kids. I have had to go through some training for this, including safety, communication, etc.",
+    "generated_content": "It's great that you have a business background, and it's not uncommon for people to explore different paths. Tutoring at youth camps is also a great way to gain experience in working with people. The training you received in safety and communication will likely be useful in this role. Can you tell me more about what you enjoyed most about working with kids, and how you think those skills might transfer to working with passengers in a space flight environment?",
+    "formatted_generation": "It's great that you have a business background, and it's not uncommon for people to explore different paths.  Tutoring at youth camps is also a great way to gain experience in working with people.  The training you received in safety and communication will likely be useful in this role.  Can you tell me more about what you enjoyed most about working with kids, and how you think those skills might transfer to working with passengers in a space flight environment?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "824f6483-87ec-4aa9-9b11-203a59d8423d",
+    "it": 4,
+    "runtimes": {
+        "reasoner_runtime": 0.10457229614257812,
+        "llama_runtime": 3.663698434829712,
+        "total_runtime": 3.76827073097229
+    }
+}

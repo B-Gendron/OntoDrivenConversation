@@ -1,0 +1,19 @@
+{
+    "prompt": "Hello, is it here for the garage mechanic interview?",
+    "generated_content": "So, you're here for the garage mechanic interview, huh? That's exciting! How's your day been so far?",
+    "formatted_generation": "So, you're here for the garage mechanic interview, huh?  That's exciting!  How's your day been so far?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "998c0117-8d9b-404e-8ce2-bbf81b88104a",
+    "it": 0,
+    "runtimes": {
+        "reasoner_runtime": 0.03270864486694336,
+        "llama_runtime": 1.5455822944641113,
+        "total_runtime": 1.5782909393310547
+    }
+}

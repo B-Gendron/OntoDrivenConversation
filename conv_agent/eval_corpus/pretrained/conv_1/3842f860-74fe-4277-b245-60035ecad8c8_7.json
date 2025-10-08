@@ -1,0 +1,18 @@
+{
+    "prompt": "When a cash register malfunctions, I first check the basics\u2014like power, connections, and if the receipt paper or cash drawer is jammed. If it\u2019s a software issue, I try restarting the system and rechecking settings. If the problem continues, I follow the store\u2019s troubleshooting guide or escalate it to technical support, while keeping the register offline and customers directed to another lane to minimize delays.",
+    "generated_content": "That's a good process. It sounds like you've thought through the steps to troubleshoot a malfunctioning cash register. Can you tell me more about your experience with the store's troubleshooting guide and technical support? Have you ever had to escalate an issue to a higher level of support, and if so, how did you communicate the problem to them?",
+    "formatted_generation": "That's a good process.  It sounds like you've thought through the steps to troubleshoot a malfunctioning cash register.  Can you tell me more about your experience with the store's troubleshooting guide and technical support?  Have you ever had to escalate an issue to a higher level of support, and if so, how did you communicate the problem to them?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "3842f860-74fe-4277-b245-60035ecad8c8",
+    "it": 7,
+    "runtimes": {
+        "reasoner_runtime": 10.77505087852478,
+        "llama_runtime": 3.202993154525757,
+        "total_runtime": 13.978044033050537
+    }
+}

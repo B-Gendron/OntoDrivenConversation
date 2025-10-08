@@ -1,0 +1,19 @@
+{
+    "prompt": "Ah this is tough man, I don't think I can.",
+    "generated_content": "It's completely normal to feel uncertain or overwhelmed when discussing complex technical topics. Let's shift gears a bit. I'd like to move on to a more abstract topic. How do you think the rise of remote work has impacted the way we approach collaboration and communication in the workplace?",
+    "formatted_generation": "It's completely normal to feel uncertain or overwhelmed when discussing complex technical topics.  Let's shift gears a bit.  I'd like to move on to a more abstract topic.  How do you think the rise of remote work has impacted the way we approach collaboration and communication in the workplace?",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "negative",
+        "non_loaded"
+    ],
+    "id": "d3fd4c6e-ec5d-4445-8954-5e8c3b42328f",
+    "it": 8,
+    "runtimes": {
+        "reasoner_runtime": 0.783226728439331,
+        "llama_runtime": 2.6065053939819336,
+        "total_runtime": 3.3897321224212646
+    }
+}

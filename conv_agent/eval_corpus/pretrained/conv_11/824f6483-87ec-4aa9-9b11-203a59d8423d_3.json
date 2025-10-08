@@ -1,0 +1,19 @@
+{
+    "prompt": "I saw that the job was a bit unusual, to be a steward for commercial flights to space. I have had a passion for space since I was a kid (I'm called Buzz afterwards) and I have been very good with people generally, so I though this was for me. I don't have much experience however I have to admit.",
+    "generated_content": "That's a great enthusiasm you have for space, Buzz! It's wonderful that you've had a passion for it since you were a kid. Can you tell me a bit more about your educational background? What kind of education do you have, and do you have any relevant certifications or training that might be applicable to this role?",
+    "formatted_generation": "That's a great enthusiasm you have for space, Buzz!  It's wonderful that you've had a passion for it since you were a kid.  Can you tell me a bit more about your educational background?  What kind of education do you have, and do you have any relevant certifications or training that might be applicable to this role?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "824f6483-87ec-4aa9-9b11-203a59d8423d",
+    "it": 3,
+    "runtimes": {
+        "reasoner_runtime": 0.08067941665649414,
+        "llama_runtime": 2.5859758853912354,
+        "total_runtime": 2.6666553020477295
+    }
+}

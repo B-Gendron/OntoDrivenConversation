@@ -1,0 +1,19 @@
+{
+    "prompt": "Hello, is it the place for the plumber and HVAC technician position?",
+    "generated_content": "Not yet, we're still waiting for a few more candidates. But I'm glad you're here! How was your morning so far?",
+    "formatted_generation": "Not yet, we're still waiting for a few more candidates.  But I'm glad you're here!  How was your morning so far?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "84556ac2-8d61-449e-b049-4025df769fcf",
+    "it": 0,
+    "runtimes": {
+        "reasoner_runtime": 0.024301767349243164,
+        "llama_runtime": 1.8482604026794434,
+        "total_runtime": 1.8725621700286865
+    }
+}

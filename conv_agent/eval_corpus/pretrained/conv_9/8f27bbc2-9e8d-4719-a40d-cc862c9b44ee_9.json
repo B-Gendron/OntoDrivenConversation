@@ -1,0 +1,19 @@
+{
+    "prompt": "I think the main issue is that marijuana aimed for therapeutic use, can be overtaken for other uses. Besides this however, I believe that there are many benefits and that finding safe, legal way for people who need it should be the focus of regulation.",
+    "generated_content": "It's clear that you have a nuanced view on the regulation of the therapeutic marijuana industry, Scott. You're acknowledging the potential risks, but also emphasizing the importance of making it accessible to those who need it. That's a balanced perspective. Let's switch gears to a more complex topic: Some people argue that the use of therapeutic marijuana can be a slippery slope, leading to recreational use and increased social problems. Do you think this is a valid concern, or do you think the benefits of therapeutic marijuana",
+    "formatted_generation": "It's clear that you have a nuanced view on the regulation of the therapeutic marijuana industry, Scott.  You're acknowledging the potential risks, but also emphasizing the importance of making it accessible to those who need it.  That's a balanced perspective.  Let's switch gears to a more complex topic: Some people argue that the use of therapeutic marijuana can be a slippery slope, leading to recreational use and increased social problems.",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "loaded",
+        "positive"
+    ],
+    "id": "8f27bbc2-9e8d-4719-a40d-cc862c9b44ee",
+    "it": 9,
+    "runtimes": {
+        "reasoner_runtime": 0.3814883232116699,
+        "llama_runtime": 4.244351387023926,
+        "total_runtime": 4.625839710235596
+    }
+}

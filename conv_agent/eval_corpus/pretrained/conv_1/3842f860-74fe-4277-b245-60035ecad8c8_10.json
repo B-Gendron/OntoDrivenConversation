@@ -1,0 +1,20 @@
+{
+    "prompt": "By \u2018thoughtful strategies,\u2019 I mean approaches like reskilling employees to handle AI-assisted tasks, creating new roles that focus on customer service or technical support, and gradually integrating automation so staff can adapt.",
+    "generated_content": "Now that we've covered some complex topics, I'd like to take a moment to summarize our conversation. We've discussed your background as a cashier, your experience with troubleshooting cash registers, and your thoughts on the impact of automation and AI in the retail industry. You've shown a thoughtful and nuanced perspective on these topics. Do you have any final questions for me before we conclude the interview?",
+    "formatted_generation": "Now that we've covered some complex topics, I'd like to take a moment to summarize our conversation.  We've discussed your background as a cashier, your experience with troubleshooting cash registers, and your thoughts on the impact of automation and AI in the retail industry.  You've shown a thoughtful and nuanced perspective on these topics.  Do you have any final questions for me before we conclude the interview?",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "B1",
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "3842f860-74fe-4277-b245-60035ecad8c8",
+    "it": 10,
+    "runtimes": {
+        "reasoner_runtime": 16.17314076423645,
+        "llama_runtime": 3.606252670288086,
+        "total_runtime": 19.779393434524536
+    }
+}

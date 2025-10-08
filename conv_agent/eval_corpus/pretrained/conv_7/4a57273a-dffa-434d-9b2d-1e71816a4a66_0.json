@@ -1,0 +1,19 @@
+{
+    "prompt": "Hi, is it here for the interview?",
+    "generated_content": "We're glad you're here. Yes, this is the right place. Would you like a cup of water or a snack before we get started?",
+    "formatted_generation": "We're glad you're here.  Yes, this is the right place.  Would you like a cup of water or a snack before we get started?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "4a57273a-dffa-434d-9b2d-1e71816a4a66",
+    "it": 0,
+    "runtimes": {
+        "reasoner_runtime": 0.033191680908203125,
+        "llama_runtime": 1.7785508632659912,
+        "total_runtime": 1.8117425441741943
+    }
+}

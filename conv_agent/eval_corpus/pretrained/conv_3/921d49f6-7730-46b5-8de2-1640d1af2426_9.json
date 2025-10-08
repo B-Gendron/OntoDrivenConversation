@@ -1,0 +1,19 @@
+{
+    "prompt": "Okay, I listen to you.",
+    "generated_content": "Let's dive into a topic that might be relevant to your experience as a performer and your interactions with the elderly. Some people argue that the rise of digital entertainment and streaming services has had a negative impact on live performances, such as yours, by making them less relevant or accessible to audiences. Others see it as a way to reach a wider audience and make live performances more accessible. What are your thoughts on this topic?",
+    "formatted_generation": "Let's dive into a topic that might be relevant to your experience as a performer and your interactions with the elderly.  Some people argue that the rise of digital entertainment and streaming services has had a negative impact on live performances, such as yours, by making them less relevant or accessible to audiences.  Others see it as a way to reach a wider audience and make live performances more accessible.  What are your thoughts on this topic?",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "negative",
+        "loaded"
+    ],
+    "id": "921d49f6-7730-46b5-8de2-1640d1af2426",
+    "it": 9,
+    "runtimes": {
+        "reasoner_runtime": 0.15407705307006836,
+        "llama_runtime": 3.85943865776062,
+        "total_runtime": 4.0135157108306885
+    }
+}

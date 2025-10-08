@@ -1,0 +1,18 @@
+{
+    "prompt": "AHa we don't have the choice for that man, the process is formally defined by the government, I just follow the rules.",
+    "generated_content": "That makes sense, government regulations provide a framework for safety inspections. Now, let's dive into a technical question. Can you walk me through your process for diagnosing a faulty oxygen sensor in a modern vehicle?",
+    "formatted_generation": "That makes sense, government regulations provide a framework for safety inspections.  Now, let's dive into a technical question.  Can you walk me through your process for diagnosing a faulty oxygen sensor in a modern vehicle?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "998c0117-8d9b-404e-8ce2-bbf81b88104a",
+    "it": 5,
+    "runtimes": {
+        "reasoner_runtime": 0.2904171943664551,
+        "llama_runtime": 1.9631719589233398,
+        "total_runtime": 2.253589153289795
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "prompt": "No, I'm good.",
+    "generated_content": "Well, thank you for coming in today and sharing your thoughts with me. I think we've covered a good amount of ground. If you don't mind me saying so, I think we might want to discuss your answers to the technical questions a bit further in the next round. But for now, I think we're going to wrap things up here. Do you have any final questions for me before we go?",
+    "formatted_generation": "Well, thank you for coming in today and sharing your thoughts with me.  I think we've covered a good amount of ground.  If you don't mind me saying so, I think we might want to discuss your answers to the technical questions a bit further in the next round.  But for now, I think we're going to wrap things up here.  Do you have any final questions for me before we go?",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "92a70b97-cc40-497b-9f30-496ba883cbaf",
+    "it": 11,
+    "runtimes": {
+        "reasoner_runtime": 230.18406558036804,
+        "llama_runtime": 3.8800315856933594,
+        "total_runtime": 234.0640971660614
+    }
+}

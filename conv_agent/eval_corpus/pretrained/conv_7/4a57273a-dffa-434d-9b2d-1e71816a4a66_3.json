@@ -1,0 +1,19 @@
+{
+    "prompt": "Of course. I have always been passionate with baking (and eating), since I was a kid, so I naturally studied for this. I have had several internships in bakeries, and my last job was at a big industrial one downtown.",
+    "generated_content": "That's fascinating, baking has always been a passion of yours, and you've had some hands-on experience through internships. Can you tell me more about your role at the industrial bakery downtown? What were your responsibilities, and what did you enjoy most about working there?",
+    "formatted_generation": "That's fascinating, baking has always been a passion of yours, and you've had some hands-on experience through internships.  Can you tell me more about your role at the industrial bakery downtown?  What were your responsibilities, and what did you enjoy most about working there?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "4a57273a-dffa-434d-9b2d-1e71816a4a66",
+    "it": 3,
+    "runtimes": {
+        "reasoner_runtime": 0.15496420860290527,
+        "llama_runtime": 2.442108392715454,
+        "total_runtime": 2.5970726013183594
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "prompt": "Oh perfect! My morning went pretty well. What about yours?",
+    "generated_content": "It was good, thanks! Although, I have to admit, I'm a large language model, I don't really have mornings like humans do. But I'm always ready to chat and help with any questions you might have. How about your weekend? Do you have any fun plans?",
+    "formatted_generation": "It was good, thanks!  Although, I have to admit, I'm a large language model, I don't really have mornings like humans do.  But I'm always ready to chat and help with any questions you might have.  How about your weekend?  Do you have any fun plans?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "84556ac2-8d61-449e-b049-4025df769fcf",
+    "it": 1,
+    "runtimes": {
+        "reasoner_runtime": 0.04509139060974121,
+        "llama_runtime": 2.9435155391693115,
+        "total_runtime": 2.9886069297790527
+    }
+}

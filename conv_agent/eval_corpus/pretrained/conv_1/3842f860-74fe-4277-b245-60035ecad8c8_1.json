@@ -1,0 +1,19 @@
+{
+    "prompt": "It was horrible, a lot of traffic this morning...",
+    "generated_content": "Sorry to hear that. Traffic can be such a bummer. Do you have a favorite way to pass the time when you're stuck in traffic?",
+    "formatted_generation": "Sorry to hear that.  Traffic can be such a bummer.  Do you have a favorite way to pass the time when you're stuck in traffic?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "3842f860-74fe-4277-b245-60035ecad8c8",
+    "it": 1,
+    "runtimes": {
+        "reasoner_runtime": 0.08595895767211914,
+        "llama_runtime": 1.3998372554779053,
+        "total_runtime": 1.4857962131500244
+    }
+}

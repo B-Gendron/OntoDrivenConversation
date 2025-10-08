@@ -1,0 +1,20 @@
+{
+    "prompt": "I wa wondering how many people actually go through reception everyday and how complex are the different roles.",
+    "generated_content": "Our reception area does get a moderate amount of foot traffic, with around 50-75 people passing through daily. As for the roles, we have a team of about 10 people, including the manager, and several departments such as HR, marketing, and IT. The receptionist will be the primary point of contact for visitors, and will also be responsible for managing the front desk, answering phone calls, and handling administrative tasks. It's a dynamic role that requires strong communication and organizational skills.",
+    "formatted_generation": "Our reception area does get a moderate amount of foot traffic, with around 50-75 people passing through daily.  As for the roles, we have a team of about 10 people, including the manager, and several departments such as HR, marketing, and IT.  The receptionist will be the primary point of contact for visitors, and will also be responsible for managing the front desk, answering phone calls, and handling administrative tasks.  It's a dynamic role that requires strong communication and organizational skills.",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "B1",
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "7cb12617-99ad-41b7-8502-7f5b9038dca6",
+    "it": 11,
+    "runtimes": {
+        "reasoner_runtime": 19.891976356506348,
+        "llama_runtime": 4.29047966003418,
+        "total_runtime": 24.182456016540527
+    }
+}

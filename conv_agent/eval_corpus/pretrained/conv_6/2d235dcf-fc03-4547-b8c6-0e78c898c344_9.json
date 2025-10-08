@@ -1,0 +1,19 @@
+{
+    "prompt": "Oh, I was referring to the systematic approach. Sorry if my terms are not actually the common ones",
+    "generated_content": "Let's get back to the topic of work. There's been a lot of discussion lately about the impact of automation and artificial intelligence on the workforce. Some people believe that automation will lead to widespread job displacement, while others think it will create new job opportunities. What are your thoughts on this topic?",
+    "formatted_generation": "Let's get back to the topic of work.  There's been a lot of discussion lately about the impact of automation and artificial intelligence on the workforce.  Some people believe that automation will lead to widespread job displacement, while others think it will create new job opportunities.  What are your thoughts on this topic?",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "loaded",
+        "positive"
+    ],
+    "id": "2d235dcf-fc03-4547-b8c6-0e78c898c344",
+    "it": 9,
+    "runtimes": {
+        "reasoner_runtime": 24.62109398841858,
+        "llama_runtime": 3.0295448303222656,
+        "total_runtime": 27.650638818740845
+    }
+}

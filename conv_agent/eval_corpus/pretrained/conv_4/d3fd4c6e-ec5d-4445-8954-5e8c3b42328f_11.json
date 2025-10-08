@@ -1,0 +1,19 @@
+{
+    "prompt": "Nah I'm good man, thank you.",
+    "generated_content": "Well, it was great speaking with you. I think you've shown some great potential, and I'm glad we could have this conversation. If you don't mind, I'll be in touch soon to let you know the next steps. Have a great day!",
+    "formatted_generation": "Well, it was great speaking with you.  I think you've shown some great potential, and I'm glad we could have this conversation.  If you don't mind, I'll be in touch soon to let you know the next steps.  Have a great day!",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "d3fd4c6e-ec5d-4445-8954-5e8c3b42328f",
+    "it": 11,
+    "runtimes": {
+        "reasoner_runtime": 0.5667819976806641,
+        "llama_runtime": 2.4962918758392334,
+        "total_runtime": 3.0630738735198975
+    }
+}

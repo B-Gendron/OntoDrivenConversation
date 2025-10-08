@@ -1,0 +1,19 @@
+{
+    "prompt": "No, I don't think so.",
+    "generated_content": "Well, I think that's all the questions I had for now. Is there anything you'd like to ask me about the position or the company before we wrap up the interview?",
+    "formatted_generation": "Well, I think that's all the questions I had for now.  Is there anything you'd like to ask me about the position or the company before we wrap up the interview?",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "92a70b97-cc40-497b-9f30-496ba883cbaf",
+    "it": 10,
+    "runtimes": {
+        "reasoner_runtime": 52.87842392921448,
+        "llama_runtime": 1.7553608417510986,
+        "total_runtime": 54.633784770965576
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "prompt": "Hello, am I at the right place for the job interview?",
+    "generated_content": "Yes, you're definitely in the right place! I'm glad you're here. How was your commute today? Was it a smooth ride?",
+    "formatted_generation": "Yes, you're definitely in the right place!  I'm glad you're here.  How was your commute today?  Was it a smooth ride?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "3842f860-74fe-4277-b245-60035ecad8c8",
+    "it": 0,
+    "runtimes": {
+        "reasoner_runtime": 0.018181324005126953,
+        "llama_runtime": 1.7495203018188477,
+        "total_runtime": 1.7677016258239746
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "prompt": "Hello, I am here to apply for the executif chef position of this restaurant.",
+    "generated_content": "We're glad you're here! Before we dive into the interview, how was your morning so far?",
+    "formatted_generation": "We're glad you're here!  Before we dive into the interview, how was your morning so far?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "6c63ddc2-e0b1-492d-8c6e-cad1a02a61d8",
+    "it": 0,
+    "runtimes": {
+        "reasoner_runtime": 0.04306149482727051,
+        "llama_runtime": 1.5193681716918945,
+        "total_runtime": 1.562429666519165
+    }
+}

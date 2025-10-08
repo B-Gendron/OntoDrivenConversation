@@ -1,0 +1,18 @@
+{
+    "prompt": "Yes I do! We conducted a project at school: the renowned 12 course menu disaster crisis. It was very challenging. Especially, the amuse-bouche were not even premade! The teacher was especially cuning. As for an intership, I did not have the opportunity to one yet",
+    "generated_content": "I'm glad to hear that you had a challenging project at school. The 12-course menu disaster crisis sounds like a great way to test your skills under pressure. The amuse-bouche being premade is a common practice, but it's interesting that your teacher had you create them from scratch. Let's dive deeper into the technical skills you used during that project. How did you handle the time management aspect of creating 12 courses, including the amuse-bouche, within a set",
+    "formatted_generation": "I'm glad to hear that you had a challenging project at school.  The 12-course menu disaster crisis sounds like a great way to test your skills under pressure.  The amuse-bouche being premade is a common practice, but it's interesting that your teacher had you create them from scratch.  Let's dive deeper into the technical skills you used during that project.",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "6c63ddc2-e0b1-492d-8c6e-cad1a02a61d8",
+    "it": 5,
+    "runtimes": {
+        "reasoner_runtime": 0.31916141510009766,
+        "llama_runtime": 4.591365337371826,
+        "total_runtime": 4.910526752471924
+    }
+}

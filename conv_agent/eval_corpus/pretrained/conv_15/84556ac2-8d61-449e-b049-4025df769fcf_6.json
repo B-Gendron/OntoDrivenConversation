@@ -1,0 +1,18 @@
+{
+    "prompt": "Well, Ok the term is a bit strong. I mean that I am better than those certified people",
+    "generated_content": "I understand your confidence in your skills. However, in the field of plumbing and HVAC, certifications can be an important aspect of ensuring that technicians have the necessary knowledge and skills to do the job safely and effectively. Let's focus on a technical scenario. Suppose you're working on a residential heating system and you need to diagnose a problem with a furnace that's not turning on. The system has a gas valve, a thermostat, and a heating exchanger. What steps would you take to troubleshoot the",
+    "formatted_generation": "I understand your confidence in your skills.  However, in the field of plumbing and HVAC, certifications can be an important aspect of ensuring that technicians have the necessary knowledge and skills to do the job safely and effectively.  Let's focus on a technical scenario.  Suppose you're working on a residential heating system and you need to diagnose a problem with a furnace that's not turning on.  The system has a gas valve, a thermostat, and a heating exchanger.",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "84556ac2-8d61-449e-b049-4025df769fcf",
+    "it": 6,
+    "runtimes": {
+        "reasoner_runtime": 32.70207118988037,
+        "llama_runtime": 4.155924081802368,
+        "total_runtime": 36.85799527168274
+    }
+}

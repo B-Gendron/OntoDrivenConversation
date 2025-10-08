@@ -1,0 +1,19 @@
+{
+    "prompt": "Sure, I work in communication, I have a bachelor.",
+    "generated_content": "That's a good start! Can you tell me more about your educational background? What specific field within communication did you study, and did you have any notable projects or coursework that stand out to you?",
+    "formatted_generation": "That's a good start!  Can you tell me more about your educational background?  What specific field within communication did you study, and did you have any notable projects or coursework that stand out to you?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "92a70b97-cc40-497b-9f30-496ba883cbaf",
+    "it": 3,
+    "runtimes": {
+        "reasoner_runtime": 0.11807394027709961,
+        "llama_runtime": 1.8181076049804688,
+        "total_runtime": 1.9361815452575684
+    }
+}

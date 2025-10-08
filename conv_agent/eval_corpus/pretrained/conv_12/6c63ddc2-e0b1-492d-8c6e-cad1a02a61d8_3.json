@@ -1,0 +1,19 @@
+{
+    "prompt": "I do not have experience yet, but I studied in Le Cordon Bleu school from Paris. I learned many advanced tricks in culinary arts. I used to cook for my brothers and sisters since I was young",
+    "generated_content": "That's impressive that you studied at Le Cordon Bleu in Paris, one of the most renowned culinary schools in the world! The experience of cooking for your family members since you were young must have been a great way to develop your skills and passion for cooking. Can you tell me more about your experience working in a professional kitchen, even if it's not directly as a chef?",
+    "formatted_generation": "That's impressive that you studied at Le Cordon Bleu in Paris, one of the most renowned culinary schools in the world!  The experience of cooking for your family members since you were young must have been a great way to develop your skills and passion for cooking.  Can you tell me more about your experience working in a professional kitchen, even if it's not directly as a chef?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "6c63ddc2-e0b1-492d-8c6e-cad1a02a61d8",
+    "it": 3,
+    "runtimes": {
+        "reasoner_runtime": 0.08940458297729492,
+        "llama_runtime": 3.078779935836792,
+        "total_runtime": 3.168184518814087
+    }
+}

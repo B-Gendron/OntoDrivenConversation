@@ -1,0 +1,19 @@
+{
+    "prompt": "Ok I understand. I plan to help some friends this weekend. They are facing a frozen pipes, I have to fix that for them.",
+    "generated_content": "That's great that you're willing to lend a hand! As we're here to discuss the plumber and HVAC technician position, I'd like to learn more about your professional background. Can you tell me a bit about your education and training in plumbing and HVAC?",
+    "formatted_generation": "That's great that you're willing to lend a hand!  As we're here to discuss the plumber and HVAC technician position, I'd like to learn more about your professional background.  Can you tell me a bit about your education and training in plumbing and HVAC?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "84556ac2-8d61-449e-b049-4025df769fcf",
+    "it": 2,
+    "runtimes": {
+        "reasoner_runtime": 0.07007694244384766,
+        "llama_runtime": 2.564889430999756,
+        "total_runtime": 2.6349663734436035
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "prompt": "By experience, I know eldery people love it. I mean there is no point to forbid this to them at this point of their life, don't you think?",
+    "generated_content": "It sounds like you're taking a pragmatic approach to this issue, recognizing that the elderly have different needs and preferences than younger audiences. By embracing technology and making it accessible to them, you're able to reach a wider audience and provide a service that brings them joy. That's a great attitude to have in this field. Well said!\n\nNow, let's wrap up the interview. Do you have any final questions for me?",
+    "formatted_generation": "It sounds like you're taking a pragmatic approach to this issue, recognizing that the elderly have different needs and preferences than younger audiences.  By embracing technology and making it accessible to them, you're able to reach a wider audience and provide a service that brings them joy.  That's a great attitude to have in this field.  Well said! \n\nNow, let's wrap up the interview.  Do you have any final questions for me?",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "921d49f6-7730-46b5-8de2-1640d1af2426",
+    "it": 10,
+    "runtimes": {
+        "reasoner_runtime": 0.5746071338653564,
+        "llama_runtime": 3.9023444652557373,
+        "total_runtime": 4.476951599121094
+    }
+}

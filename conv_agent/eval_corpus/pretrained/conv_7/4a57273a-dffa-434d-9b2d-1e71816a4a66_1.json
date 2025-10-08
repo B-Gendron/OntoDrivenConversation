@@ -1,0 +1,19 @@
+{
+    "prompt": "I wouldn't mind some water, thank you.",
+    "generated_content": "I'll get you a glass of water right away. How was your week so far?",
+    "formatted_generation": "I'll get you a glass of water right away.  How was your week so far?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "4a57273a-dffa-434d-9b2d-1e71816a4a66",
+    "it": 1,
+    "runtimes": {
+        "reasoner_runtime": 0.07562661170959473,
+        "llama_runtime": 0.8595924377441406,
+        "total_runtime": 0.9352190494537354
+    }
+}

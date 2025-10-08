@@ -1,0 +1,19 @@
+{
+    "prompt": "Oh? Is it not an interview for a taxi driver position? During my freetime I love tuning my car.",
+    "generated_content": "I think there's been a misunderstanding. This is not an interview for a taxi driver position. It's for a different role, but I'd be happy to discuss that with you. Let's start fresh. Could you please tell me a little bit about your background and experience? What's your educational background and what kind of work experience do you have?",
+    "formatted_generation": "I think there's been a misunderstanding.  This is not an interview for a taxi driver position.  It's for a different role, but I'd be happy to discuss that with you.  Let's start fresh.  Could you please tell me a little bit about your background and experience?  What's your educational background and what kind of work experience do you have?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "2d235dcf-fc03-4547-b8c6-0e78c898c344",
+    "it": 2,
+    "runtimes": {
+        "reasoner_runtime": 0.1042788028717041,
+        "llama_runtime": 3.449676513671875,
+        "total_runtime": 3.553955316543579
+    }
+}

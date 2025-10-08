@@ -1,0 +1,19 @@
+{
+    "prompt": "I always do a bit of pushups and squats to start my morning, which I then go on to cancel with a full fat caramel latte.",
+    "generated_content": "That's a great way to balance out your morning routine! Exercise and a bit of indulgence, that's a good balance. Now, before we get started, can you tell me a bit about your background? What brings you here today, and what makes you a strong candidate for this opportunity?",
+    "formatted_generation": "That's a great way to balance out your morning routine!  Exercise and a bit of indulgence, that's a good balance.  Now, before we get started, can you tell me a bit about your background?  What brings you here today, and what makes you a strong candidate for this opportunity?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "824f6483-87ec-4aa9-9b11-203a59d8423d",
+    "it": 2,
+    "runtimes": {
+        "reasoner_runtime": 0.09256243705749512,
+        "llama_runtime": 2.460338830947876,
+        "total_runtime": 2.552901268005371
+    }
+}

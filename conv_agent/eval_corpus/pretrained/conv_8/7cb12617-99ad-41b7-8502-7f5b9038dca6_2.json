@@ -1,0 +1,19 @@
+{
+    "prompt": "Interesting... I thought this was a serious place, but OK. This weekend, I plan to put some order in  my collection of smiskies. How about you?",
+    "generated_content": "I think we might have gotten a bit off track, Gary. Let's get back to the interview. Before we dive deeper, can you tell me a bit about your background and how you think your skills and experience make you a good fit for the receptionist role?",
+    "formatted_generation": "I think we might have gotten a bit off track, Gary.  Let's get back to the interview.  Before we dive deeper, can you tell me a bit about your background and how you think your skills and experience make you a good fit for the receptionist role?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "7cb12617-99ad-41b7-8502-7f5b9038dca6",
+    "it": 2,
+    "runtimes": {
+        "reasoner_runtime": 0.08644890785217285,
+        "llama_runtime": 2.148780584335327,
+        "total_runtime": 2.2352294921875
+    }
+}

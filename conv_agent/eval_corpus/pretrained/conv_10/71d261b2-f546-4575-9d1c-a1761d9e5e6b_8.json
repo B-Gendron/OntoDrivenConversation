@@ -1,0 +1,19 @@
+{
+    "prompt": "I got stuck and got out of the truck to see what was going on. They took me in, and I waited for things to calm down to go through.",
+    "generated_content": "I'm a bit concerned that you got out of the truck and let the protesters take you in. As a truck driver, you're often the last line of defense for the cargo, and it's not always safe to leave your vehicle unattended, especially when dealing with a potentially volatile situation. What was going through your mind when you decided to get out of the truck, and do you think there were any other options you could have taken to resolve the situation?",
+    "formatted_generation": "I'm a bit concerned that you got out of the truck and let the protesters take you in.  As a truck driver, you're often the last line of defense for the cargo, and it's not always safe to leave your vehicle unattended, especially when dealing with a potentially volatile situation.  What was going through your mind when you decided to get out of the truck, and do you think there were any other options you could have taken to resolve the situation?",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "loaded",
+        "positive"
+    ],
+    "id": "71d261b2-f546-4575-9d1c-a1761d9e5e6b",
+    "it": 8,
+    "runtimes": {
+        "reasoner_runtime": 0.42436861991882324,
+        "llama_runtime": 3.899531602859497,
+        "total_runtime": 4.32390022277832
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "prompt": "First I would turn off the power and verify that I possess sufficient gaz supply. Then I would proceed by checking the thermostat obviously, before checking the power of the furnace. If the issue comes from here, I would clean the flame sensor with fine steel wool.",
+    "generated_content": "You've started by turning off the power, which is a crucial safety step. Verifying the gas supply is also a good idea. Checking the thermostat is a good next step, as it's a common cause of issues. However, I'd like to clarify that cleaning the flame sensor with fine steel wool is not a standard procedure for troubleshooting a furnace that won't turn on. In most cases, a faulty flame sensor would prevent the furnace from igniting, not prevent it from turning on. Would",
+    "formatted_generation": "You've started by turning off the power, which is a crucial safety step.  Verifying the gas supply is also a good idea.  Checking the thermostat is a good next step, as it's a common cause of issues.  However, I'd like to clarify that cleaning the flame sensor with fine steel wool is not a standard procedure for troubleshooting a furnace that won't turn on.  In most cases, a faulty flame sensor would prevent the furnace from igniting, not prevent it from turning on.",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "84556ac2-8d61-449e-b049-4025df769fcf",
+    "it": 7,
+    "runtimes": {
+        "reasoner_runtime": 25.989152669906616,
+        "llama_runtime": 4.895563125610352,
+        "total_runtime": 30.884715795516968
+    }
+}

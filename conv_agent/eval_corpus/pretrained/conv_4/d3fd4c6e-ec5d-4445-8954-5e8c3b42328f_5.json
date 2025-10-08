@@ -1,0 +1,18 @@
+{
+    "prompt": "No, actually I didn't go to school man. I hope you're okay with that.",
+    "generated_content": "Let's move forward. Now that we're in the Technical Point phase, I'd like to ask you a technical question. Imagine you're building a web application with a large dataset. How would you optimize the performance of the application for a large number of users?",
+    "formatted_generation": "Let's move forward.  Now that we're in the Technical Point phase, I'd like to ask you a technical question.  Imagine you're building a web application with a large dataset.  How would you optimize the performance of the application for a large number of users?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "d3fd4c6e-ec5d-4445-8954-5e8c3b42328f",
+    "it": 5,
+    "runtimes": {
+        "reasoner_runtime": 0.18725323677062988,
+        "llama_runtime": 2.4212307929992676,
+        "total_runtime": 2.6084840297698975
+    }
+}

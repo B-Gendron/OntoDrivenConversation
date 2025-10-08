@@ -1,0 +1,19 @@
+{
+    "prompt": "There is quite some nuance in this discussion. CBD has the advantage of being less likely to be toxic and less intoxicating, and there are also less constrained with respect to regulation. However, CBD alone, without THC, can be less effective in therapeutic situations.",
+    "generated_content": "It's interesting that you bring up the potential limitations of CBD as a standalone product. Some people might argue that the benefits of CBD are being overstated, and that the lack of regulation and standardization in the industry is a major concern. What are your thoughts on the regulation of the therapeutic marijuana industry, and do you think it's necessary for the industry to be more heavily regulated to ensure safety and efficacy?",
+    "formatted_generation": "It's interesting that you bring up the potential limitations of CBD as a standalone product.  Some people might argue that the benefits of CBD are being overstated, and that the lack of regulation and standardization in the industry is a major concern.  What are your thoughts on the regulation of the therapeutic marijuana industry, and do you think it's necessary for the industry to be more heavily regulated to ensure safety and efficacy?",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "loaded",
+        "positive"
+    ],
+    "id": "8f27bbc2-9e8d-4719-a40d-cc862c9b44ee",
+    "it": 8,
+    "runtimes": {
+        "reasoner_runtime": 0.40407633781433105,
+        "llama_runtime": 3.327950954437256,
+        "total_runtime": 3.732027292251587
+    }
+}

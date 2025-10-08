@@ -1,0 +1,19 @@
+{
+    "prompt": "I don't know, I didn't expect to take this career path. But you know, life, people you meet and your life changes.",
+    "generated_content": "It sounds like your path to becoming a web developer was a bit unconventional. Can you tell me more about your educational background before you started working as a web developer? Did you have any formal education or training that helped you get started?",
+    "formatted_generation": "It sounds like your path to becoming a web developer was a bit unconventional.  Can you tell me more about your educational background before you started working as a web developer?  Did you have any formal education or training that helped you get started?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "d3fd4c6e-ec5d-4445-8954-5e8c3b42328f",
+    "it": 4,
+    "runtimes": {
+        "reasoner_runtime": 0.095916748046875,
+        "llama_runtime": 2.1506874561309814,
+        "total_runtime": 2.2466042041778564
+    }
+}

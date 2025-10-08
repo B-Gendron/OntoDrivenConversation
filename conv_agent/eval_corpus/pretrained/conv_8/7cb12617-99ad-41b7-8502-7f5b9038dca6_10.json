@@ -1,0 +1,19 @@
+{
+    "prompt": "I don't disagree with this, but maybe work-life balance does not come only from not going to work. Having the headspace to disconnect from work might be more important.",
+    "generated_content": "Well said, Gary. Having the ability to disconnect from work and recharge is essential for maintaining a healthy work-life balance. It's not just about the physical absence from the office, but also about creating a mental separation from work-related tasks and responsibilities. This is a great insight, and I think it's something that many people struggle with. Let's wrap up the interview. Do you have any final questions for me about the receptionist role or the company?",
+    "formatted_generation": "Well said, Gary.  Having the ability to disconnect from work and recharge is essential for maintaining a healthy work-life balance.  It's not just about the physical absence from the office, but also about creating a mental separation from work-related tasks and responsibilities.  This is a great insight, and I think it's something that many people struggle with.  Let's wrap up the interview.  Do you have any final questions for me about the receptionist role or the company?",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "7cb12617-99ad-41b7-8502-7f5b9038dca6",
+    "it": 10,
+    "runtimes": {
+        "reasoner_runtime": 0.8311769962310791,
+        "llama_runtime": 3.8632519245147705,
+        "total_runtime": 4.69442892074585
+    }
+}

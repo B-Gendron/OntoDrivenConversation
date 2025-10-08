@@ -1,0 +1,18 @@
+{
+    "prompt": "That is a topic I have well studied, so I can say I am confident that I can give the customer precise answers about the THC content, and also the properties of the product depending on the species, plant and culture used.",
+    "generated_content": "I'd like to drill down a bit further. You mentioned that you're confident in your knowledge of the THC content and properties of the product. Can you explain the difference between a plant grown using hydroponics versus soil-based cultivation, and how that might impact the final product?",
+    "formatted_generation": "I'd like to drill down a bit further.  You mentioned that you're confident in your knowledge of the THC content and properties of the product.  Can you explain the difference between a plant grown using hydroponics versus soil-based cultivation, and how that might impact the final product?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "8f27bbc2-9e8d-4719-a40d-cc862c9b44ee",
+    "it": 6,
+    "runtimes": {
+        "reasoner_runtime": 0.29232263565063477,
+        "llama_runtime": 2.4350154399871826,
+        "total_runtime": 2.7273380756378174
+    }
+}

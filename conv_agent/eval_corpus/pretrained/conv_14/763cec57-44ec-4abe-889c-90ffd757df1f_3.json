@@ -1,0 +1,19 @@
+{
+    "prompt": "Unfortunately I do not have any formal education of any kind. I did not went to school. I mainly use youtube videos and AI to help me tend to my flowers and learn the different tips and tricks. But do not fret! I am interested in flowers since my very young age!",
+    "generated_content": "That's completely okay, and it's great that you've found alternative ways to learn and develop your skills through online resources. A passion for flowers from a young age is a wonderful foundation to build on. Can you tell me a bit more about your experience with tending to your daisies, and what you think are some of the most important things you've learned so far?",
+    "formatted_generation": "That's completely okay, and it's great that you've found alternative ways to learn and develop your skills through online resources.  A passion for flowers from a young age is a wonderful foundation to build on.  Can you tell me a bit more about your experience with tending to your daisies, and what you think are some of the most important things you've learned so far?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "763cec57-44ec-4abe-889c-90ffd757df1f",
+    "it": 3,
+    "runtimes": {
+        "reasoner_runtime": 0.3853752613067627,
+        "llama_runtime": 3.944732427597046,
+        "total_runtime": 4.330107688903809
+    }
+}

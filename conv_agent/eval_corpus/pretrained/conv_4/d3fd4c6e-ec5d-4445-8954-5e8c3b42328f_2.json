@@ -1,0 +1,19 @@
+{
+    "prompt": "Yeah man, don't worry. You good?",
+    "generated_content": "So, I'm good. To get started, can you tell me a bit about yourself and your background? What makes you a strong candidate for this role?",
+    "formatted_generation": "So, I'm good.  To get started, can you tell me a bit about yourself and your background?  What makes you a strong candidate for this role?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "d3fd4c6e-ec5d-4445-8954-5e8c3b42328f",
+    "it": 2,
+    "runtimes": {
+        "reasoner_runtime": 0.03804802894592285,
+        "llama_runtime": 1.4634051322937012,
+        "total_runtime": 1.501453161239624
+    }
+}

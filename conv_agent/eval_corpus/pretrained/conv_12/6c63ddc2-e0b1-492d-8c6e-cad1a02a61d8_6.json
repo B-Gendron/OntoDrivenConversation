@@ -1,0 +1,18 @@
+{
+    "prompt": "The difficult part was to be ready on time and with the expected quality of service. We made a combination of products from Metro Cash & Carry with our own made elements. The teacher did not even see it coming!",
+    "generated_content": "Let's break down the time management aspect. You mentioned using a combination of store-bought and made elements from Metro Cash & Carry. How did you decide which elements to buy and which to make from scratch, and what was your thought process behind that decision?",
+    "formatted_generation": "Let's break down the time management aspect.  You mentioned using a combination of store-bought and made elements from Metro Cash & Carry.  How did you decide which elements to buy and which to make from scratch, and what was your thought process behind that decision?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "6c63ddc2-e0b1-492d-8c6e-cad1a02a61d8",
+    "it": 6,
+    "runtimes": {
+        "reasoner_runtime": 0.4220240116119385,
+        "llama_runtime": 2.473259449005127,
+        "total_runtime": 2.8952834606170654
+    }
+}

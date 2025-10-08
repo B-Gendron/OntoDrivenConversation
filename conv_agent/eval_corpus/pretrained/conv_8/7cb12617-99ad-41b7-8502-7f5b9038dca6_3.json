@@ -1,0 +1,19 @@
+{
+    "prompt": "I have held a receptionist, or receptionist adjacent position, on three separate occasion. One in a hotel, one in a research laboratory, and one at a cinema (which was more of a sale, hospitality kind of role). I enjoy the contact with people and that I can direct them towards what they are trying to reach.",
+    "generated_content": "That's a diverse set of experiences, Gary. It sounds like you've had a good mix of customer-facing roles, which is great for a receptionist position. Can you tell me a bit more about your experience working in a research laboratory? What was your role, and how did you handle interacting with researchers and possibly sensitive information?",
+    "formatted_generation": "That's a diverse set of experiences, Gary.  It sounds like you've had a good mix of customer-facing roles, which is great for a receptionist position.  Can you tell me a bit more about your experience working in a research laboratory?  What was your role, and how did you handle interacting with researchers and possibly sensitive information?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "7cb12617-99ad-41b7-8502-7f5b9038dca6",
+    "it": 3,
+    "runtimes": {
+        "reasoner_runtime": 0.16359639167785645,
+        "llama_runtime": 2.6807010173797607,
+        "total_runtime": 2.844297409057617
+    }
+}

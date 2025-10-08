@@ -1,0 +1,20 @@
+{
+    "prompt": "I was very much a receptionist, which included in particular handling security. The biggest difficulties with researchers is that they have a high opinion of themselves, and that's not always great when telling them that they cannot enter somewhere because they don't have some papers.",
+    "generated_content": "It sounds like you had to deal with a bit of a challenging dynamic in the laboratory setting. Dealing with people who may have a high level of authority or expertise can be tough, especially when you need to enforce rules or protocols. How did you handle situations where you had to assert yourself and set boundaries with researchers who might have been resistant to your decisions?",
+    "formatted_generation": "It sounds like you had to deal with a bit of a challenging dynamic in the laboratory setting.  Dealing with people who may have a high level of authority or expertise can be tough, especially when you need to enforce rules or protocols.  How did you handle situations where you had to assert yourself and set boundaries with researchers who might have been resistant to your decisions?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "B2",
+        "positive",
+        "non_loaded"
+    ],
+    "id": "7cb12617-99ad-41b7-8502-7f5b9038dca6",
+    "it": 4,
+    "runtimes": {
+        "reasoner_runtime": 0.32225680351257324,
+        "llama_runtime": 3.0111613273620605,
+        "total_runtime": 3.333418130874634
+    }
+}

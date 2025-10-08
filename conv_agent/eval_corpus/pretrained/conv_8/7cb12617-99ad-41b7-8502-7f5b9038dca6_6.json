@@ -1,0 +1,18 @@
+{
+    "prompt": "That is correct. We had a database with information on the different level of access people had, and badges for authentification.",
+    "generated_content": "Now that we've established your experience with access control systems and databases, let's explore how you would troubleshoot an issue with the system. If the database is down and you can't verify someone's clearance using the usual method, what steps would you take to verify their access level and ensure they can enter the restricted area?",
+    "formatted_generation": "Now that we've established your experience with access control systems and databases, let's explore how you would troubleshoot an issue with the system.  If the database is down and you can't verify someone's clearance using the usual method, what steps would you take to verify their access level and ensure they can enter the restricted area?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "7cb12617-99ad-41b7-8502-7f5b9038dca6",
+    "it": 6,
+    "runtimes": {
+        "reasoner_runtime": 0.49172186851501465,
+        "llama_runtime": 2.8097081184387207,
+        "total_runtime": 3.3014299869537354
+    }
+}

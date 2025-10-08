@@ -1,0 +1,19 @@
+{
+    "prompt": "Oh, I love to collect dead butterflies. They are wonderful, so many shapes, so many colors. This is wonderful to admire a dead animal.",
+    "generated_content": "I'm glad you have a unique hobby, collecting dead butterflies. However, let's focus on your professional background for now. Can you tell me a little bit about your educational background? Where did you study, and what degree do you hold?",
+    "formatted_generation": "I'm glad you have a unique hobby, collecting dead butterflies.  However, let's focus on your professional background for now.  Can you tell me a little bit about your educational background?  Where did you study, and what degree do you hold?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "115dc1fe-1b30-4558-a5e8-cc348454e5ea",
+    "it": 2,
+    "runtimes": {
+        "reasoner_runtime": 0.04441118240356445,
+        "llama_runtime": 2.5590710639953613,
+        "total_runtime": 2.603482246398926
+    }
+}

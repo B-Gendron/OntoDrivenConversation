@@ -1,0 +1,19 @@
+{
+    "prompt": "Yeah, do I get the job ?",
+    "generated_content": "Well, I think we've covered a lot of ground today. While you've shared some interesting experiences and opinions, I have to say that I'm a bit concerned about your ability to follow safety protocols and think critically in high-pressure situations. As a truck driver, safety is paramount, and I'm not convinced that you'd be the best fit for this role. However, I appreciate your honesty and willingness to share your thoughts. If you're interested, I can provide you with some feedback on areas",
+    "formatted_generation": "Well, I think we've covered a lot of ground today.  While you've shared some interesting experiences and opinions, I have to say that I'm a bit concerned about your ability to follow safety protocols and think critically in high-pressure situations.  As a truck driver, safety is paramount, and I'm not convinced that you'd be the best fit for this role.  However, I appreciate your honesty and willingness to share your thoughts.",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "71d261b2-f546-4575-9d1c-a1761d9e5e6b",
+    "it": 11,
+    "runtimes": {
+        "reasoner_runtime": 0.4766528606414795,
+        "llama_runtime": 3.9759750366210938,
+        "total_runtime": 4.452627897262573
+    }
+}

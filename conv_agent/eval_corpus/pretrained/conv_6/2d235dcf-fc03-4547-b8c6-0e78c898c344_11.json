@@ -1,0 +1,19 @@
+{
+    "prompt": "How much will I be paid?",
+    "generated_content": "We're at the end of the interview, and I'm glad we could have this conversation. Unfortunately, we don't discuss salary during the interview process. If you were to join our team, you would receive a comprehensive compensation package that includes a salary, benefits, and other perks. If you're selected to move forward, you'll have the opportunity to discuss the details with our HR team. Thank you again for your time, and I wish you the best of luck in your job search!",
+    "formatted_generation": "We're at the end of the interview, and I'm glad we could have this conversation.  Unfortunately, we don't discuss salary during the interview process.  If you were to join our team, you would receive a comprehensive compensation package that includes a salary, benefits, and other perks.  If you're selected to move forward, you'll have the opportunity to discuss the details with our HR team.  Thank you again for your time, and I wish you the best of luck in your job search!",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "2d235dcf-fc03-4547-b8c6-0e78c898c344",
+    "it": 11,
+    "runtimes": {
+        "reasoner_runtime": 152.1345133781433,
+        "llama_runtime": 4.905348062515259,
+        "total_runtime": 157.03986144065857
+    }
+}

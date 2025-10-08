@@ -1,0 +1,18 @@
+{
+    "prompt": "I have mostly done food, but also some times gas. Gas is anoying, cause it smells and you have to be extra careful. My favorite is when I move beers.",
+    "generated_content": "That's interesting, you've had experience hauling food and gas, and you also mentioned beer. As a truck driver, safety is a top priority. Can you walk me through your process for handling hazardous materials like gas, and how you ensure you're following all the necessary safety protocols?",
+    "formatted_generation": "That's interesting, you've had experience hauling food and gas, and you also mentioned beer.  As a truck driver, safety is a top priority.  Can you walk me through your process for handling hazardous materials like gas, and how you ensure you're following all the necessary safety protocols?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "71d261b2-f546-4575-9d1c-a1761d9e5e6b",
+    "it": 5,
+    "runtimes": {
+        "reasoner_runtime": 0.1166677474975586,
+        "llama_runtime": 2.3974316120147705,
+        "total_runtime": 2.514099359512329
+    }
+}

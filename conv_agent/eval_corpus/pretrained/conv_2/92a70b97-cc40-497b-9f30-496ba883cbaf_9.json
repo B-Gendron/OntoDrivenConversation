@@ -1,0 +1,19 @@
+{
+    "prompt": "On Instagram and TikTok especially, quantity is way more important that quality. The algorithm is made like that.",
+    "generated_content": "I see your point, and it's true that the algorithms on Instagram and TikTok prioritize content that performs well in the short term. However, prioritizing quantity over quality can lead to a superficial engagement that doesn't translate to long-term loyalty or brand affinity. Don't you think that investing in high-quality content that resonates with the audience, even if it means posting less frequently, could lead to more meaningful connections and ultimately better results for the brand?",
+    "formatted_generation": "I see your point, and it's true that the algorithms on Instagram and TikTok prioritize content that performs well in the short term.  However, prioritizing quantity over quality can lead to a superficial engagement that doesn't translate to long-term loyalty or brand affinity.  Don't you think that investing in high-quality content that resonates with the audience, even if it means posting less frequently, could lead to more meaningful connections and ultimately better results for the brand?",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "negative",
+        "non_loaded"
+    ],
+    "id": "92a70b97-cc40-497b-9f30-496ba883cbaf",
+    "it": 9,
+    "runtimes": {
+        "reasoner_runtime": 39.14382719993591,
+        "llama_runtime": 4.136878967285156,
+        "total_runtime": 43.28070616722107
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "prompt": "Hello there! I'm here for the interview!",
+    "generated_content": "Great to meet you! How's your day going so far?",
+    "formatted_generation": "Great to meet you!  How's your day going so far?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "921d49f6-7730-46b5-8de2-1640d1af2426",
+    "it": 0,
+    "runtimes": {
+        "reasoner_runtime": 0.022878646850585938,
+        "llama_runtime": 1.030686378479004,
+        "total_runtime": 1.0535650253295898
+    }
+}

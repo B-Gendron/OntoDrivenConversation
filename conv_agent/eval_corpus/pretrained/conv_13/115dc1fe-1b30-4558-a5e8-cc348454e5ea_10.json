@@ -1,0 +1,19 @@
+{
+    "prompt": "This is simple: first we go on-site, then we continue the work remotely by accessing any type of services and softwares",
+    "generated_content": "I think that's a reasonable approach. Combining on-site analysis with remote work can be a great way to leverage the benefits of both. Let's wrap up our conversation. Do you have any final questions for me about the position or the company?",
+    "formatted_generation": "I think that's a reasonable approach.  Combining on-site analysis with remote work can be a great way to leverage the benefits of both.  Let's wrap up our conversation.  Do you have any final questions for me about the position or the company?",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "115dc1fe-1b30-4558-a5e8-cc348454e5ea",
+    "it": 10,
+    "runtimes": {
+        "reasoner_runtime": 0.9979267120361328,
+        "llama_runtime": 2.7655906677246094,
+        "total_runtime": 3.763517379760742
+    }
+}

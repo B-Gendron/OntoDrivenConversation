@@ -1,0 +1,20 @@
+{
+    "prompt": "I followed the crime scene courses and did a project on biology for which I, of course, used dead butterflies as the subject of my study !",
+    "generated_content": "That's interesting, using dead butterflies as a subject for your biology project. I'm sure it was a unique experience. Can you tell me about your professional experience prior to graduation? Do you have any internships or work experience in the field of forensic science that you'd like to share?",
+    "formatted_generation": "That's interesting, using dead butterflies as a subject for your biology project.  I'm sure it was a unique experience.  Can you tell me about your professional experience prior to graduation?  Do you have any internships or work experience in the field of forensic science that you'd like to share?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "B2",
+        "positive",
+        "non_loaded"
+    ],
+    "id": "115dc1fe-1b30-4558-a5e8-cc348454e5ea",
+    "it": 4,
+    "runtimes": {
+        "reasoner_runtime": 0.18358850479125977,
+        "llama_runtime": 3.048476457595825,
+        "total_runtime": 3.232064962387085
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "prompt": "Well, generally, I make it clear that this is not my decision. As a receptionist, I follow rules and protocols set by others. There is nothing emotional about this.",
+    "generated_content": "It's great that you're clear about your role and the protocols you're following. In a receptionist position, being able to communicate clearly and professionally, even in difficult situations, is crucial. Let's dive a bit deeper into your technical skills. In the laboratory, you mentioned handling security, which likely involved using access control systems or other software. Can you walk me through how you would handle a situation where the access control system is down, and you need to manually verify someone's clearance to enter",
+    "formatted_generation": "It's great that you're clear about your role and the protocols you're following.  In a receptionist position, being able to communicate clearly and professionally, even in difficult situations, is crucial.  Let's dive a bit deeper into your technical skills.  In the laboratory, you mentioned handling security, which likely involved using access control systems or other software.",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "7cb12617-99ad-41b7-8502-7f5b9038dca6",
+    "it": 5,
+    "runtimes": {
+        "reasoner_runtime": 0.4108262062072754,
+        "llama_runtime": 3.93501353263855,
+        "total_runtime": 4.345839738845825
+    }
+}

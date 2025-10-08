@@ -1,0 +1,19 @@
+{
+    "prompt": "Flowers are not to necessarily be purchased! You can find flowers at the side of the road while driving. It is even more wonderful!",
+    "generated_content": "It sounds like you're a bit of a free spirit when it comes to finding flowers! While foraging for wildflowers can be a fun and creative way to find unique blooms, it may not always be practical or safe. As a florist, you would need to consider the sourcing of flowers for your arrangements and ensure that you're using flowers that are sustainably and legally obtained.",
+    "formatted_generation": "It sounds like you're a bit of a free spirit when it comes to finding flowers!  While foraging for wildflowers can be a fun and creative way to find unique blooms, it may not always be practical or safe.  As a florist, you would need to consider the sourcing of flowers for your arrangements and ensure that you're using flowers that are sustainably and legally obtained.",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "763cec57-44ec-4abe-889c-90ffd757df1f",
+    "it": 10,
+    "runtimes": {
+        "reasoner_runtime": 59.231733083724976,
+        "llama_runtime": 3.9470794200897217,
+        "total_runtime": 63.1788125038147
+    }
+}

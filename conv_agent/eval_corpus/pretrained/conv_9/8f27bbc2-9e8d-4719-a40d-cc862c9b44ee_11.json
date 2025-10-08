@@ -1,0 +1,19 @@
+{
+    "prompt": "Yep. Would I get free samples ?",
+    "generated_content": "Ha ha, I wish I could provide you with free samples, Scott, but that's not something I can offer. However, I can assure you that we're always looking for talented individuals like yourself to join our team, and if you're selected, you'll have opportunities to learn more about our products and get familiar with them in a professional setting. Thank you again for your time today, and I'll be in touch soon to let you know the next steps.",
+    "formatted_generation": "Ha ha, I wish I could provide you with free samples, Scott, but that's not something I can offer.  However, I can assure you that we're always looking for talented individuals like yourself to join our team, and if you're selected, you'll have opportunities to learn more about our products and get familiar with them in a professional setting.  Thank you again for your time today, and I'll be in touch soon to let you know the next steps.",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "8f27bbc2-9e8d-4719-a40d-cc862c9b44ee",
+    "it": 11,
+    "runtimes": {
+        "reasoner_runtime": 1.4020111560821533,
+        "llama_runtime": 4.100472927093506,
+        "total_runtime": 5.502484083175659
+    }
+}

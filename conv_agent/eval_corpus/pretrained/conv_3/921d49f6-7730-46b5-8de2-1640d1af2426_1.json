@@ -1,0 +1,19 @@
+{
+    "prompt": "Great! And you?",
+    "generated_content": "It's going well, thanks for asking. Although I have to say, it's a lovely day outside today, isn't it?",
+    "formatted_generation": "It's going well, thanks for asking.  Although I have to say, it's a lovely day outside today, isn't it?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "921d49f6-7730-46b5-8de2-1640d1af2426",
+    "it": 1,
+    "runtimes": {
+        "reasoner_runtime": 0.052814483642578125,
+        "llama_runtime": 1.253481388092041,
+        "total_runtime": 1.3062958717346191
+    }
+}

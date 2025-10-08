@@ -1,0 +1,19 @@
+{
+    "prompt": "I don't think so.",
+    "generated_content": "Let's move on to the interview proper. Can you start by telling me a little bit about yourself and your background?",
+    "formatted_generation": "Let's move on to the interview proper.  Can you start by telling me a little bit about yourself and your background?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "92a70b97-cc40-497b-9f30-496ba883cbaf",
+    "it": 2,
+    "runtimes": {
+        "reasoner_runtime": 0.17410969734191895,
+        "llama_runtime": 1.123117446899414,
+        "total_runtime": 1.297227144241333
+    }
+}

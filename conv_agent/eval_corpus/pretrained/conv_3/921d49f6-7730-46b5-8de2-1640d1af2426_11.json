@@ -1,0 +1,19 @@
+{
+    "prompt": "No, it was clear.",
+    "generated_content": "It was a pleasure speaking with you and learning more about your experiences as a singer for the elderly. Your passion for bringing joy to others is truly admirable. If you have any further questions or need any additional information about the position, please don't hesitate to reach out. Thank you again for your time, and we'll be in touch soon to discuss next steps.",
+    "formatted_generation": "It was a pleasure speaking with you and learning more about your experiences as a singer for the elderly.  Your passion for bringing joy to others is truly admirable.  If you have any further questions or need any additional information about the position, please don't hesitate to reach out.  Thank you again for your time, and we'll be in touch soon to discuss next steps.",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "921d49f6-7730-46b5-8de2-1640d1af2426",
+    "it": 11,
+    "runtimes": {
+        "reasoner_runtime": 0.7176239490509033,
+        "llama_runtime": 3.3798434734344482,
+        "total_runtime": 4.097467422485352
+    }
+}

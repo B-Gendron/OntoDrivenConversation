@@ -1,0 +1,18 @@
+{
+    "prompt": "I worked on social media, like Instagram and TikTok",
+    "generated_content": "You've mentioned you worked with social media, specifically Instagram and TikTok. Let's dive deeper into your technical skills. Can you explain to me how you would approach creating a content strategy for a new product launch on Instagram, considering the platform's algorithm and audience engagement metrics?",
+    "formatted_generation": "You've mentioned you worked with social media, specifically Instagram and TikTok.  Let's dive deeper into your technical skills.  Can you explain to me how you would approach creating a content strategy for a new product launch on Instagram, considering the platform's algorithm and audience engagement metrics?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "92a70b97-cc40-497b-9f30-496ba883cbaf",
+    "it": 5,
+    "runtimes": {
+        "reasoner_runtime": 1.3517465591430664,
+        "llama_runtime": 2.4959747791290283,
+        "total_runtime": 3.8477213382720947
+    }
+}

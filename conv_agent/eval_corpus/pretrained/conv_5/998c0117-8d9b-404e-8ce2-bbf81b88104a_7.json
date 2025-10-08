@@ -1,0 +1,18 @@
+{
+    "prompt": "I use a digital one.",
+    "generated_content": "That's a good start. A digital multimeter is a fundamental tool for any mechanic. Can you walk me through how you would use the multimeter to measure the voltage of the oxygen sensor?",
+    "formatted_generation": "That's a good start.  A digital multimeter is a fundamental tool for any mechanic.  Can you walk me through how you would use the multimeter to measure the voltage of the oxygen sensor?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "998c0117-8d9b-404e-8ce2-bbf81b88104a",
+    "it": 7,
+    "runtimes": {
+        "reasoner_runtime": 0.5543549060821533,
+        "llama_runtime": 1.8798716068267822,
+        "total_runtime": 2.4342265129089355
+    }
+}

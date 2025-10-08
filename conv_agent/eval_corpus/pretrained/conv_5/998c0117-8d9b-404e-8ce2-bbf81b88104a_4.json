@@ -1,0 +1,20 @@
+{
+    "prompt": "I did everything: routine repairs, safety inspections, training for the young mechanics,...",
+    "generated_content": "It sounds like you had a very hands-on role at the previous garage. Training the younger mechanics must have helped you develop strong communication skills, which are essential for working with customers and colleagues. Can you tell me more about your experience with safety inspections? What kind of checks did you typically perform, and how did you ensure that all vehicles met safety standards?",
+    "formatted_generation": "It sounds like you had a very hands-on role at the previous garage.  Training the younger mechanics must have helped you develop strong communication skills, which are essential for working with customers and colleagues.  Can you tell me more about your experience with safety inspections?  What kind of checks did you typically perform, and how did you ensure that all vehicles met safety standards?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "B2",
+        "positive",
+        "non_loaded"
+    ],
+    "id": "998c0117-8d9b-404e-8ce2-bbf81b88104a",
+    "it": 4,
+    "runtimes": {
+        "reasoner_runtime": 0.15589499473571777,
+        "llama_runtime": 3.2030200958251953,
+        "total_runtime": 3.358915090560913
+    }
+}

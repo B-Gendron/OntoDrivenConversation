@@ -1,0 +1,19 @@
+{
+    "prompt": "A bit long - that's the issue with being too busy.",
+    "generated_content": "Let's take a moment to relax before we dive into the interview. Since we're here, let's get started with the formalities. Can you start by telling me a little about yourself, your background, and your professional experience?",
+    "formatted_generation": "Let's take a moment to relax before we dive into the interview.  Since we're here, let's get started with the formalities.  Can you start by telling me a little about yourself, your background, and your professional experience?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "4a57273a-dffa-434d-9b2d-1e71816a4a66",
+    "it": 2,
+    "runtimes": {
+        "reasoner_runtime": 0.08409857749938965,
+        "llama_runtime": 2.145587921142578,
+        "total_runtime": 2.2296864986419678
+    }
+}

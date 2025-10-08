@@ -1,0 +1,19 @@
+{
+    "prompt": "I dropped from school very early. But I have a lot of experience related to cars in many ways: I did some taxi driving in my former place, I also won a few Gokart races.",
+    "generated_content": "It's great that you have experience with cars, but I'd like to know a bit more about your work experience outside of driving. Can you tell me about any other jobs you've held or industries you've worked in? What were your responsibilities and what did you enjoy most about those roles?",
+    "formatted_generation": "It's great that you have experience with cars, but I'd like to know a bit more about your work experience outside of driving.  Can you tell me about any other jobs you've held or industries you've worked in?  What were your responsibilities and what did you enjoy most about those roles?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "2d235dcf-fc03-4547-b8c6-0e78c898c344",
+    "it": 3,
+    "runtimes": {
+        "reasoner_runtime": 0.14035701751708984,
+        "llama_runtime": 2.894275665283203,
+        "total_runtime": 3.034632682800293
+    }
+}

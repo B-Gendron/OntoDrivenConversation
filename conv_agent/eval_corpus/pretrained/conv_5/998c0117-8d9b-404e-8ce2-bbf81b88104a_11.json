@@ -1,0 +1,19 @@
+{
+    "prompt": "No, I'm fully convinced AI is garbage.",
+    "generated_content": "I understand your strong opinion on AI, and I appreciate your honesty. As we conclude the interview, I'd like to thank you for sharing your thoughts and experiences with me. You've provided some valuable insights, and I'm sure you'll be a strong candidate for the garage mechanic position. Do you have any final questions for me about the role or the company?",
+    "formatted_generation": "I understand your strong opinion on AI, and I appreciate your honesty.  As we conclude the interview, I'd like to thank you for sharing your thoughts and experiences with me.  You've provided some valuable insights, and I'm sure you'll be a strong candidate for the garage mechanic position.  Do you have any final questions for me about the role or the company?",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "998c0117-8d9b-404e-8ce2-bbf81b88104a",
+    "it": 11,
+    "runtimes": {
+        "reasoner_runtime": 1.0297691822052002,
+        "llama_runtime": 3.42726469039917,
+        "total_runtime": 4.45703387260437
+    }
+}

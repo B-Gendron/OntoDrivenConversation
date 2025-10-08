@@ -1,0 +1,19 @@
+{
+    "prompt": "Well, of course it could. But I'm also convinced that the benefits outweigh the risk, especially considering that recreational use is not such a big issue.",
+    "generated_content": "Let's wrap up the interview, Scott. I want to thank you for taking the time to speak with me today. You've provided some thoughtful answers and shown a good understanding of the therapeutic marijuana industry. Do you have any final questions for me?",
+    "formatted_generation": "Let's wrap up the interview, Scott.  I want to thank you for taking the time to speak with me today.  You've provided some thoughtful answers and shown a good understanding of the therapeutic marijuana industry.  Do you have any final questions for me?",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "8f27bbc2-9e8d-4719-a40d-cc862c9b44ee",
+    "it": 10,
+    "runtimes": {
+        "reasoner_runtime": 1.3517701625823975,
+        "llama_runtime": 2.303684711456299,
+        "total_runtime": 3.6554548740386963
+    }
+}

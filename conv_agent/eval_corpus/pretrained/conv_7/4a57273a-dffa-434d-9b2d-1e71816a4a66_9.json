@@ -1,0 +1,19 @@
+{
+    "prompt": "To be honest, the work at that bakery has nothing creative in it, that's why I want to change. Whatever can be automated already is, and the humans are just there for when things go wrong or for the tiny bits that are not worth automating. I don't think that's going to change much.",
+    "generated_content": "It sounds like you're quite critical of the current state of industrial baking, and you see automation as a natural progression of the industry. While you're right that automation can take over repetitive tasks, it's worth considering that even in industries with a high degree of automation, human workers still play a crucial role in areas like quality control, problem-solving, and decision-making.",
+    "formatted_generation": "It sounds like you're quite critical of the current state of industrial baking, and you see automation as a natural progression of the industry.  While you're right that automation can take over repetitive tasks, it's worth considering that even in industries with a high degree of automation, human workers still play a crucial role in areas like quality control, problem-solving, and decision-making.",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "negative",
+        "non_loaded"
+    ],
+    "id": "4a57273a-dffa-434d-9b2d-1e71816a4a66",
+    "it": 9,
+    "runtimes": {
+        "reasoner_runtime": 0.5699944496154785,
+        "llama_runtime": 3.053845167160034,
+        "total_runtime": 3.6238396167755127
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "prompt": "It has been pretty good I think, quite relaxed.*",
+    "generated_content": "That's great to hear, Scott! Relaxation is always a good thing. Do you have any fun plans for the weekend, or are you looking forward to unwinding after work?",
+    "formatted_generation": "That's great to hear, Scott!  Relaxation is always a good thing.  Do you have any fun plans for the weekend, or are you looking forward to unwinding after work?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "8f27bbc2-9e8d-4719-a40d-cc862c9b44ee",
+    "it": 1,
+    "runtimes": {
+        "reasoner_runtime": 0.07888984680175781,
+        "llama_runtime": 1.5848057270050049,
+        "total_runtime": 1.6636955738067627
+    }
+}

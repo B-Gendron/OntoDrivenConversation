@@ -1,0 +1,18 @@
+{
+    "prompt": "I have worked a lot in customer relations, especially for big traders. My role was to answer their questions regarding the products, show them new products and innovations, and set up deals. Then I would leave things to the logistics people.",
+    "generated_content": "\nYou've had experience with customer relations and product presentation, which is great for a sales role. Let's dive into a technical point: How would you approach a situation where a customer is asking about the THC content in a specific strain of therapeutic marijuana, and you need to provide a clear and accurate explanation of the product's properties?",
+    "formatted_generation": "You've had experience with customer relations and product presentation, which is great for a sales role.  Let's dive into a technical point: How would you approach a situation where a customer is asking about the THC content in a specific strain of therapeutic marijuana, and you need to provide a clear and accurate explanation of the product's properties?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "8f27bbc2-9e8d-4719-a40d-cc862c9b44ee",
+    "it": 5,
+    "runtimes": {
+        "reasoner_runtime": 0.27132105827331543,
+        "llama_runtime": 3.20330548286438,
+        "total_runtime": 3.4746265411376953
+    }
+}

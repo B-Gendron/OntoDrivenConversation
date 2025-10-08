@@ -1,0 +1,18 @@
+{
+    "prompt": "I did go through some food safety training, and industrial safety too. To be completely honest, those were not really useful and I would not say they were professional development.",
+    "generated_content": "Now that we've discussed your background, let's move on to the technical point. You mentioned earlier that baking is your passion, and you have experience working with industrial equipment. I'd like to ask a technical question: How would you troubleshoot a situation where the yeast dough is not rising as expected, despite using the same recipe and ingredients as usual?",
+    "formatted_generation": "Now that we've discussed your background, let's move on to the technical point.  You mentioned earlier that baking is your passion, and you have experience working with industrial equipment.  I'd like to ask a technical question: How would you troubleshoot a situation where the yeast dough is not rising as expected, despite using the same recipe and ingredients as usual?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "4a57273a-dffa-434d-9b2d-1e71816a4a66",
+    "it": 5,
+    "runtimes": {
+        "reasoner_runtime": 0.22328567504882812,
+        "llama_runtime": 3.240929365158081,
+        "total_runtime": 3.464215040206909
+    }
+}

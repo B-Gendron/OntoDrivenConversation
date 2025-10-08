@@ -1,0 +1,19 @@
+{
+    "prompt": "Usually I listen to the radio.",
+    "generated_content": "Now that we've had a chance to chat for a bit, let's get started with the interview. Before we move on, could you please tell me a bit about your background and how you think your education and experience make you a strong candidate for this position?",
+    "formatted_generation": "Now that we've had a chance to chat for a bit, let's get started with the interview.  Before we move on, could you please tell me a bit about your background and how you think your education and experience make you a strong candidate for this position?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "3842f860-74fe-4277-b245-60035ecad8c8",
+    "it": 2,
+    "runtimes": {
+        "reasoner_runtime": 0.333651065826416,
+        "llama_runtime": 2.3829922676086426,
+        "total_runtime": 2.7166433334350586
+    }
+}

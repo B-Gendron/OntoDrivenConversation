@@ -1,0 +1,19 @@
+{
+    "prompt": "I think the most important part is the flavor. But if I may, the quantity is also important. People come here to eat delicious food and to exit from the restaurant without having to buy another lunch elsewhere.",
+    "generated_content": "That's a pragmatic approach. However, some might argue that prioritizing quantity over presentation can make the dining experience feel less memorable and less Instagrammable. Do you think restaurants have a responsibility to cater to the expectations of social media, even if it means sacrificing some aspect of the dining experience?",
+    "formatted_generation": "That's a pragmatic approach.  However, some might argue that prioritizing quantity over presentation can make the dining experience feel less memorable and less Instagrammable.  Do you think restaurants have a responsibility to cater to the expectations of social media, even if it means sacrificing some aspect of the dining experience?",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "negative",
+        "loaded"
+    ],
+    "id": "6c63ddc2-e0b1-492d-8c6e-cad1a02a61d8",
+    "it": 9,
+    "runtimes": {
+        "reasoner_runtime": 0.543607234954834,
+        "llama_runtime": 2.8111047744750977,
+        "total_runtime": 3.3547120094299316
+    }
+}

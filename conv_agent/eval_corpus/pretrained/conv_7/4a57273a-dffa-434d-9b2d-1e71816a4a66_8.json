@@ -1,0 +1,19 @@
+{
+    "prompt": "Well, in this case, there is no having a quality product is the dough is not rising. So it is really about when you decide that it costs more to keep looking than to give up and move on.",
+    "generated_content": "Let's shift gears a bit. There's been a lot of debate about the impact of automation and artificial intelligence on traditional industries, including baking. Some argue that machines and algorithms can take over tasks that are repetitive or time-consuming, freeing up human bakers to focus on more creative and high-value work. Others worry that automation will displace human bakers and make their skills obsolete. Where do you stand on this issue?",
+    "formatted_generation": "Let's shift gears a bit.  There's been a lot of debate about the impact of automation and artificial intelligence on traditional industries, including baking.  Some argue that machines and algorithms can take over tasks that are repetitive or time-consuming, freeing up human bakers to focus on more creative and high-value work.  Others worry that automation will displace human bakers and make their skills obsolete.  Where do you stand on this issue?",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "negative",
+        "non_loaded"
+    ],
+    "id": "4a57273a-dffa-434d-9b2d-1e71816a4a66",
+    "it": 8,
+    "runtimes": {
+        "reasoner_runtime": 0.22514867782592773,
+        "llama_runtime": 3.463625192642212,
+        "total_runtime": 3.6887738704681396
+    }
+}

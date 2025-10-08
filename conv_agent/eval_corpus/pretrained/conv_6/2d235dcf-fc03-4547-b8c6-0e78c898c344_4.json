@@ -1,0 +1,19 @@
+{
+    "prompt": "Other than cars, I did not do anything. I only managed a repair station, that's all.",
+    "generated_content": "That's interesting. Managing a repair station requires a lot of organizational skills and attention to detail. What specific aspects of running a repair station did you enjoy the most? Was it the problem-solving, working with customers, or something else?",
+    "formatted_generation": "That's interesting.  Managing a repair station requires a lot of organizational skills and attention to detail.  What specific aspects of running a repair station did you enjoy the most?  Was it the problem-solving, working with customers, or something else?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "2d235dcf-fc03-4547-b8c6-0e78c898c344",
+    "it": 4,
+    "runtimes": {
+        "reasoner_runtime": 0.29274916648864746,
+        "llama_runtime": 2.3450124263763428,
+        "total_runtime": 2.6377615928649902
+    }
+}

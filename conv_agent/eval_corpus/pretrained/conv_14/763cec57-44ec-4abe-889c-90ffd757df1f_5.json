@@ -1,0 +1,18 @@
+{
+    "prompt": "Well, my experience sums up to my tiny garden. However, I think I have patience and, most importantly, I dig a lot of information from the internet content. I try to stay as tuned as possible with different types of flowers and needs. Of course, this could help my potential role s a florist, albeit I still need a bit more pratical knwoledge. I am aware of this, so please, hire me!",
+    "generated_content": " I'd like to assess your technical knowledge in a more specific area. Let's talk about bouquet design. If you were tasked with creating a bouquet for a wedding, how would you approach it, and what considerations would you take into account to create a beautiful and lasting arrangement?",
+    "formatted_generation": "I'd like to assess your technical knowledge in a more specific area.  Let's talk about bouquet design.  If you were tasked with creating a bouquet for a wedding, how would you approach it, and what considerations would you take into account to create a beautiful and lasting arrangement?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "763cec57-44ec-4abe-889c-90ffd757df1f",
+    "it": 5,
+    "runtimes": {
+        "reasoner_runtime": 1.7032008171081543,
+        "llama_runtime": 2.5133543014526367,
+        "total_runtime": 4.216555118560791
+    }
+}

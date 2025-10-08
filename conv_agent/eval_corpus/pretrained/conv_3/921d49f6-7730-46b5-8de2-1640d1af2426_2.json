@@ -1,0 +1,20 @@
+{
+    "prompt": "Exactly!",
+    "generated_content": "Let's move on to the purpose of today's conversation. Can you start by telling me a little bit about yourself, your background, and how you think your skills and experience make you a strong candidate for this position?",
+    "formatted_generation": "Let's move on to the purpose of today's conversation.  Can you start by telling me a little bit about yourself, your background, and how you think your skills and experience make you a strong candidate for this position?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "B2",
+        "positive",
+        "non_loaded"
+    ],
+    "id": "921d49f6-7730-46b5-8de2-1640d1af2426",
+    "it": 2,
+    "runtimes": {
+        "reasoner_runtime": 0.1484544277191162,
+        "llama_runtime": 2.003288984298706,
+        "total_runtime": 2.1517434120178223
+    }
+}

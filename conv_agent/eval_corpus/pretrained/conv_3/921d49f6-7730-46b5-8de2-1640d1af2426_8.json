@@ -1,0 +1,19 @@
+{
+    "prompt": "I usually chose classical, well known, simple songs. People are usually happy to recognize the song, and especially for the eldery it triggers some memories, which is a very good thing to help them maintain their cognitive abilities. I then chose my songs depending on the live reactions of the audience.",
+    "generated_content": "That's a thoughtful approach to selecting songs for your performances. By choosing familiar and simple classics, you're creating a sense of comfort and connection with your audience. It's also interesting that you adapt your setlist in real-time based on the audience's reactions. This ability to read the room and adjust your performance accordingly can be a valuable skill in any profession, not just music.\n\nLet's switch gears a bit and discuss a more complex topic. What are your thoughts on the impact of technology on the",
+    "formatted_generation": "That's a thoughtful approach to selecting songs for your performances.  By choosing familiar and simple classics, you're creating a sense of comfort and connection with your audience.  It's also interesting that you adapt your setlist in real-time based on the audience's reactions.  This ability to read the room and adjust your performance accordingly can be a valuable skill in any profession, not just music. \n\nLet's switch gears a bit and discuss a more complex topic.",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "negative",
+        "loaded"
+    ],
+    "id": "921d49f6-7730-46b5-8de2-1640d1af2426",
+    "it": 8,
+    "runtimes": {
+        "reasoner_runtime": 0.20757126808166504,
+        "llama_runtime": 4.46602988243103,
+        "total_runtime": 4.673601150512695
+    }
+}

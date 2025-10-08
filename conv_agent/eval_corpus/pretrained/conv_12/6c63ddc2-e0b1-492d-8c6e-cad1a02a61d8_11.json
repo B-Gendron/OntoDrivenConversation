@@ -1,0 +1,19 @@
+{
+    "prompt": "Yes, do you mind if I start by suggesting new dishes?",
+    "generated_content": "We'd love to hear your ideas! In fact, we're always looking for new and innovative dishes to add to our menu. If you were to join our team as executive chef, we'd definitely encourage you to bring your creativity to the table and suggest new dishes to our culinary team.",
+    "formatted_generation": "We'd love to hear your ideas!  In fact, we're always looking for new and innovative dishes to add to our menu.  If you were to join our team as executive chef, we'd definitely encourage you to bring your creativity to the table and suggest new dishes to our culinary team.",
+    "current_phase": [
+        "phase5"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "6c63ddc2-e0b1-492d-8c6e-cad1a02a61d8",
+    "it": 11,
+    "runtimes": {
+        "reasoner_runtime": 0.9780886173248291,
+        "llama_runtime": 2.8844149112701416,
+        "total_runtime": 3.8625035285949707
+    }
+}

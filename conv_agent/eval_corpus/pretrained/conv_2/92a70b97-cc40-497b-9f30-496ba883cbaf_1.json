@@ -1,0 +1,19 @@
+{
+    "prompt": "Good, what about you?",
+    "generated_content": "I'm doing well, thanks. It's a beautiful day out, isn't it? The weather's been really nice lately, hasn't it?",
+    "formatted_generation": "I'm doing well, thanks.  It's a beautiful day out, isn't it?  The weather's been really nice lately, hasn't it?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "92a70b97-cc40-497b-9f30-496ba883cbaf",
+    "it": 1,
+    "runtimes": {
+        "reasoner_runtime": 0.05278348922729492,
+        "llama_runtime": 1.382936954498291,
+        "total_runtime": 1.435720443725586
+    }
+}

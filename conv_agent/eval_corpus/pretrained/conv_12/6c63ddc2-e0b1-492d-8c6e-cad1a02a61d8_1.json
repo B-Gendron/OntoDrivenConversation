@@ -1,0 +1,19 @@
+{
+    "prompt": "I had to wake up early, as always. do not worry, I can be at work very early in the morning to prepare the restaurant",
+    "generated_content": "That's great to hear that you're a morning person! I'm sure it'll be helpful for our kitchen staff. How do you like to start your day, do you have any favorite morning routines or rituals?",
+    "formatted_generation": "That's great to hear that you're a morning person!  I'm sure it'll be helpful for our kitchen staff.  How do you like to start your day, do you have any favorite morning routines or rituals?",
+    "current_phase": [
+        "phase1"
+    ],
+    "next_characteristics": [
+        "non_loaded",
+        "neutral"
+    ],
+    "id": "6c63ddc2-e0b1-492d-8c6e-cad1a02a61d8",
+    "it": 1,
+    "runtimes": {
+        "reasoner_runtime": 0.044728994369506836,
+        "llama_runtime": 2.0734546184539795,
+        "total_runtime": 2.1181836128234863
+    }
+}

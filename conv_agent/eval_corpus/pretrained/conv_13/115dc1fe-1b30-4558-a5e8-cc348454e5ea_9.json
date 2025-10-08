@@ -1,0 +1,19 @@
+{
+    "prompt": "Remote work should be ban for this job. We need to be on-site, to admire... I mean to analyze the crime scene by ourselves!",
+    "generated_content": "That's an interesting perspective. You're advocating for a traditional on-site approach to forensic analysis, which can be beneficial for hands-on experience and scene reconstruction. However, some argue that remote work can provide access to a wider range of cases and expertise from other locations, which can be valuable in complex investigations. How do you think the forensic field can strike a balance between the benefits of on-site analysis and the potential advantages of remote work?",
+    "formatted_generation": "That's an interesting perspective.  You're advocating for a traditional on-site approach to forensic analysis, which can be beneficial for hands-on experience and scene reconstruction.  However, some argue that remote work can provide access to a wider range of cases and expertise from other locations, which can be valuable in complex investigations.  How do you think the forensic field can strike a balance between the benefits of on-site analysis and the potential advantages of remote work?",
+    "current_phase": [
+        "phase4"
+    ],
+    "next_characteristics": [
+        "negative",
+        "non_loaded"
+    ],
+    "id": "115dc1fe-1b30-4558-a5e8-cc348454e5ea",
+    "it": 9,
+    "runtimes": {
+        "reasoner_runtime": 0.5049588680267334,
+        "llama_runtime": 4.546307325363159,
+        "total_runtime": 5.051266193389893
+    }
+}

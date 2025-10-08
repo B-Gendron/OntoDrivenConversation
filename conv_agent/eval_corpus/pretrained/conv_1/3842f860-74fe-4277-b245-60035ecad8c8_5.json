@@ -1,0 +1,18 @@
+{
+    "prompt": "Sure, once I had a guy who basically refused to pay, and try to fight with the security guard...",
+    "generated_content": "That must have been a stressful situation. How did you manage to stay calm and resolve the issue?",
+    "formatted_generation": "That must have been a stressful situation.  How did you manage to stay calm and resolve the issue?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "3842f860-74fe-4277-b245-60035ecad8c8",
+    "it": 5,
+    "runtimes": {
+        "reasoner_runtime": 3.1643571853637695,
+        "llama_runtime": 0.9952681064605713,
+        "total_runtime": 4.159625291824341
+    }
+}

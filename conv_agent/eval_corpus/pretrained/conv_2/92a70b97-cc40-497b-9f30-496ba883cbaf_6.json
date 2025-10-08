@@ -1,0 +1,18 @@
+{
+    "prompt": "I follow a lot of influencers, I analyse their publication strategy, and I try to reproduce the same.",
+    "generated_content": "That's an interesting approach, but it might not be the most effective strategy in the long run. Replicating someone else's strategy without understanding the underlying mechanics can be superficial. How do you think you could adapt this strategy to a product launch, considering the unique features and goals of the product, and what metrics would you use to measure its success?",
+    "formatted_generation": "That's an interesting approach, but it might not be the most effective strategy in the long run.  Replicating someone else's strategy without understanding the underlying mechanics can be superficial.  How do you think you could adapt this strategy to a product launch, considering the unique features and goals of the product, and what metrics would you use to measure its success?",
+    "current_phase": [
+        "phase3"
+    ],
+    "next_characteristics": [
+        "non_loaded"
+    ],
+    "id": "92a70b97-cc40-497b-9f30-496ba883cbaf",
+    "it": 6,
+    "runtimes": {
+        "reasoner_runtime": 3.112483501434326,
+        "llama_runtime": 3.206590414047241,
+        "total_runtime": 6.319073915481567
+    }
+}

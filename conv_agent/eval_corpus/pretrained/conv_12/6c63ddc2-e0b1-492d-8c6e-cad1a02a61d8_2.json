@@ -1,0 +1,20 @@
+{
+    "prompt": "Usually, I try to innovate every morning by creating yet another savoury breakfast!",
+    "generated_content": "I'm intrigued! It sounds like you're a creative person who enjoys experimenting with new recipes. Can you tell me a bit more about your culinary background and how you got into cooking?",
+    "formatted_generation": "I'm intrigued!  It sounds like you're a creative person who enjoys experimenting with new recipes.  Can you tell me a bit more about your culinary background and how you got into cooking?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "B2",
+        "positive",
+        "non_loaded"
+    ],
+    "id": "6c63ddc2-e0b1-492d-8c6e-cad1a02a61d8",
+    "it": 2,
+    "runtimes": {
+        "reasoner_runtime": 0.133284330368042,
+        "llama_runtime": 1.7503151893615723,
+        "total_runtime": 1.8835995197296143
+    }
+}

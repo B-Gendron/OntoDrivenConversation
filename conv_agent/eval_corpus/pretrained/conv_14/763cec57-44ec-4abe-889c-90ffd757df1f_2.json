@@ -1,0 +1,19 @@
+{
+    "prompt": "I would love to have a variety of flowers. Unfortunately, my garden is very tiny, thus I only have daisies at the moment.",
+    "generated_content": "That's completely understandable! A small garden can still be a great place to grow a variety of flowers, and daisies are a wonderful choice to start with. What made you interested in becoming a florist, and do you have any formal education or experience in horticulture or a related field?",
+    "formatted_generation": "That's completely understandable!  A small garden can still be a great place to grow a variety of flowers, and daisies are a wonderful choice to start with.  What made you interested in becoming a florist, and do you have any formal education or experience in horticulture or a related field?",
+    "current_phase": [
+        "phase2"
+    ],
+    "next_characteristics": [
+        "positive",
+        "non_loaded"
+    ],
+    "id": "763cec57-44ec-4abe-889c-90ffd757df1f",
+    "it": 2,
+    "runtimes": {
+        "reasoner_runtime": 0.1495201587677002,
+        "llama_runtime": 3.186269760131836,
+        "total_runtime": 3.335789918899536
+    }
+}
