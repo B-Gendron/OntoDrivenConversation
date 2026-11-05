@@ -26,13 +26,13 @@ The repository is organized as follows, containing five sub-folders:
 ├─── model_cefr
 │   ├─── code
 │   ├─── data
-|   ├─── models
+│   ├─── models
 │   ├─── plots
 │   └─── resources
 ├─── models_load_polarity
 │   ├─── code
 │   └─── logs
-├─── models_load_polarity
+├─── onto_processing
 │   ├─── code
 │   ├─── rdf
 │   └─── resources
@@ -49,21 +49,21 @@ It also contains, in the `eval_corpus` folder, the 15 conversations evaluated by
 - `prompt` and `generated_content`: the user input and agent response 
 - `current_phase`: detected current phase of the conversation
 - `next_characteristics`: expected descriptor values
-- `user_utt_features`**: linguistic features of the user utterance (useful for CEFR level prediction)
+- `user_utt_features`: linguistic features of the user utterance (useful for CEFR level prediction)
 - `id`: unique identifier of the conversation  
 - `runtimes`: reasoning time of pellet reasoner and inference time of the language model
 
 ### `grpo_finetuning`
 
-This subfolders contains the code to run GRPO fine-tuning on LLMs and evaluate the generation control according to the descriptor values. See the section below "Run GRPO fine-tuning" for the instructions to run the code.
+This subfolder contains the code to run GRPO fine-tuning on LLMs and evaluate the generation control according to the descriptor values. See the section below "Run GRPO fine-tuning" for the instructions to run the code.
 
 ### `onto_processing`
 
-This subfolders contains the ontologies and (normally, when enough space) the auxiliary models to evaluate the descriptor values on the textual content and incorporate this information in the ontology. It is used only for the GRPO fine-tuning part. For the conversational agent the ontology in processed in the same folder. Each utterance is seen as an ontology individual. For that, we use the `owlready2` python library that allows to create an ontology and call reasoners to perform inference on it. This part of the code is crucial as it allows to retrieve the inferred concepts that will then be used to annotate fine-tuning data, to evaluate generated content and to guide the implementation of conversational strategies in the language model.
+This subfolder contains the ontologies and (normally, when enough space) the auxiliary models to evaluate the descriptor values on the textual content and incorporate this information in the ontology. It is used only for the GRPO fine-tuning part. For the conversational agent, the ontology is processed in the same folder. Each utterance is seen as an ontology individual. For that, we use the `owlready2` python library that allows to create an ontology and call reasoners to perform inference on it. This part of the code is crucial as it allows to retrieve the inferred concepts that will then be used to annotate fine-tuning data, to evaluate generated content and to guide the implementation of conversational strategies in the language model.
 
 ### `model_cefr`
 
-This subfolder contains all the utils to train the decision tree classifier that classifies texts in their right Proficiency CEFR levels (A1, A2, B1, B2, C1, C2). The fitted decision tree that we used for further evaluation is stored in `models/best_clf.pkl`. The decision tree training script is `decision_tree.py`. In order to compare this classifier to some upper bounds, we tried to fit a Llama model (with a classification head) on the same task, in `llama_upper_bound.py`. Additionally, as we have a dataset provided with two expert annotations for each data sample, we compute the inter-annotator agreeement score in `annotators_upper_bound.py`.
+This subfolder contains all the utils to train the decision tree classifier that classifies texts in their right Proficiency CEFR levels (A1, A2, B1, B2, C1, C2). The fitted decision tree that we used for further evaluation is stored in `models/best_clf.pkl`. The decision tree training script is `decision_tree.py`. In order to compare this classifier to some upper bounds, we tried to fit a Llama model (with a classification head) on the same task, in `llama_upper_bound.py`. Additionally, as we have a dataset provided with two expert annotations for each data sample, we compute the inter-annotator agreement score in `annotators_upper_bound.py`.
 
 ### `models_load_polarity` 
 
@@ -72,7 +72,7 @@ This subfolder contains the code to fine-tune RoBERTa-based models on load and p
 <a name="quickstart"></a>
 ## Setup guide
 
-Start be setting up all the required models and python modules to run the code:
+Start by setting up all the required models and python modules to run the code:
 ```bash
 cd OntoDrivenConversation
 python3 -m venv interview_strat
@@ -83,7 +83,7 @@ pip3 install -r requirements.txt
 python3 -m spacy download en_core_web_sm
 ```
 
-The following subsections give examples of how to run the code for fine-tuning and evaluation, providing we have all the necessary data and auxiliary models aleardy fitted.
+The following subsections give examples of how to run the code for fine-tuning and evaluation, provided that we have all the necessary data and auxiliary models already fitted.
 
 ### Engage a conversation with the agent
 
@@ -101,14 +101,15 @@ User >
 
 To run GRPO fine-tuning, use the script `grpo_finetuning/code/run_grpo.sh` along with an experiment name. Set the model to fine-tune using a valid HuggingFace path here:
 ```bash
---model_name "Qwen/Qwen2.5-7B-Instruct" \"
+--model_name "Qwen/Qwen2.5-7B-Instruct" \
 ```
 In the paper, the HuggingFace paths we used are the following:
 - `meta-llama/Llama-3.1-8B-Instruct`
 - `Qwen/Qwen2.5-7B-Instruct`
-Please note that in order to access to the models from HuggingFace, you might need to ask for access credentials from a HuggingFace account and wait for the approval of the provider (Meta for Llama, Alibaba Cloud for Qwen). 
 
-After GRPO training, you can evaluate the quality of the generation control by running the evaluation script `grpo_finetuning/code/evaluation_multicontrol.py`. At the end of the evaluation steps, it will display classification reports and confusion matrices for each descriptor in the log file and store the classification metrics in a json file in the `grpo_fintuning/metrics/` folder.
+Please note that in order to access the models from HuggingFace, you might need to ask for access credentials from a HuggingFace account and wait for the approval of the provider (Meta for Llama, Alibaba Cloud for Qwen). 
+
+After GRPO training, you can evaluate the quality of the generation control by running the evaluation script `grpo_finetuning/code/evaluation_multicontrol.py`. At the end of the evaluation steps, it will display classification reports and confusion matrices for each descriptor in the log file and store the classification metrics in a json file in the `grpo_finetuning/metrics/` folder.
 
 In the main part of the script, put a consistent combination of pre-trained model and trained adapters obtained through GRPO fine-tuning. For instance:
 ```python
