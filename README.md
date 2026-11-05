@@ -1,11 +1,12 @@
 # Ontology-Driven Control of Conversational Agents with a Use-Case for Job Interview Practice
 
-This repository is dedicated to ESWC 2026 reviewing commity for the paper "Ontology-Driven Control of Conversational Agents with a Use-Case for Job Interview Practice". It gathers the scripts and objects that has been developed and used by the author as part of this work. As mentioned in the paper, we provide the ontology as well as the datasets used from the different training phases (if they are not directly provided, the link to the HuggingFace repository is provided in the source code). We also provide the adapter models that results of our fine-tuning procedure. However, we could not provide the predictors for the emotional load and the emotion polarity as they exceed GitHub's file size limit of 100.00 MB. We apologize for the inconvenience and tried to put as much of the useful material as possible in the repository.
+This repository accompanies the paper "Ontology-Driven Control of Conversational Agents with a Use-Case for Job Interview Practice". It gathers the scripts and objects that have been developed and used by the authors as part of this work. As mentioned in the paper, we provide the ontology as well as the datasets used for the different training phases (if they are not directly provided, the link to the HuggingFace repository is provided in the source code). We also provide the adapter models resulting from our fine-tuning procedure. However, we could not provide the predictors for the emotional load and the emotion polarity as they exceed GitHub's file size limit of 100.00 MB. We apologize for the inconvenience and tried to put as much of the useful material as possible in the repository.
 
 ## Table of Contents
 
 - [Content overview](#contents)
 - [Setup guide](#quickstart)
+- [Citation](#citation)
 
 <a name="contents"></a>
 ## Content overview
@@ -113,4 +114,19 @@ In the main part of the script, put a consistent combination of pre-trained mode
 ```python
 model_name = "Qwen/Qwen2.5-7B-Instruct"
 adapter_model_name = "./checkpoints/grpo_multicontrol_qwen2.5/checkpoint-200" # put the right checkpoint id here
+```
+
+<a name="citation"></a>
+## Citation
+
+If you use this work, please cite the preprint:
+
+```bibtex
+@misc{gendron2026ontology,
+  title        = {Ontology-Driven Control of Conversational Agents with a Use-Case for Job Interview Practice},
+  author       = {Gendron, Barbara and Guibon, Ga{\"e}l and d'Aquin, Mathieu},
+  year         = {2026},
+  note         = {Preprint},
+  howpublished = {Preprint}
+}
 ```
